@@ -7,6 +7,7 @@ I'm **Jade (玉) Zhao** — a full-stack developer, UX designer, and someone who
 [![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadewowgreen@outlook.com)
 
 ## A little about me
+
 - 🦆 Saving up for my dream duck farm with endless matcha lattes
 - 🎹 Love playing piano and getting lost in classical music
 - 📚 Huge fan of classic literature (Pride & Prejudice is my comfort read)
@@ -17,21 +18,21 @@ I'm **Jade (玉) Zhao** — a full-stack developer, UX designer, and someone who
 
 ## What I've been up to
 
-**UX Design Intern** @ Stealth Startup (Jun 2024 – Dec 2025)  
+**UX Design Intern** @ Stealth Startup (Jun 2024 – Dec 2025)
 Got to dive deep into user research and testing with a great group of participants. We worked together on some feature ideas that really helped boost engagement. Love building user flows and prototypes in Figma for both mobile and web!
 
-**Digital Marketing Manager** @ Benyue (Jan 2024 – May 2024)  
+**Digital Marketing Manager** @ Benyue (Jan 2024 – May 2024)
 Team effort to improve the ordering system through user conversations and mapping out experiences. We made checkout smoother and saw some nice improvements on mobile. Got to help create a design system everyone could use easily.
 
-**Full Stack Developer** @ New Pal Coffee Shop (May 2023 – Dec 2023)  
+**Full Stack Developer** @ New Pal Coffee Shop (May 2023 – Dec 2023)
 Built a responsive e-commerce site using React and Node.js that made ordering way easier for customers. Integrated payments and helped automate a lot of the manual work. So rewarding to see it help real people every day!
 
 ## Projects I'm excited about
 
-**Community-Centered UX Design** (Honors Thesis)  
+**Community-Centered UX Design** (Honors Thesis)
 Working with local businesses to make digital spaces more accessible for everyone. We're doing interviews, testing, and workshops together to create solutions that actually help people. Learning so much about equity and collaboration!
 
-**UX Consulting Methodology** (Capstone Project)  
+**UX Consulting Methodology** (Capstone Project)
 Developed a simple toolkit to help small businesses think through their user experience. Created templates and guidelines that other entrepreneurs can use. Got to facilitate at the IU Leadership Conference — such a fun experience!
 
 ## Skills I'm building
@@ -41,12 +42,14 @@ Developed a simple toolkit to help small businesses think through their user exp
 **UX & Backend:** User Research, Accessibility (WCAG 2.1), Node.js, PostgreSQL, D3.js
 
 ## What I'm working on right now
+
 - 🔭 Exploring UX research for health-tech projects
 - 🌱 Getting better at React, Tailwind, and Figma every day
 - 👯 Always up for teaming up on accessible web projects or ethical AI ideas
 - 📫 Say hi: [jadewowgreen@outlook.com](mailto:jadewowgreen@outlook.com) or [DM me on LinkedIn](https://www.linkedin.com/in/jadewowgreen)
 
 ## Fun fact
+
 I tried teaching my jade plant chess once. It didn't go well, but we're still friends. (I think it's holding a grudge though!)
 
 ---
