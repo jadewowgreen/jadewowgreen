@@ -1,61 +1,53 @@
 # Hi there 👋
 
-I'm **Jade (玉) Zhao** — full-stack developer, UX designer, and aspiring duck farm owner 🦆🍵
+I'm **Jade (玉) Zhao** — a full-stack developer, UX designer, and someone who's really passionate about creating digital experiences that feel human and helpful. I'm currently studying Informatics at Indiana University Bloomington (graduating 2027) with a focus on Human-Computer Interaction and web development. I'm grateful to be a Hudson & Holland Scholar and have made the Dean's List a few times — it means a lot to me!
 
-Currently studying **Informatics** at Indiana University Bloomington (Class of 2027) with a focus on Human-Computer Interaction and Web Development. **Hudson & Holland Scholar** (full-ride merit) and Dean's List recipient. I build accessible, human-centered digital experiences and love turning user needs into clean code.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B46C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadewowgreen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://jadewowgreen.github.io)
+[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadewowgreen@outlook.com)
 
 ## A little about me
-- 🦆 Dreaming of a peaceful duck farm with unlimited matcha
-- 🎹 Piano player & classical music lover
-- 📚 Classic literature enthusiast (Pride & Prejudice forever)
-- 🪴 Jade plant parent (they're thriving)
-- ♟️ Chess nerd
-- 🌸 Flower arranging & matcha tea rituals
-- 📍 Based in Indianapolis, IN
+- 🦆 Saving up for my dream duck farm with endless matcha lattes
+- 🎹 Love playing piano and getting lost in classical music
+- 📚 Huge fan of classic literature (Pride & Prejudice is my comfort read)
+- 🪴 Proud parent to several thriving jade plants
+- ♟️ Chess enthusiast who enjoys a good strategy game
+- 🌸 Flower arranging and matcha tea rituals keep me grounded
+- 📍 Happily based in Indianapolis, IN
 
-## Experience
+## What I've been up to
 
-**UX Design Intern** @ Stealth Startup (Jun 2024 – Dec 2025)
-- Executed user research and usability testing with **50+ participants**
-- Spearheaded 3 major feature pivots increasing engagement by **40%**
-- Architected end-to-end user flows and high-fidelity prototypes in Figma for mobile and web
+**UX Design Intern** @ Stealth Startup (Jun 2024 – Dec 2025)  
+Got to dive deep into user research and testing with a great group of participants. We worked together on some feature ideas that really helped boost engagement. Love building user flows and prototypes in Figma for both mobile and web!
 
-**Digital Marketing Manager** @ Benyue (Jan 2024 – May 2024)
-- Transformed digital ordering system through user interviews and journey mapping
-- Reduced checkout time by **35%** and increased mobile conversions by **28%**
-- Established marketing-aligned design system and component library in Figma
+**Digital Marketing Manager** @ Benyue (Jan 2024 – May 2024)  
+Team effort to improve the ordering system through user conversations and mapping out experiences. We made checkout smoother and saw some nice improvements on mobile. Got to help create a design system everyone could use easily.
 
-**Full Stack Developer** @ New Pal Coffee Shop (May 2023 – Dec 2023)
-- Architected responsive e-commerce platform with React and Node.js
-- Processed **200+ weekly orders** and integrated Square payment API
-- Reduced manual processing by **60%** through automation
+**Full Stack Developer** @ New Pal Coffee Shop (May 2023 – Dec 2023)  
+Built a responsive e-commerce site using React and Node.js that made ordering way easier for customers. Integrated payments and helped automate a lot of the manual work. So rewarding to see it help real people every day!
 
-## Projects
+## Projects I'm excited about
 
-**Community-Centered UX Design** (Honors Thesis)
-- Leading participatory research with local businesses to address digital accessibility barriers
-- Creating inclusive solutions through collaborative design workshops
-- 15+ interviews • Usability testing • Equity framework
+**Community-Centered UX Design** (Honors Thesis)  
+Working with local businesses to make digital spaces more accessible for everyone. We're doing interviews, testing, and workshops together to create solutions that actually help people. Learning so much about equity and collaboration!
 
-**UX Consulting Methodology** (Capstone Project)
-- Established scalable UX consulting methodology for micro-businesses
-- Built UX consulting toolkit with templates and guidelines
-- 8 entrepreneurs • IU Leadership Conference (Co-Facilitator)
+**UX Consulting Methodology** (Capstone Project)  
+Developed a simple toolkit to help small businesses think through their user experience. Created templates and guidelines that other entrepreneurs can use. Got to facilitate at the IU Leadership Conference — such a fun experience!
 
-## Skills
+## Skills I'm building
 
 **Frontend & Design:** HTML5, CSS3, JavaScript, React, Tailwind, Figma
 
 **UX & Backend:** User Research, Accessibility (WCAG 2.1), Node.js, PostgreSQL, D3.js
 
 ## What I'm working on right now
-- 🔭 UX research & prototyping for health-tech tools
-- 🌱 Deepening frontend skills (React, Tailwind, Figma)
-- 👯 Open to collaborating on accessible web projects or ethical AI tools
-- 📫 Reach me: [jadewowgreen@outlook.com](mailto:jadewowgreen@outlook.com) or [DM me on LinkedIn](https://www.linkedin.com/in/jadewowgreen)
+- 🔭 Exploring UX research for health-tech projects
+- 🌱 Getting better at React, Tailwind, and Figma every day
+- 👯 Always up for teaming up on accessible web projects or ethical AI ideas
+- 📫 Say hi: [jadewowgreen@outlook.com](mailto:jadewowgreen@outlook.com) or [DM me on LinkedIn](https://www.linkedin.com/in/jadewowgreen)
 
 ## Fun fact
-I once tried to teach my jade plant chess. It lost. (It's still salty about it.)
+I tried teaching my jade plant chess once. It didn't go well, but we're still friends. (I think it's holding a grudge though!)
 
 ---
 
