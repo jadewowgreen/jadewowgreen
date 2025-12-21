@@ -103,7 +103,7 @@ I tried teaching my jade plant chess once. It didn't go well, but we're still fr
 
 ---
 
-## 💬 Let's chat!
+## 💬 Let's chat
 
 ### ☕ Coffee/Tea Chat
 
@@ -133,12 +133,8 @@ I believe in sharing what I learn! Always happy to discuss my journey, mistakes,
 
 ---
 
-<div align="center">
-
-### 🫖 Check out my [resume](https://jlzhao.pages.iu.edu/resume.pdf) or visit my [portfolio](https://jadewowgreen.github.io)!
+### 🫖 Check out my [resume](https://jlzhao.pages.iu.edu/resume.pdf) or visit my [portfolio](https://jadewowgreen.github.io)
 
 ✨ **Let's build something beautiful together** ✨
 
-*Currently accepting virtual matcha chats and collaboration opportunities*
-
-</div>
+Currently accepting virtual matcha chats and collaboration opportunities
