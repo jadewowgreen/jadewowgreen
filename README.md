@@ -2,9 +2,9 @@
 
 I'm **Jade (玉) Zhao** — a full-stack developer, UX designer, and someone who's really passionate about creating digital experiences that feel human and helpful. I'm currently studying Informatics at Indiana University Bloomington (graduating 2027) with a focus on Human-Computer Interaction and web development. I'm grateful to be a Hudson & Holland Scholar and have made the Dean's List a few times — it means a lot to me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B46C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadewowgreen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://jadewowgreen.github.io)
-[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadewowgreen@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A8C686?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadewowgreen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7A9B5A?style=for-the-badge&logo=github&logoColor=white)](https://jadewowgreen.github.io)
+[![Email](https://img.shields.io/badge/Email-C5D86D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadewowgreen@outlook.com)
 
 ## A little about me
 
