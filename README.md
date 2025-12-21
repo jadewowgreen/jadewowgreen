@@ -58,17 +58,17 @@ Currently: Part-time UX Design Intern driving product decisions through user res
 
 → Designed 60+ screens in Figma, shipped 12+ production features
 
-**UX Designer** @ Benyue (Contract, Jan – May 2024)
+**Graphic Designer** @ Benyue (Contract, Jan – May 2024)
 
-→ Reduced checkout time 35%, boosted mobile conversions 28%
+→ Created visual identity and brand assets including logos, menus, signage, and digital graphics
 
-→ Built design system: 18 components, 6 breakpoints, 25+ touchpoints
+→ Developed design system with 18 reusable graphic components across print and digital formats
 
-**Full Stack Developer** @ New Pal Coffee Shop (Freelance, May – Dec 2023)
+**Social Media Manager** @ New Pal Coffee Shop (Freelance, May – Dec 2023)
 
-→ Built e-commerce platform: 200+ weekly transactions, 99.2% uptime
+→ Created and executed social media content strategy across Instagram, Facebook, and TikTok, increasing engagement by 45%
 
-→ Eliminated 60% of manual workflows with custom admin dashboard
+→ Developed visual content including photography, graphics, and video; improved customer retention by 35%
 
 ## 🔬 Research
 
@@ -76,21 +76,17 @@ Currently: Part-time UX Design Intern driving product decisions through user res
 
 Leading participatory research with 15+ local businesses, synthesizing 150+ data points to establish equitable technology adoption framework
 
-**Capstone: UX Consulting Methodology** (Jan – May 2024)
+**Capstone: UX Consulting Framework** (Jan – May 2024)
 
-Tested methodology with 8 entrepreneurs, built toolkit with 15+ templates, presented at IU Leadership Conference (honorable mention among 200+ submissions)
+Developed scalable UX consulting framework for small businesses, tested through case studies with 8 entrepreneurs; built toolkit with 15+ templates, presented at IU Leadership Conference (honorable mention among 200+ submissions)
 
 ## 🛠️ Tech Stack
 
-**Design:** Figma • Adobe XD • Sketch • Prototyping • Design Systems
+**Design & UX:** Figma • User Research • Usability Testing • Journey Mapping • Prototyping • WCAG 2.1 • ARIA • Inclusive Design
 
-**Frontend:** React • JavaScript (ES6+) • Tailwind CSS • HTML5/CSS3
+**Frontend Development:** HTML5 • CSS3 • JavaScript (ES6+) • React • Tailwind CSS • Responsive Design • Git
 
-**Backend:** Node.js • PostgreSQL • Express.js • RESTful APIs
-
-**UX Research:** User Interviews • Usability Testing • A/B Testing • Journey Mapping
-
-**Accessibility:** WCAG 2.1 • ARIA • Screen Reader Testing • Inclusive Design
+**Backend & Data:** Node.js • PostgreSQL • Python • SQL • RESTful APIs • Express.js
 
 ## 🌱 Currently
 
