@@ -21,6 +21,6 @@ Currently studying **Informatics** at Indiana University Bloomington (class of 2
 ### Fun fact
 I once tried to teach my jade plant chess. It lost. (It’s still salty about it.)
 
-Check out my [resume](https://jlzhao.pages.iu.edu/resume.pdf) or visit my [portfolio](https://jlzhao.pages.iu.edu)!
+Check out my [resume](https://jlzhao.pages.iu.edu/resume.pdf) or visit my [portfolio](https://jadewowgreen.github.io)!
 
 ✨ Let's build something beautiful together ✨
