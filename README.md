@@ -8,7 +8,7 @@ const aboutMe = {
         pronouns: "she/her",
         brand: "jadewowgreen 💚"
     },
-    role: "Product Designer",
+    role: "Information Science Undergraduate Researcher",
     current: {
         work: "UX Design Intern @ Stealth Startup",
         research: "Honors Thesis on Community-Centered Design"
@@ -40,7 +40,7 @@ const aboutMe = {
 
 ## 📊 About Me
 
-Hi! I'm Jade, a Product Designer studying Informatics at Indiana University Bloomington (Class of 2027). Focus: Human-Computer Interaction and Web Development.
+Hi! I'm Jade, a Luddy Direct Admit and Hudson & Holland Scholar studying Information Science at Indiana University Bloomington (Class of 2027). Focus: Human-Computer Interaction and Web Development.
 
 I build accessible, human-centered digital experiences. Always prioritize user safety, privacy, and equity.
 
@@ -92,7 +92,7 @@ Developed scalable UX consulting framework for small businesses, tested through 
 
 💻 Building with React, Tailwind, and Figma
 
-🤝 Open to collaborations on accessible web projects
+🤝 Open to internships and full-time opportunities — let's connect!
 
 ## 🦆 Beyond Code & Design
 
@@ -114,9 +114,11 @@ Fun fact: I tried teaching my jade plant chess. It lost every game but remains u
 
 ## 📫 Let's Connect
 
+Open to internships and full-time opportunities — let's connect!
+
 Interested in:
 
-✨ UX research & product design opportunities
+✨ Design, research, and development opportunities
 
 ✨ Accessibility-focused projects
 
@@ -124,7 +126,7 @@ Interested in:
 
 ✨ Duck farming tips (serious inquiries only)
 
-📍 Indianapolis, IN • 🎓 Graduating May 2027
+📍 Indianapolis, IN • 🎓 Graduating Spring 2027
 
 ---
 
