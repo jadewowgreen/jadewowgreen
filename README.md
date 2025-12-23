@@ -8,7 +8,7 @@ const aboutMe = {
         pronouns: "she/her",
         brand: "jadewowgreen 💚"
     },
-    role: "UX/UI Researcher & Designer + Full Stack Software Developer",
+    role: "UX/UI Researcher and Designer and Forward Deployed Software Engineer",
     current: {
         work: "UX Design Intern @ Stealth Startup",
         research: "Honors Thesis on Community-Centered Design"
@@ -40,7 +40,7 @@ const aboutMe = {
 
 ## 📊 About Me
 
-UX/UI Researcher & Designer + Full Stack Software Developer at Indiana University Bloomington (Class of 2027)
+UX/UI Researcher and Designer and Forward Deployed Software Engineer at Indiana University Bloomington (Class of 2027)
 
 🎓 Hudson & Holland Scholar (full-ride merit scholarship) • Dean's List • 3.70 GPA
 
