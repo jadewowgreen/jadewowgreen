@@ -112,7 +112,7 @@ Fun fact: I tried teaching my jade plant chess. It lost every game but remains u
 
 ## 📫 Let's Connect
 
-Open to internships and full-time opportunities — let's connect!
+Open to internships and full-time opportunities - let's connect!
 
 Interested in:
 
