@@ -8,7 +8,7 @@ const aboutMe = {
         pronouns: "she/her",
         brand: "jadewowgreen 💚"
     },
-    role: "UX/UI Researcher and Designer and Forward Deployed Software Engineer",
+    role: "Product Designer",
     current: {
         work: "UX Design Intern @ Stealth Startup",
         research: "Honors Thesis on Community-Centered Design"
@@ -40,13 +40,11 @@ const aboutMe = {
 
 ## 📊 About Me
 
-I'm a UX/UI Researcher and Designer and Forward Deployed Software Engineer studying Informatics with a focus on Human-Computer Interaction at Indiana University Bloomington (Class of 2027). As a Hudson & Holland Scholar, I'm passionate about building accessible, human-centered digital experiences that prioritize user safety, privacy, and equity.
+Hi! I'm Jade, a Product Designer studying Informatics at Indiana University Bloomington (Class of 2027). Focus: Human-Computer Interaction and Web Development.
 
-Currently, I'm conducting research for my honors thesis on community-centered UX design, exploring how to make technology more equitable for underserved communities through participatory research with 15+ local businesses. In my role as a UX Design Intern, I've conducted research across 50+ participants, driving product decisions that led to a 40% increase in engagement.
+I build accessible, human-centered digital experiences. Always prioritize user safety, privacy, and equity.
 
-My work combines user research, prototyping in Figma, and full stack development with React, Node.js, and PostgreSQL. I'm especially interested in accessibility (WCAG 2.1, ARIA), inclusive design, and building design systems at scale.
-
-When I'm not designing or coding, you'll find me playing piano, reading classic literature, caring for my jade plants, or dreaming of a peaceful duck farm with unlimited matcha.
+Outside of code: piano, books, jade plants, dreaming of a duck farm with unlimited matcha.
 
 ## 💼 Experience Highlights
 
