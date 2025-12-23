@@ -40,15 +40,13 @@ const aboutMe = {
 
 ## 📊 About Me
 
-UX/UI Researcher and Designer and Forward Deployed Software Engineer at Indiana University Bloomington (Class of 2027)
+I'm a UX/UI Researcher and Designer and Forward Deployed Software Engineer studying Informatics with a focus on Human-Computer Interaction at Indiana University Bloomington (Class of 2027). As a Hudson & Holland Scholar, I'm passionate about building accessible, human-centered digital experiences that prioritize user safety, privacy, and equity.
 
-🎓 Hudson & Holland Scholar (full-ride merit scholarship) • Dean's List • 3.70 GPA
+Currently, I'm conducting research for my honors thesis on community-centered UX design, exploring how to make technology more equitable for underserved communities through participatory research with 15+ local businesses. In my role as a UX Design Intern, I've conducted research across 50+ participants, driving product decisions that led to a 40% increase in engagement.
 
-🔬 Researching community-centered UX design for underserved communities
+My work combines user research, prototyping in Figma, and full stack development with React, Node.js, and PostgreSQL. I'm especially interested in accessibility (WCAG 2.1, ARIA), inclusive design, and building design systems at scale.
 
-🎨 Building accessible, human-centered digital experiences
-
-Currently: UX Design Intern driving product decisions through user research
+When I'm not designing or coding, you'll find me playing piano, reading classic literature, caring for my jade plants, or dreaming of a peaceful duck farm with unlimited matcha.
 
 ## 💼 Experience Highlights
 
