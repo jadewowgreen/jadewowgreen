@@ -8,9 +8,9 @@ const aboutMe = {
         pronouns: "she/her",
         brand: "jadewowgreen 💚"
     },
-    role: "UX Designer who codes",
+    role: "UX/UI Researcher & Designer + Full Stack Software Developer",
     current: {
-        work: "UX Design Intern @ Stealth Startup (Part-time)",
+        work: "UX Design Intern @ Stealth Startup",
         research: "Honors Thesis on Community-Centered Design"
     },
     skills: {
@@ -40,7 +40,7 @@ const aboutMe = {
 
 ## 📊 About Me
 
-UX Designer + Frontend Developer at Indiana University Bloomington (Class of 2027)
+UX/UI Researcher & Designer + Full Stack Software Developer at Indiana University Bloomington (Class of 2027)
 
 🎓 Hudson & Holland Scholar (full-ride merit scholarship) • Dean's List • 3.70 GPA
 
@@ -48,23 +48,23 @@ UX Designer + Frontend Developer at Indiana University Bloomington (Class of 202
 
 🎨 Building accessible, human-centered digital experiences
 
-Currently: Part-time UX Design Intern driving product decisions through user research
+Currently: UX Design Intern driving product decisions through user research
 
 ## 💼 Experience Highlights
 
-**UX Design Intern** @ Stealth Startup (Part-time, Jun 2024 – Present)
+**UX Design Intern** @ Stealth Startup (Jun 2024 – Present)
 
 → Conducted research across 50+ participants, drove 3 product pivots → 40% engagement increase
 
 → Designed 60+ screens in Figma, shipped 12+ production features
 
-**Graphic Designer** @ Benyue (Contract, Jan – May 2024)
+**Graphic Designer** @ Benyue (Jan – May 2024)
 
 → Created visual identity and brand assets including logos, menus, signage, and digital graphics
 
 → Developed design system with 18 reusable graphic components across print and digital formats
 
-**Social Media Manager** @ New Pal Coffee Shop (Freelance, May – Dec 2023)
+**Social Media Manager** @ New Pal Coffee Shop (May – Dec 2023)
 
 → Created and executed social media content strategy across Instagram, Facebook, and TikTok, increasing engagement by 45%
 
