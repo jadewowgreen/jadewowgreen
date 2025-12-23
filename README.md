@@ -92,8 +92,6 @@ Developed scalable UX consulting framework for small businesses, tested through 
 
 💻 Building with React, Tailwind, and Figma
 
-🤝 Open to internships and full-time opportunities — let's connect!
-
 ## 🦆 Beyond Code & Design
 
 When I'm not designing or coding:
