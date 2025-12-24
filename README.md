@@ -41,13 +41,13 @@ const aboutMe = {
 
 ## 📊 About Me
 
-Hi! I'm Jade, a UX Researcher specializing in accessibility and community-centered design. I'm a Luddy Direct Admit and Hudson & Holland Scholar studying Information Science at Indiana University Bloomington (Class of 2027).
+Hi! I'm Jade, a UX Researcher specializing in accessibility and community-centered design. I'm a Luddy Direct Admit and Hudson & Holland Scholar at Indiana University Bloomington, studying Information Science with a focus on UX research and human-computer interaction (Class of 2027).
 
-I enjoy conducting research with underserved communities using interviews, usability testing, participatory design, and thematic analysis. My work prioritizes user safety, privacy, and equity - especially when working with vulnerable populations.
+I conduct user research with underserved communities through interviews, usability testing, and participatory design methods. My work focuses on developing trauma-informed research protocols and accessibility-first design solutions that prioritize user safety, privacy, and equity.
 
-Growing up in my family's restaurant taught me to observe what people need before they can articulate it. That foundation shapes how I approach every research project with care, from trauma-informed protocols to accessibility-first design. I believe technology should work for everyone, and I'm committed to making that happen.
+Growing up in my family's restaurant taught me to observe what people need before they can articulate it. This foundation shapes how I approach every research project with care and attention to unspoken needs. I believe technology should be accessible to everyone, and I'm committed to making that happen through rigorous, ethical research practices.
 
-Outside of research: piano, books, jade plants, and dreaming of a duck farm with unlimited matcha.
+Outside of research, I enjoy playing piano, reading classic literature, and caring for my jade plants.
 
 ## 💼 Research Experience
 
