@@ -99,9 +99,9 @@ Impact: Honorable mention at IU Leadership Conference (200+ submissions); 5 busi
 
 ## 🛠️ Skills
 
-**Research Methods:** User Interviews • Usability Testing • Accessibility Audits • Diary Studies • Thematic Analysis • Participatory Design • Trauma-Informed Research • Card Sorting • Journey Mapping
+**Research Methods:** User Interviews • Usability Testing • Accessibility Audits • Thematic Analysis • Trauma-Informed Research
 
-**Research Tools:** Dovetail • Miro • Figma • Optimal Workshop • WCAG 2.1 • ARIA • Assistive Technology Testing (JAWS, NVDA, VoiceOver)
+**Research Tools:** Dovetail • Miro • Figma • WCAG 2.1 • ARIA • Assistive Technology Testing (JAWS, NVDA, VoiceOver)
 
 **Technical Skills:** Python • SQL • JavaScript (ES6+) • React • Node.js • PostgreSQL • HTML5 • CSS3 • Git
 
