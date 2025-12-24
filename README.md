@@ -8,24 +8,25 @@ const aboutMe = {
         pronouns: "she/her",
         brand: "jadewowgreen 💚"
     },
-    role: "Information Science Undergraduate Researcher",
+    role: "UX Researcher",
     current: {
-        work: "UX Design Intern @ Stealth Startup",
-        research: "Honors Thesis on Community-Centered Design"
+        work: "Informatics Research Undergraduate @ Indiana University",
+        research: "Honors Thesis on Community-Centered UX Design"
     },
     skills: {
-        design: ["Figma", "User Research", "Prototyping", "Design Systems"],
-        code: ["React", "Node.js", "Tailwind", "PostgreSQL"],
-        accessibility: ["WCAG 2.1", "ARIA", "Screen Reader Testing"]
+        research: ["User Interviews", "Usability Testing", "Accessibility Audits", "Diary Studies", "Thematic Analysis", "Participatory Design", "Trauma-Informed Research", "Card Sorting", "Journey Mapping"],
+        tools: ["Dovetail", "Miro", "Figma", "Optimal Workshop", "WCAG 2.1", "ARIA", "Assistive Technology Testing"],
+        specializations: ["Accessibility Research", "Trauma-Informed Methods", "Community-Centered Design"],
+        technical: ["Python", "SQL", "JavaScript (ES6+)", "React", "Node.js", "PostgreSQL", "HTML5", "CSS3", "Git"]
     },
     impact: {
-        userResearch: "50+ participants, 8 user segments",
-        productPivots: "3 critical pivots → 40% engagement increase",
-        checkoutOptimization: "35% faster checkout, 28% conversion boost",
-        platformBuilt: "200+ weekly transactions, 99.2% uptime"
+        researchProjects: "3 core research roles across health tech, accessibility, and social services",
+        participants: "100+ participants across diverse populations including vulnerable and underserved communities",
+        methods: "Interviews, usability testing, participatory design, accessibility audits, trauma-informed research",
+        realWorldImpact: "Research informed 3 product pivots, improved accessibility compliance 60% to 85%, improved task completion 40-88% across projects"
     },
-    learning: "Design systems at scale & accessible AI interfaces",
-    nextGoal: "Building inclusive tech (and owning a duck farm 🦆)",
+    learning: "Trauma-informed research methods & community-centered design",
+    nextGoal: "UX Research opportunities (and owning a duck farm 🦆)",
     contact: {
         email: "jadewowgreen@outlook.com",
         linkedin: "linkedin.com/in/jadewowgreen",
@@ -40,61 +41,81 @@ const aboutMe = {
 
 ## 📊 About Me
 
-Hi! I'm Jade, a Luddy Direct Admit and Hudson & Holland Scholar studying Information Science at Indiana University Bloomington (Class of 2027). Focus: Human-Computer Interaction and Web Development.
+Hi! I'm Jade, a UX Researcher specializing in accessibility and community-centered design. I'm a Luddy Direct Admit and Hudson & Holland Scholar studying Information Science at Indiana University Bloomington (Class of 2027).
 
-I build accessible, human-centered digital experiences. Always prioritize user safety, privacy, and equity.
+I enjoy conducting research with underserved communities using interviews, usability testing, participatory design, and thematic analysis. My work prioritizes user safety, privacy, and equity - especially when working with vulnerable populations.
 
-Outside of code: piano, books, jade plants, dreaming of a duck farm with unlimited matcha.
+Growing up in my family's restaurant taught me to observe what people need before they can articulate it. That foundation shapes how I approach every research project with care, from trauma-informed protocols to accessibility-first design. I believe technology should work for everyone, and I'm committed to making that happen.
 
-## 💼 Experience Highlights
+Outside of research: piano, books, jade plants, and dreaming of a duck farm with unlimited matcha.
 
-**UX Design Intern** @ Stealth Startup (Jun 2024 – Present)
+## 💼 Research Experience
 
-→ Conducted research across 50+ participants, drove 3 product pivots → 40% engagement increase
+**Informatics Research Undergraduate** @ Indiana University (Sep 2025 - Dec 2025)
 
-→ Designed 60+ screens in Figma, shipped 12+ production features
+→ Engaged with 50+ participants across 8 user segments through interviews, diary studies, and usability testing; uncovered insights through thematic analysis that shaped product strategy
 
-**Graphic Designer** @ Benyue (Jan – May 2024)
+→ Transformed research insights into actionable recommendations, driving 3 product pivots that increased user engagement 40%; shared compelling findings with cross-functional teams
 
-→ Created visual identity and brand assets including logos, menus, signage, and digital graphics
+**UX Researcher** @ Laurie Burns McRobbie Serve IT Clinic (Aug 2024 - Dec 2025)
 
-→ Developed design system with 18 reusable graphic components across print and digital formats
+→ Researched for 3 client organizations: Greater Bloomington Chamber of Commerce (business directory), Indiana Phenology Lab (scientific data platform), and Middle Way House (domestic violence services), each with unique user needs
 
-**Social Media Manager** @ New Pal Coffee Shop (May – Dec 2023)
+→ Connected with 29 staff members and 48 end users across diverse populations (business owners, researchers, citizen scientists, domestic violence survivors); developed trauma-informed protocols prioritizing safety and dignity
 
-→ Created and executed social media content strategy across Instagram, Facebook, and TikTok, increasing engagement by 45%
+→ Uncovered critical barriers through card sorting, usability testing, and accessibility audits using WCAG 2.1 guidelines: 70% difficulty in member discovery, 65% public comprehension failure, and 12 safety risks for crisis users
 
-→ Developed visual content including photography, graphics, and video; improved customer retention by 35%
+→ Designed information architectures and recommendations that improved task completion 40-88% across projects; increased member connections 45%, public engagement 55%, and reduced crisis resource discovery time 40%
 
-## 🔬 Research
+**Digital Accessibility Intern** @ City of Bloomington (Jan 2024 - May 2024)
 
-**Honors Thesis: Community-Centered UX Design** (Aug 2024 – Present)
+→ Partnered with 8 users with disabilities using assistive technologies (JAWS, NVDA, VoiceOver) to audit 15+ municipal websites using WCAG 2.1 guidelines; learned firsthand about barriers preventing access to essential city services
 
-Leading participatory research with 15+ local businesses, synthesizing 150+ data points to establish equitable technology adoption framework
+→ Championed accessibility improvements, elevating compliance from 60% to 85% across audited sites; created testing protocol and documentation for sustainable impact
 
-**Capstone: UX Consulting Framework** (Jan – May 2024)
+## 🔬 Research Projects
 
-Developed scalable UX consulting framework for small businesses, tested through case studies with 8 entrepreneurs; built toolkit with 15+ templates, presented at IU Leadership Conference (honorable mention among 200+ submissions)
+**Community-Centered UX Design** (Aug 2024 - Present)
+Honors Thesis • Indy Local Collective
 
-## 🛠️ Tech Stack
+Research Question: How can technology adoption be made more equitable for underserved small businesses with limited technical literacy and resources?
 
-**Design & UX:** Figma • User Research • Usability Testing • Journey Mapping • Prototyping • WCAG 2.1 • ARIA • Inclusive Design
+Methods: Participatory workshops (n=15), semi-structured interviews, usability testing (3 rounds), thematic analysis synthesizing 150+ data points
 
-**Frontend Development:** HTML5 • CSS3 • JavaScript (ES6+) • React • Tailwind CSS • Responsive Design • Git
+Key Findings: (1) Time and resources were bigger barriers than technical literacy; (2) Businesses needed step-by-step guidance, not just tools; (3) Trust-building through community connections was essential; (4) Mobile-first solutions were critical for on-the-go operations
 
-**Backend & Data:** Node.js • PostgreSQL • Python • SQL • RESTful APIs • Express.js
+Impact: Framework adopted by 8 local businesses; informed 3 new community programs; shared findings at IU Leadership Conference
+
+**UX Consulting Framework** (Jan 2024 - May 2024)
+Capstone Project • Matcha Green Consulting
+
+Research Question: What are the barriers preventing micro-businesses from conducting user research, and how can we lower those barriers?
+
+Methods: Case study analysis (n=8), in-depth interviews, journey mapping workshops, framework validation with 3 businesses
+
+Key Findings: (1) Cost and time were the biggest barriers, not lack of interest in research; (2) Businesses needed templates and step-by-step guides, not just concepts; (3) Research needed to be framed as "customer feedback" not "user research" to reduce intimidation; (4) Peer learning and community support were essential for adoption
+
+Impact: Honorable mention at IU Leadership Conference (200+ submissions); 5 businesses successfully conducted their first user research using the toolkit
+
+## 🛠️ Skills
+
+**Research Methods:** User Interviews • Usability Testing • Accessibility Audits • Diary Studies • Thematic Analysis • Participatory Design • Trauma-Informed Research • Card Sorting • Journey Mapping
+
+**Research Tools:** Dovetail • Miro • Figma • Optimal Workshop • WCAG 2.1 • ARIA • Assistive Technology Testing (JAWS, NVDA, VoiceOver)
+
+**Technical Skills:** Python • SQL • JavaScript (ES6+) • React • Node.js • PostgreSQL • HTML5 • CSS3 • Git
 
 ## 🌱 Currently
 
 🔍 Conducting UX research for honors thesis on community-centered design
 
-🎨 Designing accessible interfaces at stealth startup
+🔬 Conducting informatics research at Indiana University on product strategy and user needs
 
-💻 Building with React, Tailwind, and Figma
+📊 Synthesizing research findings across multiple projects
 
-## 🦆 Beyond Code & Design
+## 🦆 Beyond Research
 
-When I'm not designing or coding:
+When I'm not conducting research:
 
 🎹 Playing piano
 
@@ -116,7 +137,7 @@ Open to internships and full-time opportunities - let's connect!
 
 Interested in:
 
-✨ Design, research, and development opportunities
+✨ UX Research opportunities (internships & full-time)
 
 ✨ Accessibility-focused projects
 
