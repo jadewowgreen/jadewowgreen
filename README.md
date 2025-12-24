@@ -14,8 +14,8 @@ const aboutMe = {
         research: "Honors Thesis on Community-Centered UX Design"
     },
     skills: {
-        research: ["User Interviews", "Usability Testing", "Accessibility Audits", "Diary Studies", "Thematic Analysis", "Participatory Design", "Trauma-Informed Research", "Card Sorting", "Journey Mapping"],
-        tools: ["Dovetail", "Miro", "Figma", "Optimal Workshop", "WCAG 2.1", "ARIA", "Assistive Technology Testing"],
+        research: ["User Interviews", "Usability Testing", "Accessibility Audits", "Thematic Analysis", "Trauma-Informed Research"],
+        tools: ["Dovetail", "Miro", "Figma", "WCAG 2.1", "ARIA", "Assistive Technology Testing"],
         specializations: ["Accessibility Research", "Trauma-Informed Methods", "Community-Centered Design"],
         technical: ["Python", "SQL", "JavaScript (ES6+)", "React", "Node.js", "PostgreSQL", "HTML5", "CSS3", "Git"]
     },
