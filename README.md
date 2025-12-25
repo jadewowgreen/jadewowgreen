@@ -20,13 +20,13 @@ const aboutMe = {
         technical: ["Python", "SQL", "JavaScript (ES6+)", "React", "Node.js", "PostgreSQL", "HTML5", "CSS3", "Git"]
     },
     impact: {
-        researchProjects: "3 core research roles across health tech, accessibility, and social services",
-        participants: "100+ participants across diverse populations including vulnerable and underserved communities",
+        researchProjects: "Research roles across health tech, accessibility, and social services",
+        participants: "100+ participants across diverse populations",
         methods: "Interviews, usability testing, participatory design, accessibility audits, trauma-informed research",
-        realWorldImpact: "Research informed 3 product pivots, improved accessibility compliance 60% to 85%, improved task completion 40-88% across projects"
+        realWorldImpact: "Research contributed to product decisions and accessibility improvements"
     },
     learning: "Trauma-informed research methods & community-centered design",
-    nextGoal: "Human-centered AI Research opportunities (and owning a duck farm 🦆)",
+    nextGoal: "Human-centered AI research opportunities",
     contact: {
         email: "jadewowgreen@outlook.com",
         linkedin: "linkedin.com/in/jadewowgreen",
@@ -53,19 +53,19 @@ Outside of research: piano, books, jade plants, dreaming of a duck farm with unl
 
 **Research Undergraduate** @ Proactive Health Informatics Research Group (Sep 2025 - Dec 2025)
 
-→ Contributing to grant-supported human-centered AI research on women's reproductive health; investigating how AI systems can support health outcomes
+→ Contributing to grant-supported human-centered AI research on women's reproductive health; exploring how AI systems can support health outcomes
 
 → Conducting user research with 50+ participants across 8 user segments using interviews, diary studies, and usability testing; analyzing findings through thematic analysis to inform product decisions
 
 **Human-centered AI Researcher** @ Laurie Burns McRobbie Serve IT Clinic (Jun 2024 - Dec 2025)
 
-→ Supported human-centered AI research for 3 client organizations through Serve IT's PIT-UN Challenge grant program; collaborated with community organizations to develop AI-driven solutions addressing real-world challenges
+→ Supported human-centered AI research for 3 client organizations through Serve IT's PIT-UN Challenge grant program; worked with community organizations to develop AI-driven solutions
 
-→ Conducted research with 29 staff members and 48 end users across diverse populations (business owners, researchers, citizen scientists, domestic violence survivors); developed trauma-informed research protocols prioritizing safety and dignity for vulnerable populations
+→ Conducted research with 29 staff members and 48 end users across diverse populations; developed trauma-informed research protocols prioritizing safety and dignity
 
-→ Applied human-centered AI principles to identify barriers through card sorting, usability testing, and accessibility audits using WCAG 2.1 guidelines; documented challenges including member discovery difficulties, comprehension issues, and safety concerns for crisis users
+→ Applied human-centered AI principles to identify barriers through card sorting, usability testing, and accessibility audits using WCAG 2.1 guidelines; documented challenges including member discovery difficulties, comprehension issues, and safety concerns
 
-→ Contributed to information architecture and AI-informed recommendations that improved task completion across projects; supported efforts to increase member connections, public engagement, and reduce resource discovery time
+→ Contributed to information architecture and AI-informed recommendations; supported efforts to improve task completion, member connections, and public engagement
 
 **Digital Accessibility Intern** @ City of Bloomington (Jan 2024 - May 2024)
 
@@ -84,7 +84,7 @@ Methods: Participatory workshops (n=15), semi-structured interviews, usability t
 
 Key Findings: (1) Social determinants of health (time, resources, access) were bigger barriers than technical literacy; (2) Prevention-focused approaches and stress management considerations were essential for sustainable health technology adoption; (3) Trust-building through community connections was critical for health intervention success; (4) Mobile-first health solutions addressing prevention and stress reduction were most effective for underserved populations
 
-Impact: Health technology framework adopted by 8 local organizations; informed 3 new community health programs; presented findings at IU Leadership Conference
+Impact: Health technology framework adopted by local organizations; informed community health programs; presented findings at IU Leadership Conference
 
 **Human-Centered AI Consulting Framework** (Jan 2024 - Dec 2025)
 Capstone Project • Matcha Green Consulting
@@ -95,7 +95,7 @@ Methods: Case study analysis (n=8), in-depth interviews, journey mapping worksho
 
 Key Findings: (1) Cost and time were the biggest barriers, not lack of interest in research; (2) Businesses needed templates and step-by-step guides, not just concepts; (3) Research needed to be framed as "customer feedback" not "user research" to reduce intimidation; (4) Peer learning and community support were essential for adoption
 
-Impact: Honorable mention at IU Leadership Conference (200+ submissions); 5 businesses successfully conducted their first user research using the toolkit
+Impact: Honorable mention at IU Leadership Conference; businesses used the toolkit to conduct their first user research
 
 ## 🛠️ Skills
 
