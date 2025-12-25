@@ -41,19 +41,19 @@ const aboutMe = {
 
 ## 📊 About Me
 
-Hi, I'm Jade. I'm a Human-centered Artificial Intelligence Researcher at Indiana University's Luddy School, where I'm studying Information Science with a focus on Health Informatics & Human-Centered AI (Class of 2027). I'm a Luddy Direct Admit and Hudson & Holland Scholar.
+Hi, I'm Jade, a Luddy Direct Admit and Hudson & Holland Scholar studying Information Science at Indiana University Bloomington (Class of 2027).
 
-I work with the Proactive Health Informatics Research Group and the Laurie Burns McRobbie Serve IT Clinic, where I'm learning how AI systems can support people when designed with their needs in mind. I've been fortunate to work with diverse populations across health tech and community organizations, and I'm continuing to learn how to approach research thoughtfully.
+I research how AI can support people when designed with their needs in mind. Working with the Proactive Health Informatics Research Group and Serve IT Clinic, I focus on health informatics, accessibility, and trauma-informed research methods.
 
-Growing up in my family's restaurant taught me to notice what people need, even when they don't say it directly. I try to bring that same attention to my research work. I believe technology should be accessible to everyone, and I'm working to contribute to that through careful, ethical research practices.
+Always prioritize user safety, privacy, and equity.
 
-Outside of research, I enjoy playing piano, reading classic literature, and caring for my jade plants.
+Outside of research: piano, books, jade plants, dreaming of a duck farm with unlimited matcha.
 
 ## 💼 Research Experience
 
 **Research Undergraduate** @ Proactive Health Informatics Research Group (Sep 2025 - Dec 2025)
 
-→ Contributing to grant-supported human-centered AI research on women's reproductive health; applying user-centered design principles to investigate how AI systems can support health outcomes
+→ Contributing to grant-supported human-centered AI research on women's reproductive health; investigating how AI systems can support health outcomes
 
 → Conducting user research with 50+ participants across 8 user segments using interviews, diary studies, and usability testing; analyzing findings through thematic analysis to inform product decisions
 
@@ -107,9 +107,9 @@ Impact: Honorable mention at IU Leadership Conference (200+ submissions); 5 busi
 
 ## 🌱 Currently
 
-Conducting UX research for honors thesis on health informatics for underserved communities
+Conducting research for honors thesis on health informatics for underserved communities
 
-Contributing to informatics research at Indiana University on women's reproductive health
+Contributing to informatics research on women's reproductive health
 
 Synthesizing research findings across multiple projects
 
@@ -119,9 +119,9 @@ When I'm not conducting research, I enjoy playing piano, reading classic literat
 
 ## 📫 Let's Connect
 
-Open to internships and full-time opportunities - let's connect!
+Open to internships and full-time opportunities.
 
-Interested in UX Research opportunities (internships & full-time), accessibility-focused projects, and open-source design systems.
+Interested in Human-centered AI research opportunities, accessibility-focused projects, and open-source design systems.
 
 📍 Indianapolis, IN • 🎓 Graduating Spring 2027
 
