@@ -8,10 +8,10 @@ const aboutMe = {
         pronouns: "she/her",
         brand: "jadewowgreen 💚"
     },
-    role: "UX Researcher",
+    role: "Human-centered Artificial Intelligence Researcher",
     current: {
         work: "Informatics Research Undergraduate @ Indiana University",
-        research: "Honors Thesis on Community-Centered UX Design"
+        research: "Honors Thesis on Health Informatics for Underserved Communities"
     },
     skills: {
         research: ["User Interviews", "Usability Testing", "Accessibility Audits", "Thematic Analysis", "Trauma-Informed Research"],
@@ -26,7 +26,7 @@ const aboutMe = {
         realWorldImpact: "Research informed 3 product pivots, improved accessibility compliance 60% to 85%, improved task completion 40-88% across projects"
     },
     learning: "Trauma-informed research methods & community-centered design",
-    nextGoal: "UX Research opportunities (and owning a duck farm 🦆)",
+    nextGoal: "Human-centered AI Research opportunities (and owning a duck farm 🦆)",
     contact: {
         email: "jadewowgreen@outlook.com",
         linkedin: "linkedin.com/in/jadewowgreen",
@@ -41,52 +41,52 @@ const aboutMe = {
 
 ## 📊 About Me
 
-Hi! I'm Jade, a UX Researcher specializing in accessibility and community-centered design. I'm a Luddy Direct Admit and Hudson & Holland Scholar at Indiana University Bloomington, studying Information Science with a focus on UX research and human-computer interaction (Class of 2027).
+Hi, I'm Jade. I'm a Human-centered Artificial Intelligence Researcher at Indiana University's Luddy School, where I'm studying Information Science with a focus on Health Informatics & Human-Centered AI (Class of 2027). I'm a Luddy Direct Admit and Hudson & Holland Scholar.
 
-I conduct user research with underserved communities through interviews, usability testing, and participatory design methods. My work focuses on developing trauma-informed research protocols and accessibility-first design solutions that prioritize user safety, privacy, and equity.
+I work with the Proactive Health Informatics Research Group and the Laurie Burns McRobbie Serve IT Clinic, where I'm learning how AI systems can support people when designed with their needs in mind. I've been fortunate to work with diverse populations across health tech and community organizations, and I'm continuing to learn how to approach research thoughtfully.
 
-Growing up in my family's restaurant taught me to observe what people need before they can articulate it. This foundation shapes how I approach every research project with care and attention to unspoken needs. I believe technology should be accessible to everyone, and I'm committed to making that happen through rigorous, ethical research practices.
+Growing up in my family's restaurant taught me to notice what people need, even when they don't say it directly. I try to bring that same attention to my research work. I believe technology should be accessible to everyone, and I'm working to contribute to that through careful, ethical research practices.
 
 Outside of research, I enjoy playing piano, reading classic literature, and caring for my jade plants.
 
 ## 💼 Research Experience
 
-**Informatics Research Undergraduate** @ Indiana University (Sep 2025 - Dec 2025)
+**Research Undergraduate** @ Proactive Health Informatics Research Group (Sep 2025 - Dec 2025)
 
-→ Engaged with 50+ participants across 8 user segments through interviews, diary studies, and usability testing; uncovered insights through thematic analysis that shaped product strategy
+→ Contributing to grant-supported human-centered AI research on women's reproductive health; applying user-centered design principles to investigate how AI systems can support health outcomes
 
-→ Transformed research insights into actionable recommendations, driving 3 product pivots that increased user engagement 40%; shared compelling findings with cross-functional teams
+→ Conducting user research with 50+ participants across 8 user segments using interviews, diary studies, and usability testing; analyzing findings through thematic analysis to inform product decisions
 
-**UX Researcher** @ Laurie Burns McRobbie Serve IT Clinic (Aug 2024 - Dec 2025)
+**Human-centered AI Researcher** @ Laurie Burns McRobbie Serve IT Clinic (Jun 2024 - Dec 2025)
 
-→ Researched for 3 client organizations: Greater Bloomington Chamber of Commerce (business directory), Indiana Phenology Lab (scientific data platform), and Middle Way House (domestic violence services), each with unique user needs
+→ Supported human-centered AI research for 3 client organizations through Serve IT's PIT-UN Challenge grant program; collaborated with community organizations to develop AI-driven solutions addressing real-world challenges
 
-→ Connected with 29 staff members and 48 end users across diverse populations (business owners, researchers, citizen scientists, domestic violence survivors); developed trauma-informed protocols prioritizing safety and dignity
+→ Conducted research with 29 staff members and 48 end users across diverse populations (business owners, researchers, citizen scientists, domestic violence survivors); developed trauma-informed research protocols prioritizing safety and dignity for vulnerable populations
 
-→ Uncovered critical barriers through card sorting, usability testing, and accessibility audits using WCAG 2.1 guidelines: 70% difficulty in member discovery, 65% public comprehension failure, and 12 safety risks for crisis users
+→ Applied human-centered AI principles to identify barriers through card sorting, usability testing, and accessibility audits using WCAG 2.1 guidelines; documented challenges including member discovery difficulties, comprehension issues, and safety concerns for crisis users
 
-→ Designed information architectures and recommendations that improved task completion 40-88% across projects; increased member connections 45%, public engagement 55%, and reduced crisis resource discovery time 40%
+→ Contributed to information architecture and AI-informed recommendations that improved task completion across projects; supported efforts to increase member connections, public engagement, and reduce resource discovery time
 
 **Digital Accessibility Intern** @ City of Bloomington (Jan 2024 - May 2024)
 
-→ Partnered with 8 users with disabilities using assistive technologies (JAWS, NVDA, VoiceOver) to audit 15+ municipal websites using WCAG 2.1 guidelines; learned firsthand about barriers preventing access to essential city services
+→ Conducted accessibility audits with 8 users with disabilities using assistive technologies (JAWS, NVDA, VoiceOver) on municipal websites using WCAG 2.1 guidelines; identified barriers preventing access to city services
 
-→ Championed accessibility improvements, elevating compliance from 60% to 85% across audited sites; created testing protocol and documentation for sustainable impact
+→ Supported accessibility improvements that increased compliance across audited sites; contributed to testing protocol and documentation for ongoing impact
 
 ## 🔬 Research Projects
 
-**Community-Centered UX Design** (Aug 2024 - Present)
+**Health Informatics for Underserved Communities** (Jan 2024 - Dec 2025)
 Honors Thesis • Indy Local Collective
 
-Research Question: How can technology adoption be made more equitable for underserved small businesses with limited technical literacy and resources?
+Research Question: How can health informatics solutions informed by public health principles, prevention strategies, and stress management approaches improve healthcare access and technology adoption for underserved communities?
 
-Methods: Participatory workshops (n=15), semi-structured interviews, usability testing (3 rounds), thematic analysis synthesizing 150+ data points
+Methods: Participatory workshops (n=15), semi-structured interviews, usability testing (3 rounds), epidemiological analysis and thematic analysis synthesizing 150+ data points
 
-Key Findings: (1) Time and resources were bigger barriers than technical literacy; (2) Businesses needed step-by-step guidance, not just tools; (3) Trust-building through community connections was essential; (4) Mobile-first solutions were critical for on-the-go operations
+Key Findings: (1) Social determinants of health (time, resources, access) were bigger barriers than technical literacy; (2) Prevention-focused approaches and stress management considerations were essential for sustainable health technology adoption; (3) Trust-building through community connections was critical for health intervention success; (4) Mobile-first health solutions addressing prevention and stress reduction were most effective for underserved populations
 
-Impact: Framework adopted by 8 local businesses; informed 3 new community programs; shared findings at IU Leadership Conference
+Impact: Health technology framework adopted by 8 local organizations; informed 3 new community health programs; presented findings at IU Leadership Conference
 
-**UX Consulting Framework** (Jan 2024 - May 2024)
+**Human-Centered AI Consulting Framework** (Jan 2024 - Dec 2025)
 Capstone Project • Matcha Green Consulting
 
 Research Question: What are the barriers preventing micro-businesses from conducting user research, and how can we lower those barriers?
@@ -107,43 +107,21 @@ Impact: Honorable mention at IU Leadership Conference (200+ submissions); 5 busi
 
 ## 🌱 Currently
 
-🔍 Conducting UX research for honors thesis on community-centered design
+Conducting UX research for honors thesis on health informatics for underserved communities
 
-🔬 Conducting informatics research at Indiana University on product strategy and user needs
+Contributing to informatics research at Indiana University on women's reproductive health
 
-📊 Synthesizing research findings across multiple projects
+Synthesizing research findings across multiple projects
 
 ## 🦆 Beyond Research
 
-When I'm not conducting research:
-
-🎹 Playing piano
-
-📚 Reading classic literature (Pride & Prejudice forever)
-
-🪴 Caring for jade plants (yes, really)
-
-♟️ Playing chess
-
-🌸 Arranging flowers & drinking matcha
-
-Life goal: Own a duck farm with unlimited matcha ☕🦆
-
-Fun fact: I tried teaching my jade plant chess. It lost every game but remains undefeated in photosynthesis.
+When I'm not conducting research, I enjoy playing piano, reading classic literature, caring for jade plants, playing chess, and arranging flowers.
 
 ## 📫 Let's Connect
 
 Open to internships and full-time opportunities - let's connect!
 
-Interested in:
-
-✨ UX Research opportunities (internships & full-time)
-
-✨ Accessibility-focused projects
-
-✨ Open-source design systems
-
-✨ Duck farming tips (serious inquiries only)
+Interested in UX Research opportunities (internships & full-time), accessibility-focused projects, and open-source design systems.
 
 📍 Indianapolis, IN • 🎓 Graduating Spring 2027
 
