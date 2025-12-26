@@ -29,43 +29,40 @@ const aboutMe = {
 
 Human-centered AI Researcher studying Information Science at Indiana University Bloomington (Class of 2027). Luddy Direct Admit & Hudson & Holland Scholar.
 
-I research how AI can support people when designed with their needs in mind. Focus on health informatics, accessibility, and trauma-informed research methods. Always prioritize user safety, privacy, and equity.
+Research focus: health informatics, accessibility, and trauma-informed research methods. Always prioritize user safety, privacy, and equity.
 
 ## 💼 Research Experience
 
 **Research Undergraduate** @ Proactive Health Informatics Research Group (Sep 2025 - Dec 2025)
 
-- Grant-supported human-centered AI research on women's reproductive health
-- User research with **50+ participants** across **8 user segments**
+- Human-centered AI research on women's reproductive health with **50+ participants** across **8 user segments**
 
 **Human-centered AI Researcher** @ Serve IT Clinic (Jun 2024 - Dec 2025)
 
-- Human-centered AI research for **3 client organizations** through PIT-UN Challenge grant
-- Research with **29 staff members and 48 end users**; developed trauma-informed protocols
-- Accessibility audits using WCAG 2.1 guidelines; improved task completion across projects
+- Research for **3 client organizations**; **29 staff members and 48 end users**
+- Accessibility audits using WCAG 2.1; trauma-informed protocols
 
 **Digital Accessibility Intern** @ City of Bloomington (Jan 2024 - May 2024)
 
-- Accessibility audits with **8 users with disabilities** using assistive technologies (JAWS, NVDA, VoiceOver)
-- Increased compliance across audited municipal websites
+- Accessibility audits with **8 users with disabilities** using assistive technologies
 
 ## 🔬 Research Projects
 
 **Health Informatics for Underserved Communities** (Jan 2024 - Dec 2025) • Honors Thesis
 
-- Participatory workshops (n=15), usability testing, thematic analysis (150+ data points)
-- Findings: Social determinants of health were bigger barriers than technical literacy; mobile-first solutions most effective
+- Participatory workshops (n=15), usability testing, thematic analysis
+- Findings: Social determinants of health were bigger barriers than technical literacy
 - Impact: Framework adopted by local organizations; presented at IU Leadership Conference
 
 **Human-Centered AI Consulting Framework** (Jan 2024 - Dec 2025) • Capstone
 
-- Case studies (n=8), interviews, journey mapping workshops
-- Findings: Cost/time were biggest barriers; businesses needed templates and "customer feedback" framing
+- Case studies (n=8), interviews, journey mapping
+- Findings: Cost/time barriers; businesses needed templates and "customer feedback" framing
 - Impact: Honorable mention at IU Leadership Conference
 
 **Madrid Research Projects** (Jan 2026 - May 2026) • Study Abroad
 
-- Accessibility in Madrid Public Services • GDPR & Privacy Design Patterns • Multilingual UX in Spanish Health Services • Equity in Public Service Design
+- Accessibility • GDPR & Privacy • Multilingual UX • Equity in Public Services
 
 ## 🛠️ Skills
 
