@@ -102,7 +102,7 @@ Studying abroad in Madrid (Jan 2026 - May 2026), conducting cross-cultural UX re
 **Accessibility in Madrid Public Services** (Jan 2026 - May 2026)
 Independent Researcher • Comparative Accessibility Research • Madrid, Spain
 
-*Fulfills Luddy Study Abroad Scholarship requirement: Informatics research abroad*
+Fulfills Luddy Study Abroad Scholarship requirement: Informatics research abroad
 
 Research Question: How do European accessibility standards and implementations differ from US approaches in public services?
 
@@ -115,7 +115,7 @@ Expected Insights: European accessibility innovations; design patterns for inclu
 **GDPR & Privacy Design Patterns in Spanish Apps** (Jan 2026 - May 2026)
 Independent Researcher • Cross-Cultural UX Analysis • Madrid, Spain
 
-*Fulfills HIEP Grant requirement: Cross-cultural learning and international experience*
+Fulfills HIEP Grant requirement: Cross-cultural learning and international experience
 
 Research Question: How does GDPR compliance shape UX design patterns in Spanish apps differently than US privacy practices?
 
@@ -128,7 +128,7 @@ Expected Insights: Design patterns for ethical data collection; how GDPR improve
 **Multilingual UX in Spanish Health Services** (Jan 2026 - May 2026)
 Independent Researcher • Health Informatics Research • Madrid, Spain
 
-*Fulfills Hudson & Holland Scholars Program requirement: Academic research excellence*
+Fulfills Hudson & Holland Scholars Program requirement: Academic research excellence
 
 Research Question: How do Spanish health services handle multilingual users, and what are the pain points for non-native speakers?
 
@@ -141,7 +141,7 @@ Expected Insights: Design patterns for multilingual health services; when transl
 **Equity in Spanish Public Service Design** (Jan 2026 - May 2026)
 Independent Researcher • Equity-Focused UX Research • Madrid, Spain
 
-*Fulfills FASE Advisory Board requirement: Community-centered research and equity*
+Fulfills FASE Advisory Board requirement: Community-centered research and equity
 
 Research Question: How do Spanish public services design for equity and inclusion, and what can we learn for underserved communities?
 
@@ -181,4 +181,4 @@ Interested in Human-centered AI research opportunities, accessibility-focused pr
 
 ---
 
-[Resume](https://jlzhao.pages.iu.edu/resume.pdf) • [Email](mailto:jadewowgreen@outlook.com) • [LinkedIn](https://www.linkedin.com/in/jadewowgreen)
+[Portfolio](https://jadewowgreen.github.io/) • [Resume](https://jlzhao.pages.iu.edu/resume.pdf) • [Email](mailto:jadewowgreen@outlook.com) • [LinkedIn](https://www.linkedin.com/in/jadewowgreen)
