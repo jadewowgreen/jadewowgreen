@@ -29,14 +29,12 @@ const aboutMe = {
     nextGoal: "Human-centered AI research opportunities",
     contact: {
         email: "jadewowgreen@outlook.com",
-        linkedin: "linkedin.com/in/jadewowgreen",
-        portfolio: "jadewowgreen.github.io"
+        linkedin: "linkedin.com/in/jadewowgreen"
     }
 }
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A8C686?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadewowgreen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7A9B5A?style=for-the-badge&logo=github&logoColor=white)](https://jadewowgreen.github.io)
 [![Email](https://img.shields.io/badge/Email-C5D86D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadewowgreen@outlook.com)
 
 ## 📊 About Me
@@ -127,4 +125,4 @@ Interested in Human-centered AI research opportunities, accessibility-focused pr
 
 ---
 
-[Resume](https://jlzhao.pages.iu.edu/resume.pdf) • [Portfolio](https://jadewowgreen.github.io) • [Email](mailto:jadewowgreen@outlook.com) • [LinkedIn](https://www.linkedin.com/in/jadewowgreen)
+[Resume](https://jlzhao.pages.iu.edu/resume.pdf) • [Email](mailto:jadewowgreen@outlook.com) • [LinkedIn](https://www.linkedin.com/in/jadewowgreen)
