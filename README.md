@@ -9,7 +9,7 @@ Hi there! I design and research technology that is **accessible, equitable, and 
 ---
 
 ## 🌷 Study Abroad
-In Spring 2026, I’ll be studying in **Madrid, Spain** with **Universidad Complutense de Madrid**, thanks to the **Luddy Study Abroad Scholarship** and the **Edward L. Hutton International Experiences Program (HIEP) Grant**. I can’t wait to explore how technology, culture, and business come together around the world ✨💕
+In Spring 2026, I’ll be studying in **Madrid, Spain** with **Universidad Complutense de Madrid**, thanks to the **Luddy Study Abroad Scholarship** and the **Edward L. Hutton International Experiences Program (HIEP) Grant**. I’m excited to explore how technology, culture, and business come together around the world ✨💕
 
 ---
 
@@ -50,12 +50,12 @@ I’m open to **internships, research collaborations, and chats about equitable 
 
 <p>
   <a href="https://www.linkedin.com/in/jadewowgreen" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%23E75480?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%23E75480?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
   </a>
   <a href="mailto:jadewowgreen@outlook.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email">
   </a>
   <a href="https://sites.google.com/view/jadewowgreen" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-%23FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-%23FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My portfolio">
   </a>
 </p>
