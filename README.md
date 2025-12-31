@@ -55,4 +55,8 @@ I’m open to **internships, research collaborations, and chats about equitable 
   <a href="mailto:jadewowgreen@outlook.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://sites.google.com/view/jadewowgreen" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-%23FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
 </p>
+
