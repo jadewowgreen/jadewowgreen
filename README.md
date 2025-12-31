@@ -1,83 +1,34 @@
-# Hi there 👋
+# Hola! I'm Jade 🪴✈️
 
-```javascript
-const aboutMe = {
-    name: { first: "Jade", last: "Zhao", pronouns: "she/her", brand: "jadewowgreen 💚" },
-    role: "Human-centered Artificial Intelligence Researcher",
-    current: {
-        work: "Informatics Research Undergraduate @ Indiana University",
-        research: "Honors Thesis on Health Informatics for Underserved Communities"
-    },
-    skills: {
-        research: ["User Interviews", "Usability Testing", "Accessibility Audits", "Thematic Analysis", "Trauma-Informed Research"],
-        tools: ["Dovetail", "Miro", "Figma", "WCAG 2.1", "ARIA", "Assistive Technology Testing"],
-        technical: ["Python", "SQL", "JavaScript (ES6+)", "React", "Node.js", "PostgreSQL", "HTML5", "CSS3", "Git"]
-    },
-    contact: {
-        portfolio: "jadewowgreen.github.io",
-        linkedin: "linkedin.com/in/jadewowgreen",
-        email: "jadewowgreen@outlook.com"
-    }
-}
-```
+Currently living my best life studying abroad in Madrid 🇪🇸 but usually vibing in Indianapolis!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-C5D86D?style=for-the-badge)](https://jadewowgreen.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A8C686?style=for-the-badge)](https://www.linkedin.com/in/jadewowgreen)
-[![Email](https://img.shields.io/badge/Email-C5D86D?style=for-the-badge)](mailto:jadewowgreen@outlook.com)
+## What I do (when I'm not exploring Spain)
+Human-centered AI researcher studying Informatics @ Indiana University (Class of '27). I basically talk to people, figure out what they actually need, and make tech that doesn't suck for everyone.
 
-## 📊 About Me
+**The vibe:** Making AI and tech more accessible and equitable, especially for communities that usually get overlooked.
 
-Human-centered AI Researcher studying Information Science at Indiana University Bloomington (Class of 2027). Luddy Direct Admit & Hudson & Holland Scholar.
+## Cool stuff I've worked on
+- **Women's health research** with 50+ participants (because reproductive health tech needs way better UX)
+- **Accessibility audits** with actual users with disabilities using assistive tech
+- **Trauma-informed research** for nonprofits serving vulnerable communities
+- Built frameworks that orgs actually use irl
 
-Research focus: health informatics, accessibility, and trauma-informed research methods. Always prioritize user safety, privacy, and equity.
+## Skills that pay the bills
+Research things: interviews, usability testing, accessibility audits, making sense of what people tell me
 
-## 💼 Research Experience
+Tech things: Python, JavaScript, React, SQL, all the web dev stuff
 
-**Research Undergraduate** @ Proactive Health Informatics Research Group (Sep 2025 - Dec 2025)
+Tools: Figma, Dovetail, Miro, WCAG 2.1
 
-- Human-centered AI research on women's reproductive health with **50+ participants** across **8 user segments**
+## Madrid semester (Spring '26) 🌍
+Researching accessibility, GDPR, multilingual UX, and equity in public services. Also eating a concerning amount of jamón and patatas bravas.
 
-**Human-centered AI Researcher** @ Serve IT Clinic (Jun 2024 - Dec 2025)
+## Let's connect!
+📧 jadewowgreen@outlook.com
+💼 [LinkedIn](https://www.linkedin.com/in/jadewowgreen)
 
-- Research for **3 client organizations**; **29 staff members and 48 end users**
-- Accessibility audits using WCAG 2.1; trauma-informed protocols
-
-**Digital Accessibility Intern** @ City of Bloomington (Jan 2024 - May 2024)
-
-- Accessibility audits with **8 users with disabilities** using assistive technologies
-
-## 🔬 Research Projects
-
-**Health Informatics for Underserved Communities** (Jan 2024 - Dec 2025) • Honors Thesis
-
-- Participatory workshops (n=15), usability testing, thematic analysis
-- Findings: Social determinants of health were bigger barriers than technical literacy
-- Impact: Framework adopted by local organizations; presented at IU Leadership Conference
-
-**Human-Centered AI Consulting Framework** (Jan 2024 - Dec 2025) • Capstone
-
-- Case studies (n=8), interviews, journey mapping
-- Findings: Cost/time barriers; businesses needed templates and "customer feedback" framing
-- Impact: Honorable mention at IU Leadership Conference
-
-**Madrid Research Projects** (Jan 2026 - May 2026) • Study Abroad
-
-- Accessibility • GDPR & Privacy • Multilingual UX • Equity in Public Services
-
-## 🛠️ Skills
-
-**Research:** User Interviews • Usability Testing • Accessibility Audits • Thematic Analysis • Trauma-Informed Research
-
-**Tools:** Dovetail • Miro • Figma • WCAG 2.1 • ARIA • Assistive Technology Testing
-
-**Technical:** Python • SQL • JavaScript (ES6+) • React • Node.js • PostgreSQL • HTML5 • CSS3 • Git
-
-## 📫 Let's Connect
-
-Open to internships and full-time opportunities. Interested in Human-centered AI research, accessibility-focused projects, and open-source design systems.
-
-📍 Indianapolis, IN • 🎓 Graduating Spring 2027
+Down for internships, research collabs, or just chatting about making tech better for everyone. Graduating Spring 2027!
 
 ---
 
-[Portfolio](https://jadewowgreen.github.io/) • [LinkedIn](https://www.linkedin.com/in/jadewowgreen) • [Email](mailto:jadewowgreen@outlook.com) • [Resume](https://jlzhao.pages.iu.edu/resume.pdf)
+*catch flights, not feelings* ✈️💚
