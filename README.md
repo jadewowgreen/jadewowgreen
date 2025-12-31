@@ -1,33 +1,53 @@
-# Hola! I'm Jade 🪴✈️
+# hi! i’m jade zhao
 
-Currently living my best life studying abroad in Madrid 🇪🇸 but usually vibing in Indianapolis!
+**human-centered ai researcher | informatics @ indiana university | class of 2027**
 
-## What I do (when I'm not exploring Spain)
-Human-centered AI researcher studying Informatics @ Indiana University (Class of '27). I basically talk to people, figure out what they actually need, and make tech that doesn't suck for everyone.
+currently studying abroad in madrid (spring 2026), supported by the luddy study abroad scholarship and hiep grant. when i’m not exploring spain, i research how ai and tech can be more accessible and equitable for underserved communities.
 
-**The vibe:** Making AI and tech more accessible and equitable, especially for communities that usually get overlooked.
+---
 
-## Cool stuff I've worked on
-- **Women's health research** with 50+ participants (because reproductive health tech needs way better UX)
-- **Accessibility audits** with actual users with disabilities using assistive tech
-- **Trauma-informed research** for nonprofits serving vulnerable communities
-- Built frameworks that orgs actually use irl
+## what i do
+i talk to people, figure out what they actually need, and make tech that works for everyone. my work focuses on:
+- user research
+- accessibility audits
+- trauma-informed design
+- cross-cultural ux
 
-## Skills that pay the bills
-Research things: interviews, usability testing, accessibility audits, making sense of what people tell me
+i bridge the gap between stakeholders, developers, and designers to ensure clarity and alignment. i thrive in collaborative environments and love solving real-world problems with tech.
 
-Tech things: Python, JavaScript, React, SQL, all the web dev stuff
+---
 
-Tools: Figma, Dovetail, Miro, WCAG 2.1
+## experience & impact
+- **women’s health research**: led studies with 50+ participants to improve ux in reproductive health tech.
+- **accessibility advocacy**: conducted audits with users with disabilities to ensure inclusive tech.
+- **trauma-informed design**: developed frameworks for nonprofits serving vulnerable communities.
+- **cross-cultural ux**: researched accessibility, gdpr, and multilingual design in public services.
 
-## Madrid semester (Spring '26) 🌍
-Researching accessibility, GDPR, multilingual UX, and equity in public services. Also eating a concerning amount of jamón and patatas bravas.
+i’ve also worked on:
+- redesigning the [middle way house](https://middlewayhouse.org/) website (wordpress + figma) for survivors of domestic violence.
+- building a figma prototype for **hoosier friends**, a roommate-matching app for iu students.
+- contributing to ai ethics education projects, like the **serve-ai initiative**.
 
-## Let's connect!
-📧 jadewowgreen@outlook.com
-💼 [LinkedIn](https://www.linkedin.com/in/jadewowgreen)
+---
 
-Down for internships, research collabs, or just chatting about making tech better for everyone. Graduating Spring 2027!
+## skills
+**research**: user interviews, usability testing, accessibility audits, qualitative analysis.
+**tech**: python, javascript, react, sql, web dev.
+**tools**: figma, dovetail, miro, wcag 2.1, aria.
+**soft skills**: team collaboration, mediation, project management, presentation delivery.
+
+---
+
+## background
+grew up in my parents’ restaurant, where i learned that thoughtful solutions make all the difference. now i apply that mindset to tech and design.
+
+---
+
+## let’s connect!
+open to internships, research collabs, or chats about equitable tech.
+[linkedin](https://www.linkedin.com/in/jadewowgreen) | [email](mailto:jadewowgreen@outlook.com)
+
+madrid, spain (spring 2026) • indianapolis, in • graduating spring 2027
 
 ---
 
