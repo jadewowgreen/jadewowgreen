@@ -8,7 +8,7 @@ currently in madrid, spain (spring 2026) exploring cross-cultural ux + ai ethics
 
 ## about me 🌸
 
-i design and research tech that prioritizes **accessibility, equity, and human needs**. my work focuses on underserved communities—especially survivors of domestic violence, students, and nonprofits.
+i design and research tech that prioritizes **accessibility, equity, and human needs**. my work focuses on underserved communities, especially survivors of domestic violence, students, and nonprofits.
 
 growing up in my family's restaurant taught me that the best tech is invisible. small, thoughtful solutions make the biggest difference.
 
