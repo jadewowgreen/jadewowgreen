@@ -9,7 +9,7 @@ Hi there! I design and research technology that is **accessible, equitable, and 
 ---
 
 ## 🌷 Study Abroad
-In Spring 2026, I’ll be studying in Madrid, Spain through Indiana University’s program with **Universidad Complutense de Madrid**, supported by the **Luddy Study Abroad Scholarship** and the **Edward L. Hutton International Experiences Program (HIEP) Grant**. I’m excited to explore how technology, business, and culture connect around the world 💕✨
+In Spring 2026, I’ll be studying in **Madrid, Spain** with **Universidad Complutense de Madrid**, thanks to the **Luddy Study Abroad Scholarship** and the **Edward L. Hutton International Experiences Program (HIEP) Grant**. I can’t wait to explore how technology, culture, and business come together around the world ✨💕
 
 ---
 
@@ -47,4 +47,4 @@ As a **Hudson & Holland Scholar**, I’m guided by mentorship, community, and a 
 ## 💖 Connect
 I’m open to **internships, research collaborations, and chats about equitable technology** 💕  
 
-[LinkedIn](https://www.linkedin.com/in/jadewowgreen) | [Email](mailto:jadewowgreen@outlook.com)
+[LinkedIn](www.linkedin.com/in/jadewowgreen) | [Email](mailto:jadewowgreen@outlook.com)
