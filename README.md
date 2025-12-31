@@ -59,4 +59,3 @@ I’m open to **internships, research collaborations, and chats about equitable 
     <img src="https://img.shields.io/badge/Portfolio-%23FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
