@@ -1,4 +1,4 @@
-# Jade(玉)
+# Jade (玉)
 
 **Human-Centered AI Researcher**  
 Informatics @ Indiana University · Class of 2027  
