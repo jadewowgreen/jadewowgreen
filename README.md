@@ -1,61 +1,66 @@
-# Jade (玉)
+# jade (玉) - portfolio website
 
-**Human-Centered AI Researcher**  
-Informatics @ Indiana University · Class of 2027  
-Madrid, Spain (Study Abroad, Spring 2026) | Indianapolis, IN
+human-centered ai researcher + informatics @ iu | class of 2027  
+creating accessible, equitable tech for underserved communities
 
-Hi there! I design and research technology that is **accessible, equitable, and human-centered** with a focus on helping underserved communities. Growing up in my family’s restaurant, I learned that the best technology is often invisible and that small, thoughtful solutions can make a big difference for everyone 🌸💖
+## about this project
 
----
+this is my personal portfolio showcasing my work in ux/ui design, human-centered ai research, and accessible web development. built with a focus on accessibility, clean design, and user experience.
 
-## 🌷 Study Abroad
-In Spring 2026, I’ll be studying in **Madrid, Spain** with **Universidad Complutense de Madrid**, thanks to the **Luddy Study Abroad Scholarship** and the **Edward L. Hutton International Experiences Program (HIEP) Grant**. I’m excited to explore how technology, culture, and business come together around the world ✨💕
+## features
 
----
+- **fully accessible**: wcag 2.1 aa/aaa compliant with skip links, aria labels, and keyboard navigation
+- **high contrast mode**: toggle for users who need enhanced visibility
+- **dyslexia-friendly fonts**: using atkinson hyperlegible for maximum readability
+- **reduced motion support**: respects user preferences for animation
+- **responsive design**: works beautifully on all devices
+- **trauma-informed design**: thoughtful ux patterns for sensitive content
 
-## 🌸 Focus & Interests
-- Human-centered and ethical AI  
-- Accessibility and inclusive design  
-- Trauma-informed design  
-- Cross-cultural and multilingual UX research  
-- Technology for underserved communities  
+## pages
 
----
+- **index.html** - main portfolio page with about, projects, skills, and contact
+- **middle-way-house.html** - case study for non-profit website redesign project
 
-## 🌺 Experience
-- Led **user research and usability studies** in women’s health technology  
-- Conducted **accessibility audits** with users with disabilities  
-- Redesigned the **Middle Way House website** for survivors of domestic violence  
-- Built **Figma prototypes** for student-centered apps and AI ethics education initiatives  
-- Collaborated with **nonprofits and local businesses** to create user-first digital solutions  
+## tech stack
 
----
+- semantic html5
+- css3 with custom properties
+- vanilla javascript (no frameworks needed!)
+- google fonts (atkinson hyperlegible + open sans)
 
-## 🛠 Skills
-**Research:** User interviews, usability testing, qualitative analysis, accessibility evaluation  
-**Technical:** Python, JavaScript, React, SQL, web development  
-**Tools:** Figma, Dovetail, Miro, WCAG 2.1, ARIA  
-**Strengths:** Cross-cultural communication, collaboration, project coordination  
+## design philosophy
 
----
+growing up in my family's restaurant taught me that the best tech is invisible. small, thoughtful solutions make the biggest difference.
 
-## 🌟 Background
-As a **Hudson & Holland Scholar**, I’m guided by mentorship, community, and a commitment to creating technology that **supports people instead of making life more complicated**. I aim to build solutions that balance **innovation and tradition** while drawing inspiration from global perspectives 🌸💛
+this portfolio reflects my commitment to:
+- accessibility first, always
+- clean, minimal design
+- user needs over aesthetic trends
+- inclusive and equitable experiences
 
----
+## color palette
 
-## 💖 Connect
+- primary: `#FF69B4` (hot pink)
+- dark pink: `#DB7093`
+- light pink: `#FFB6D9`
+- neutral dark: `#1E293B`
+- neutral light: `#F8FAFC`
+- white: `#FFFFFF`
 
-I’m open to **internships, research collaborations, and chats about equitable technology** 💕
+## deployment
 
-<p>
-  <a href="https://www.linkedin.com/in/jadewowgreen" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%23E75480?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
-  </a>
-  <a href="mailto:jadewowgreen@outlook.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email">
-  </a>
-  <a href="https://sites.google.com/view/jadewowgreen" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-%23FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My portfolio">
-  </a>
-</p>
+currently hosted on google sites at:
+- home: https://sites.google.com/view/jadewowgreen/index-html
+- projects: https://sites.google.com/view/jadewowgreen/serveit-html
+
+## contact
+
+- **email**: jadewowgreen@outlook.com
+- **linkedin**: [linkedin.com/in/jadexzhao](https://linkedin.com/in/jadexzhao)
+- **portfolio**: [sites.google.com/view/jadewowgreen](https://sites.google.com/view/jadewowgreen/index-html)
+
+## credits
+
+designed and developed by jade (玉) with ♥ and accessibility in mind.
+
+© 2026 jade (玉)
