@@ -80,13 +80,13 @@ i'm open to **internships, research collabs, or chats about equitable tech**
 
 <p>
   <a href="https://linkedin.com/in/jadexzhao" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%23FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+    <img src="https://img.shields.io/badge/linkedin-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="mailto:jadewowgreen@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-%23DB7093?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+    <img src="https://img.shields.io/badge/email-DB7093?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
   </a>
   <a href="https://sites.google.com/view/jadewowgreen/index-html" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-%23FFB6D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio">
+    <img src="https://img.shields.io/badge/portfolio-FFB6D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio">
   </a>
 </p>
 
