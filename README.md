@@ -1,66 +1,97 @@
-# jade (玉) - portfolio website
+# hi, i'm jade (玉) 💕
 
-human-centered ai researcher + informatics @ iu | class of 2027  
-creating accessible, equitable tech for underserved communities
+**human-centered ai researcher** · informatics @ indiana university · class of 2027
 
-## about this project
+currently in madrid, spain (spring 2026) exploring cross-cultural ux + ai ethics ✨
 
-this is my personal portfolio showcasing my work in ux/ui design, human-centered ai research, and accessible web development. built with a focus on accessibility, clean design, and user experience.
+---
 
-## features
+## about me 🌸
 
-- **fully accessible**: wcag 2.1 aa/aaa compliant with skip links, aria labels, and keyboard navigation
-- **high contrast mode**: toggle for users who need enhanced visibility
-- **dyslexia-friendly fonts**: using atkinson hyperlegible for maximum readability
-- **reduced motion support**: respects user preferences for animation
-- **responsive design**: works beautifully on all devices
-- **trauma-informed design**: thoughtful ux patterns for sensitive content
-
-## pages
-
-- **index.html** - main portfolio page with about, projects, skills, and contact
-- **middle-way-house.html** - case study for non-profit website redesign project
-
-## tech stack
-
-- semantic html5
-- css3 with custom properties
-- vanilla javascript (no frameworks needed!)
-- google fonts (atkinson hyperlegible + open sans)
-
-## design philosophy
+i design and research tech that prioritizes **accessibility, equity, and human needs**. my work focuses on underserved communities—especially survivors of domestic violence, students, and nonprofits.
 
 growing up in my family's restaurant taught me that the best tech is invisible. small, thoughtful solutions make the biggest difference.
 
-this portfolio reflects my commitment to:
-- accessibility first, always
-- clean, minimal design
-- user needs over aesthetic trends
-- inclusive and equitable experiences
+---
 
-## color palette
+## what i'm up to 🌷
 
-- primary: `#FF69B4` (hot pink)
-- dark pink: `#DB7093`
-- light pink: `#FFB6D9`
-- neutral dark: `#1E293B`
-- neutral light: `#F8FAFC`
-- white: `#FFFFFF`
+**right now:**
+- studying abroad at **universidad complutense de madrid** (luddy study abroad scholarship + hiep grant recipient)
+- peer mentor @ iu office of student life (since aug 2025)
+- exploring how tech, culture, and community intersect globally
 
-## deployment
+**researching:**
+- human-centered + ethical ai
+- accessibility and inclusive design
+- trauma-informed ux
+- cross-cultural and multilingual experiences
+- tech for underserved communities
 
-currently hosted on google sites at:
-- home: https://sites.google.com/view/jadewowgreen/index-html
-- projects: https://sites.google.com/view/jadewowgreen/serveit-html
+---
 
-## contact
+## recent work 🌺
 
-- **email**: jadewowgreen@outlook.com
-- **linkedin**: [linkedin.com/in/jadexzhao](https://linkedin.com/in/jadexzhao)
-- **portfolio**: [sites.google.com/view/jadewowgreen](https://sites.google.com/view/jadewowgreen/index-html)
+**middle way house website redesign**
+- led redesign for nonprofit supporting domestic violence survivors
+- improved usability by 65% + conversions by 28%
+- audited 200+ ui components for wcag 2.1 aa/aaa compliance
+- built in figma + implemented in wordpress
 
-## credits
+**hoosier friends app**
+- figma prototype for inclusive roommate-matching at iu
+- conducted 15+ stakeholder interviews
+- achieved 40% task completion rate in usability tests
 
-designed and developed by jade (玉) with ♥ and accessibility in mind.
+**ai ethics education platform**
+- part of serve-ai initiative
+- developed tools for ai-assisted grant writing for nonprofits
+- mentored 15+ students in prototyping + usability testing
 
-© 2026 jade (玉)
+---
+
+## skills + tools 🛠
+
+**research + design**
+- user interviews and usability testing
+- wcag 2.1 aa/aaa audits
+- inclusive and trauma-informed design
+- figma, adobe creative suite, miro, dovetail
+
+**tech stack**
+- full-stack: react, node.js, postgres
+- python + javascript
+- data viz: d3.js
+- html/css + sql
+
+---
+
+## values 💖
+
+as a **hudson & holland scholar**, i'm guided by mentorship, community, and creating tech that **supports people instead of complicating their lives**.
+
+i believe in balancing innovation with tradition and drawing inspiration from global perspectives to build solutions that work for everyone.
+
+---
+
+## let's connect ✨
+
+i'm open to **internships, research collabs, or chats about equitable tech**
+
+<p>
+  <a href="https://linkedin.com/in/jadexzhao" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%23FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  <a href="mailto:jadewowgreen@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-%23DB7093?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+  </a>
+  <a href="https://sites.google.com/view/jadewowgreen/index-html" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-%23FFB6D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>built with ♥ and accessibility in mind</i>
+</p>
