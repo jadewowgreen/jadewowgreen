@@ -45,6 +45,14 @@ As a **Hudson & Holland Scholar**, I’m guided by mentorship, community, and a 
 ---
 
 ## 💖 Connect
-I’m open to **internships, research collaborations, and chats about equitable technology** 💕  
 
-[LinkedIn](www.linkedin.com/in/jadewowgreen) | [Email](mailto:jadewowgreen@outlook.com)
+I’m open to **internships, research collaborations, and chats about equitable technology** 💕
+
+<p>
+  <a href="https://www.linkedin.com/in/jadewowgreen" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%23E75480?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jadewowgreen@outlook.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
