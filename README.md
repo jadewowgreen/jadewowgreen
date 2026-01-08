@@ -9,7 +9,6 @@ I design and research tech that prioritizes **accessibility, equity, and human n
 ## What I'm Up To 🌷
 ### Current Endeavors
 * Studying abroad at **Universidad Complutense de Madrid** (Luddy Study Abroad Scholarship + HIEP Grant recipient)
-* Peer Mentor @ IU Office of Student Life (since Aug 2025)
 * Exploring how tech, culture, and community intersect globally
 
 ### Research Interests
