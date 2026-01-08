@@ -1,55 +1,86 @@
-# Hi, I'm Jade (玉) 💕
-**Human-Centered AI Researcher** · Informatics @ Indiana University · Class of 2027
+# hi, i'm jade (玉) 💕
 
-Currently in Madrid, Spain (Spring 2026) exploring cross-cultural UX + AI ethics ✨
+**human-centered ai researcher** · informatics @ indiana university · class of 2027
 
-## About Me 🌸
-I design and research tech that prioritizes **accessibility, equity, and human needs**. My work focuses on underserved communities, especially survivors of domestic violence, students, and nonprofits.
+currently in madrid, spain (spring 2026) exploring cross-cultural ux + ai ethics ✨
 
-## What I'm Up To 🌷
-### Current Endeavors
-* Studying abroad at **Universidad Complutense de Madrid** (Luddy Study Abroad Scholarship + HIEP Grant recipient)
-* Exploring how tech, culture, and community intersect globally
+---
 
-### Research Interests
-* Human-centered + ethical AI
-* Accessibility and inclusive design
-* Trauma-informed UX
-* Cross-cultural and multilingual experiences
-* Tech for underserved communities
+## about me 🌸
 
-## Recent Work 🌺
-### Middle Way House Website Redesign
-* Led redesign for nonprofit supporting domestic violence survivors
-* Improved usability by 65% + conversions by 28%
-* Audited 200+ UI components for WCAG 2.1 AA/AAA compliance
-* Built in Figma + implemented in WordPress
+i design and research tech that prioritizes accessibility, equity, and human needs. my work focuses on underserved communities, especially survivors of domestic violence, students, and nonprofits.
 
-### Hoosier Friends App
-* Figma prototype for inclusive roommate-matching at IU
-* Conducted 15+ stakeholder interviews
-* Achieved 40% task completion rate in usability tests
+---
 
-### AI Ethics Education Platform
-* Part of Serve-AI initiative
-* Developed tools for AI-assisted grant writing for nonprofits
-* Mentored 15+ students in prototyping + usability testing
+## what i'm up to 🌷
 
-## Skills + Tools 🛠
-### Research + Design
-* User interviews and usability testing
-* WCAG 2.1 AA/AAA audits
-* Inclusive and trauma-informed design
-* Figma, Adobe Creative Suite, Miro, Dovetail
+**current endeavors:**
+- studying abroad at universidad complutense de madrid (luddy study abroad scholarship + hiep grant recipient)
+- exploring how tech, culture, and community intersect globally
 
-### Tech Stack
-* Full-stack: React, Node.js, Postgres
-* Python + JavaScript
-* Data viz: D3.js
-* HTML/CSS + SQL
+**research interests:**
+- human-centered + ethical ai
+- accessibility and inclusive design
+- trauma-informed ux
+- cross-cultural and multilingual experiences
+- tech for underserved communities
 
-## Let's Connect ✨
-I'm open to **internships, research collabs, or chats about equitable tech**. You can find me on:
-* [LinkedIn](https://linkedin.com/in/jadexzhao)
-* [Email](mailto:jadewowgreen@outlook.com)
-* [Portfolio](https://sites.google.com/view/jadewowgreen/index-html)
+---
+
+## recent work 🌺
+
+**middle way house website redesign**
+- led redesign for nonprofit supporting domestic violence survivors
+- improved usability by 65% + conversions by 28%
+- audited 200+ ui components for wcag 2.1 aa/aaa compliance
+- built in figma + implemented in wordpress
+
+**hoosier friends app**
+- figma prototype for inclusive roommate-matching at iu
+- conducted 15+ stakeholder interviews
+- achieved 40% task completion rate in usability tests
+
+**ai ethics education platform**
+- part of serve-ai initiative
+- developed tools for ai-assisted grant writing for nonprofits
+- mentored 15+ students in prototyping + usability testing
+
+---
+
+## skills + tools 🛠
+
+**research + design**
+- user interviews and usability testing
+- wcag 2.1 aa/aaa audits
+- inclusive and trauma-informed design
+- figma, adobe creative suite, miro, dovetail
+
+**tech stack**
+- full-stack: react, node.js, postgres
+- python + javascript
+- data viz: d3.js
+- html/css + sql
+
+---
+
+## let's connect ✨
+
+i'm open to internships, research collabs, or chats about equitable tech
+
+<p>
+  <a href="https://linkedin.com/in/jadexzhao" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  <a href="mailto:jadewowgreen@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-DB7093?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+  </a>
+  <a href="https://sites.google.com/view/jadewowgreen/index-html" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-FFB6D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>built with ♥ and accessibility in mind</i>
+</p>
