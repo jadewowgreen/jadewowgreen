@@ -53,5 +53,3 @@ I'm open to **internships, research collabs, or chats about equitable tech**. Yo
 * [LinkedIn](https://linkedin.com/in/jadexzhao)
 * [Email](mailto:jadewowgreen@outlook.com)
 * [Portfolio](https://sites.google.com/view/jadewowgreen/index-html)
-
-<i>Built with ♥ and accessibility in mind</i>
