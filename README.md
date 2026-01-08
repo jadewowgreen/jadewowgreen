@@ -48,9 +48,6 @@ I design and research tech that prioritizes **accessibility, equity, and human n
 * Data viz: D3.js
 * HTML/CSS + SQL
 
-## Values 💖
-As a **Hudson & Holland Scholar**, I'm guided by mentorship, community, and creating tech that **supports people instead of complicating their lives**. I believe in balancing innovation with tradition and drawing inspiration from global perspectives to build solutions that work for everyone.
-
 ## Let's Connect ✨
 I'm open to **internships, research collabs, or chats about equitable tech**. You can find me on:
 * [LinkedIn](https://linkedin.com/in/jadexzhao)
