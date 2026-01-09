@@ -1,4 +1,4 @@
-# hi, i'm jade (玉) 💕
+# hi, i'm jade zhao 💕
 
 **human-centered ai researcher** · informatics @ indiana university · class of 2027
 
