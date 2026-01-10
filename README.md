@@ -35,15 +35,15 @@ i design and research tech that prioritizes accessibility, equity, and human nee
 - audited 200+ ui components for wcag 2.1 aa/aaa compliance
 - built in figma + implemented in wordpress
 
-**hoosier friends app**
-- figma prototype for inclusive roommate-matching at iu
-- conducted 15+ stakeholder interviews
-- achieved 40% task completion rate in usability tests
-
 **ai ethics education platform**
 - part of serve-ai initiative
 - developed tools for ai-assisted grant writing for nonprofits
 - mentored 15+ students in prototyping + usability testing
+
+**hoosier friends app**
+- figma prototype for inclusive roommate-matching at iu
+- conducted 15+ stakeholder interviews
+- achieved 40% task completion rate in usability tests
 
 ---
 
@@ -68,7 +68,7 @@ i design and research tech that prioritizes accessibility, equity, and human nee
 i'm open to internships, research collabs, or chats about equitable tech
 
 <p>
-  <a href="https://linkedin.com/in/jadexzhao" target="_blank">
+  <a href="https://linkedin.com/in/jadewowgreen" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="mailto:jadewowgreen@outlook.com" target="_blank">
@@ -76,6 +76,9 @@ i'm open to internships, research collabs, or chats about equitable tech
   </a>
   <a href="https://sites.google.com/view/jadewowgreen/index-html" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-FFB6D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio">
+  </a>
+  <a href="https://jlzhao.pages.iu.edu/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/resume-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="resume">
   </a>
 </p>
 
