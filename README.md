@@ -71,11 +71,11 @@ i'm open to internships, research collabs, or chats about equitable tech
   <a href="https://linkedin.com/in/jadewowgreen" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="mailto:jadewowgreen@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-DB7093?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+  <a href="https://github.com/jadewowgreen" target="_blank">
+    <img src="https://img.shields.io/badge/github-DB7093?style=for-the-badge&logo=github&logoColor=white" alt="github">
   </a>
-  <a href="https://sites.google.com/view/jadewowgreen/index-html" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-FFB6D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio">
+  <a href="mailto:jadewowgreen@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-FFB6D9?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
   </a>
   <a href="https://jlzhao.pages.iu.edu/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/resume-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="resume">
