@@ -1,6 +1,6 @@
 # hi, i'm jade zhao 💕
 
-**human-centered ai researcher** · informatics @ indiana university · class of 2027
+**ux researcher + designer** · informatics @ indiana university · class of 2027
 
 currently in madrid, spain (spring 2026) exploring cross-cultural ux + ai ethics ✨
 
@@ -8,20 +8,23 @@ currently in madrid, spain (spring 2026) exploring cross-cultural ux + ai ethics
 
 ## about me 🌸
 
-i design and research tech that prioritizes accessibility, equity, and human needs. my work focuses on underserved communities, especially survivors of domestic violence, students, and nonprofits.
+i'm a ux researcher and designer passionate about creating accessible, equitable technology. my work spans nonprofits, government services, and research—always centering the humans behind the interfaces.
+
+from conducting wcag compliance audits for city websites to redesigning platforms for domestic violence survivors, i approach every project with trauma-informed design principles and a commitment to inclusivity.
 
 ---
 
 ## what i'm up to 🌷
 
 **current endeavors:**
-- studying abroad at universidad complutense de madrid (luddy study abroad scholarship + hiep grant recipient)
+- hudson & holland scholar at indiana university (full-ride merit scholarship)
+- studying abroad at universidad complutense de madrid (luddy study abroad scholarship + hiep grant)
 - exploring how tech, culture, and community intersect globally
 
 **research interests:**
 - human-centered + ethical ai
-- accessibility and inclusive design
-- trauma-informed ux
+- accessibility and wcag 2.1 compliance
+- trauma-informed ux design
 - cross-cultural and multilingual experiences
 - tech for underserved communities
 
@@ -29,37 +32,39 @@ i design and research tech that prioritizes accessibility, equity, and human nee
 
 ## recent work 🌺
 
-**middle way house website redesign**
-- led redesign for nonprofit supporting domestic violence survivors
-- improved usability by 65% + conversions by 28%
-- audited 200+ ui components for wcag 2.1 aa/aaa compliance
-- built in figma + implemented in wordpress
+**indiana phenology lab**
+- research intern analyzing plant life cycle data for environmental science research
+- built data visualization tools using python that improved research efficiency by 40%
+- designed accessible presentations meeting scientific standards and wcag compliance
 
-**ai ethics education platform**
-- part of serve-ai initiative
-- developed tools for ai-assisted grant writing for nonprofits
-- mentored 15+ students in prototyping + usability testing
+**middle way house**
+- ux design intern for indiana's largest domestic violence shelter
+- increased usability by 65% and conversions by 28% through user-centered research
+- audited 200+ ui components achieving wcag 2.1 aa/aaa compliance
 
-**hoosier friends app**
-- figma prototype for inclusive roommate-matching at iu
-- conducted 15+ stakeholder interviews
-- achieved 40% task completion rate in usability tests
+**city of bloomington**
+- digital accessibility intern for municipal websites
+- audited 10+ city websites identifying 150+ accessibility issues
+- moved sites from failing to meeting wcag 2.1 aa standards
 
 ---
 
 ## skills + tools 🛠
 
 **research + design**
-- user interviews and usability testing
-- wcag 2.1 aa/aaa audits
-- inclusive and trauma-informed design
-- figma, adobe creative suite, miro, dovetail
+- user research and usability testing
+- wcag 2.1 aa/aaa compliance audits
+- trauma-informed design
+- figma, adobe creative suite
 
 **tech stack**
-- full-stack: react, node.js, postgres
-- python + javascript
-- data viz: d3.js
-- html/css + sql
+- react, node.js, postgresql
+- python, javascript, html/css
+- d3.js for data visualization
+
+**languages**
+- english (native)
+- mandarin chinese (professional working proficiency)
 
 ---
 
@@ -85,5 +90,5 @@ i'm open to internships, research collabs, or chats about equitable tech
 ---
 
 <p align="center">
-  <i>built with ♥ and accessibility in mind</i>
+  <i>accessibility-first. trauma-informed. human-centered.</i>
 </p>
