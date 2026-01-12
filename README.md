@@ -1,16 +1,16 @@
 # hi, i'm jade zhao 💕
 
-**informatics researcher (business and society focus)** · indiana university · class of 2027
+**informatics researcher with a focus on business and society** · indiana university · class of 2027
 
-currently in madrid, spain (spring 2026) exploring cross-cultural ux + ai ethics ✨
+currently based in madrid, spain (spring 2026), exploring cross-cultural ux and ai ethics ✨
 
 ---
 
 ## about me 🌸
 
-i'm an informatics researcher passionate about creating accessible, equitable technology. my work spans nonprofits, government services, and research, always centering the humans behind the interfaces.
+i'm dedicated to creating accessible and equitable technology that centers on the people behind the screens. my work spans nonprofits, government services, and academic research, always grounded in trauma-informed design and inclusivity.
 
-from conducting wcag compliance audits for city websites to redesigning platforms for domestic violence survivors, i approach every project with trauma-informed design principles and a commitment to inclusivity.
+from conducting wcag compliance audits for municipal websites to redesigning platforms for domestic violence survivors, i bring a human-centered approach to every project, ensuring technology serves underserved communities effectively.
 
 ---
 
@@ -19,33 +19,33 @@ from conducting wcag compliance audits for city websites to redesigning platform
 **current endeavors:**
 - hudson & holland scholar at indiana university (full-ride merit scholarship)
 - studying abroad at universidad complutense de madrid (luddy study abroad scholarship + hiep grant)
-- exploring how tech, culture, and community intersect globally
+- investigating intersections of technology, culture, and community on a global scale
 
 **research interests:**
-- human-centered + ethical ai
+- human-centered and ethical ai
 - accessibility and wcag 2.1 compliance
 - trauma-informed ux design
-- cross-cultural and multilingual experiences
-- tech for underserved communities
+- cross-cultural and multilingual digital experiences
+- technology solutions for underserved populations
 
 ---
 
 ## recent work 🌺
 
 **indiana phenology lab**
-- research intern analyzing plant life cycle data for environmental science research
-- built data visualization tools using python that improved research efficiency by 40%
-- designed accessible presentations meeting scientific standards and wcag compliance
+- research intern analyzing plant life cycle data for environmental science
+- developed python data visualization tools improving research efficiency by 40%
+- created accessible presentations adhering to scientific and wcag standards
 
 **middle way house**
 - ux design intern for indiana's largest domestic violence shelter
-- increased usability by 65% and conversions by 28% through user-centered research
-- audited 200+ ui components achieving wcag 2.1 aa/aaa compliance
+- enhanced usability by 65% and increased conversions by 28% through user-centered research
+- audited 200+ ui components to achieve wcag 2.1 aa/aaa compliance
 
 **city of bloomington**
 - digital accessibility intern for municipal websites
-- audited 10+ city websites identifying 150+ accessibility issues
-- moved sites from failing to meeting wcag 2.1 aa standards
+- audited 10+ city websites, identifying 150+ accessibility issues
+- elevated sites from failing to meeting wcag 2.1 aa compliance standards
 
 ---
 
@@ -70,7 +70,7 @@ from conducting wcag compliance audits for city websites to redesigning platform
 
 ## let's connect ✨
 
-i'm open to internships, research collabs, or chats about equitable tech
+i'm open to internships, research collaborations, or discussions about equitable technology
 
 <p>
   <a href="https://linkedin.com/in/jadewowgreen" target="_blank">
