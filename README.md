@@ -1,6 +1,6 @@
 # hi, i'm jade zhao 💕
 
-**ux researcher + designer** · informatics @ indiana university · class of 2027
+**informatics researcher (business and society focus)** · indiana university · class of 2027
 
 currently in madrid, spain (spring 2026) exploring cross-cultural ux + ai ethics ✨
 
@@ -8,7 +8,7 @@ currently in madrid, spain (spring 2026) exploring cross-cultural ux + ai ethics
 
 ## about me 🌸
 
-i'm a ux researcher and designer passionate about creating accessible, equitable technology. my work spans nonprofits, government services, and research—always centering the humans behind the interfaces.
+i'm an informatics researcher passionate about creating accessible, equitable technology. my work spans nonprofits, government services, and research, always centering the humans behind the interfaces.
 
 from conducting wcag compliance audits for city websites to redesigning platforms for domestic violence survivors, i approach every project with trauma-informed design principles and a commitment to inclusivity.
 
