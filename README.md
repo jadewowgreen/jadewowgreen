@@ -2,7 +2,7 @@
 
 **informatics researcher with a focus on business and society** · indiana university · class of 2027
 
-currently based in madrid, spain (spring 2026), exploring cross-cultural ux and ai ethics ✨
+currently based in madrid, spain (spring 2026), exploring cross-cultural technology and ai ethics ✨
 
 ---
 
@@ -24,7 +24,7 @@ from conducting wcag compliance audits for municipal websites to redesigning pla
 **research interests:**
 - human-centered and ethical ai
 - accessibility and wcag 2.1 compliance
-- trauma-informed ux design
+- trauma-informed design
 - cross-cultural and multilingual digital experiences
 - technology solutions for underserved populations
 
@@ -38,7 +38,7 @@ from conducting wcag compliance audits for municipal websites to redesigning pla
 - created accessible presentations adhering to scientific and wcag standards
 
 **middle way house**
-- ux design intern for indiana's largest domestic violence shelter
+- design intern for indiana's largest domestic violence shelter
 - enhanced usability by 65% and increased conversions by 28% through user-centered research
 - audited 200+ ui components to achieve wcag 2.1 aa/aaa compliance
 
@@ -76,8 +76,8 @@ i'm open to internships, research collaborations, or discussions about equitable
   <a href="https://linkedin.com/in/jadewowgreen" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="https://github.com/jadewowgreen" target="_blank">
-    <img src="https://img.shields.io/badge/github-DB7093?style=for-the-badge&logo=github&logoColor=white" alt="github">
+  <a href="https://sites.google.com/view/jadewowgreen/index-html" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-DB7093?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio">
   </a>
   <a href="mailto:jadewowgreen@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/email-FFB6D9?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
