@@ -13,10 +13,10 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 ### Historic Architecture
 
 ![Church Entrance](dos1.jpg)
-*Ornate Gothic entrance on a rainy day – the wet cobblestones reflecting centuries of history*
+*Ornate Gothic entrance on a rainy day ... the wet cobblestones reflecting centuries of history*
 
 ![Gran Vía](dos2.jpg)
-*The bustling Gran Vía – Madrid's iconic boulevard alive with shoppers and dreamers*
+*The bustling Gran Vía ... Madrid's iconic boulevard alive with shoppers and dreamers*
 
 ---
 
@@ -30,7 +30,7 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 ### Museum District
 
 ![Prado Museum](dos4.jpg)
-*The Museo del Prado grounds – where art and nature coexist in perfect harmony*
+*The Museo del Prado grounds ... where art and nature coexist in perfect harmony*
 
 ---
 
@@ -44,7 +44,7 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 ### Royal Palace
 
 ![Palacio Real Gates](uno2.jpg)
-*The majestic gates of the Palacio Real – reflections of grandeur in rain puddles*
+*The majestic gates of the Palacio Real ... reflections of grandeur in rain puddles*
 
 ![Almudena Cathedral](uno3.jpg)
 *Catedral de la Almudena standing proud against dramatic Spanish skies*
@@ -60,13 +60,13 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 
 ## 📍 Locations Featured
 
-- **Iglesia de San Jerónimo el Real** – Historic church near the Prado
-- **Gran Vía** – Madrid's main shopping street
-- **Plaza de España** – Iconic square with Cervantes monument
-- **Museo del Prado** – World-renowned art museum
-- **Palacio Real de Madrid** – The Royal Palace
-- **Catedral de la Almudena** – Madrid's cathedral
-- **Centro Histórico** – The charming historic center
+- **Iglesia de San Jerónimo el Real** ... Historic church near the Prado
+- **Gran Vía** ... Madrid's main shopping street
+- **Plaza de España** ... Iconic square with Cervantes monument
+- **Museo del Prado** ... World-renowned art museum
+- **Palacio Real de Madrid** ... The Royal Palace
+- **Catedral de la Almudena** ... Madrid's cathedral
+- **Centro Histórico** ... The charming historic center
 
 ---
 
