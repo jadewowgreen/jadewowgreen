@@ -1,94 +1,73 @@
-# hi, i'm jade zhao 💕
+# Moments Abroad in Madrid, Spain 🫶🇪🇸
 
-**informatics researcher with a focus on business and society** · indiana university · class of 2027
-
-currently based in madrid, spain (spring 2026), exploring cross-cultural technology and ai ethics ✨
+**Catch flights, not feelings ✈️**
 
 ---
 
-## about me 🌸
+## The Journey
 
-i'm dedicated to creating accessible and equitable technology that centers on the people behind the screens. my work spans nonprofits, government services, and academic research, always grounded in trauma-informed design and inclusivity.
-
-from conducting wcag compliance audits for municipal websites to redesigning platforms for domestic violence survivors, i bring a human-centered approach to every project, ensuring technology serves underserved communities effectively.
+A collection of beautiful moments captured while exploring the vibrant streets and historic landmarks of Madrid.
 
 ---
 
-## what i'm up to 🌷
+### Historic Architecture
 
-**current endeavors:**
-- hudson & holland scholar at indiana university (full-ride merit scholarship)
-- studying abroad at universidad complutense de madrid (luddy study abroad scholarship + hiep grant)
-- investigating intersections of technology, culture, and community on a global scale
+![Church Entrance](dos1.jpg)
+*Ornate Gothic entrance on a rainy day – the wet cobblestones reflecting centuries of history*
 
-**research interests:**
-- human-centered and ethical ai
-- accessibility and wcag 2.1 compliance
-- trauma-informed design
-- cross-cultural and multilingual digital experiences
-- technology solutions for underserved populations
+![Gran Vía](dos2.jpg)
+*The bustling Gran Vía – Madrid's iconic boulevard alive with shoppers and dreamers*
 
 ---
 
-## recent work 🌺
+### Plaza de España
 
-**indiana phenology lab**
-- research intern analyzing plant life cycle data for environmental science
-- developed python data visualization tools improving research efficiency by 40%
-- created accessible presentations adhering to scientific and wcag standards
-
-**middle way house**
-- design intern for indiana's largest domestic violence shelter
-- enhanced usability by 65% and increased conversions by 28% through user-centered research
-- audited 200+ ui components to achieve wcag 2.1 aa/aaa compliance
-
-**city of bloomington**
-- digital accessibility intern for municipal websites
-- audited 10+ city websites, identifying 150+ accessibility issues
-- elevated sites from failing to meeting wcag 2.1 aa compliance standards
+![Cervantes Monument](dos3.jpg)
+*A quiet moment at Plaza de España, where Cervantes' legacy meets the modern skyline*
 
 ---
 
-## skills + tools 🛠
+### Museum District
 
-**research + design**
-- user research and usability testing
-- wcag 2.1 aa/aaa compliance audits
-- trauma-informed design
-- figma, adobe creative suite
-
-**tech stack**
-- react, node.js, postgresql
-- python, javascript, html/css
-- d3.js for data visualization
-
-**languages**
-- english (native)
-- mandarin chinese (professional working proficiency)
+![Prado Museum](dos4.jpg)
+*The Museo del Prado grounds – where art and nature coexist in perfect harmony*
 
 ---
 
-## let's connect ✨
+### City Views
 
-i'm open to internships, research collaborations, or discussions about equitable technology
-
-<p>
-  <a href="https://linkedin.com/in/jadewowgreen" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-  <a href="https://sites.google.com/view/jadewowgreen/index-html" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-DB7093?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio">
-  </a>
-  <a href="mailto:jadewowgreen@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-FFB6D9?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
-  </a>
-  <a href="https://jlzhao.pages.iu.edu/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/resume-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="resume">
-  </a>
-</p>
+![Madrid Rooftops](uno1.jpg)
+*Sun breaking through clouds over Madrid's eclectic rooftops*
 
 ---
 
-<p align="center">
-  <i>accessibility-first. trauma-informed. human-centered.</i>
-</p>
+### Royal Palace
+
+![Palacio Real Gates](uno2.jpg)
+*The majestic gates of the Palacio Real – reflections of grandeur in rain puddles*
+
+![Almudena Cathedral](uno3.jpg)
+*Catedral de la Almudena standing proud against dramatic Spanish skies*
+
+---
+
+### Street Life
+
+![Madrid Streets](uno4.jpg)
+*Golden hour painting the historic buildings near Plaza Mayor*
+
+---
+
+## 📍 Locations Featured
+
+- **Iglesia de San Jerónimo el Real** – Historic church near the Prado
+- **Gran Vía** – Madrid's main shopping street
+- **Plaza de España** – Iconic square with Cervantes monument
+- **Museo del Prado** – World-renowned art museum
+- **Palacio Real de Madrid** – The Royal Palace
+- **Catedral de la Almudena** – Madrid's cathedral
+- **Centro Histórico** – The charming historic center
+
+---
+
+*Madrid, you have my heart* 💃🏻
