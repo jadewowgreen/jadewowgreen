@@ -2,71 +2,102 @@
 
 **Catch flights, not feelings ✈️**
 
----
-
-> *"Studying abroad pushes you out of your comfort zone in the best way. You learn so much about yourself when you're figuring things out in a new place. Every Hoosier deserves to experience that."*
-
-**Jade Zhao (玉)** · IU Madrid English Track · Spring 2026
+A collection of beautiful moments captured while exploring the vibrant streets and historic corners of Madrid.
 
 ---
 
-## 📸 Photo Gallery
+## 📸 The Gallery
 
-### Day One — Royal Madrid & Cathedral Views
+### Historic Architecture
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| ![Royal Palace Gates](uno1.jpg) | ![Almudena Cathedral](uno2.jpg) | ![Madrid Skyline](uno3.jpg) | ![Street Scene](uno4.jpg) |
-| *Royal Palace Gates* | *Almudena Cathedral* | *Madrid Rooftops* | *Golden Hour Streets* |
+![Church Entrance](dos1.jpg)
+*Ornate Gothic entrance on a rainy day ... the wet cobblestones reflecting centuries of history*
 
-The majestic gates of the Palacio Real, the imposing Catedral de la Almudena, and those incredible Madrid skies that just don't quit.
-
----
-
-### Day Two — Gran Vía & Historic Center
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| ![Church Entrance](dos1.jpg) | ![Gran Vía](dos2.jpg) | ![Plaza de España](dos3.jpg) | ![Prado Area](dos4.jpg) |
-| *Iglesia de los Jerónimos* | *Gran Vía Crowds* | *Plaza de España* | *Near the Prado* |
-
-Walking the iconic Gran Vía, discovering the ornate Iglesia de San Jerónimo el Real, and finding quiet moments near the Prado Museum.
+![Gran Vía](dos2.jpg)
+*The bustling Gran Vía ... Madrid's iconic boulevard alive with shoppers and dreamers*
 
 ---
 
-### Day Three — Plaza Mayor & Evening Strolls
+### Plaza de España
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| ![ZARA Evening](tres1.jpg) | ![Plaza Mayor](tres2.jpg) | ![Madrid Streets](tres3.jpg) | ![Memorial](tres4.jpg) |
-| *Rainy Evening Shopping* | *Plaza Mayor* | *Side Street Views* | *Historic Memorial* |
-
-Rain-slicked streets reflecting city lights, the breathtaking frescoes of Plaza Mayor, and those charming narrow streets that make you fall in love with Madrid.
+![Cervantes Monument](dos3.jpg)
+*The Cervantes Monument at Plaza de España ... literary giants watching over the city*
 
 ---
 
-## 🗺️ Places Captured
+### Museum District
 
-- **Palacio Real de Madrid** — The official residence of the Spanish Royal Family
-- **Catedral de la Almudena** — Madrid's stunning Catholic cathedral
-- **Gran Vía** — The bustling heart of Madrid's shopping & entertainment district
-- **Plaza Mayor** — The iconic central plaza with its beautiful painted facades
-- **Plaza de España** — Home to the Cervantes Monument
-- **Museo del Prado** — One of the world's greatest art museums
-- **Iglesia de San Jerónimo el Real** — A gorgeous Gothic church near the Prado
+![Prado Museum](dos4.jpg)
+*The Museo del Prado grounds ... where art and nature coexist in perfect harmony*
 
 ---
 
-## ✨ Study Abroad Tips
+### Plaza Mayor
 
-1. **Embrace the rain** — Some of the most magical photos happen on cloudy days
-2. **Get lost on purpose** — The side streets hold the best surprises
-3. **Golden hour is real** — Madrid glows differently at sunset
-4. **Say yes to everything** — Every Hoosier deserves these moments
+![Casa de la Panadería](tres2.jpg)
+*The stunning frescoed facade of Casa de la Panadería in Plaza Mayor ... baroque beauty at golden hour*
 
 ---
 
-<p align="center">
-  <i>Made with 💛 from Madrid</i><br>
-  <b>IU Madrid English Track · Spring 2026</b>
-</p>
+### Royal Palace
+
+![Palacio Real Gates](uno2.jpg)
+*The majestic gates of the Palacio Real ... reflections of grandeur in rain puddles*
+
+![Almudena Cathedral](uno3.jpg)
+*Catedral de la Almudena standing proud against dramatic Spanish skies*
+
+---
+
+### City Views
+
+![Madrid Rooftops](uno1.jpg)
+*A glimpse of Madrid's rooftops under billowing clouds ... the Spanish flag flying proud*
+
+![Historic Streets](uno4.jpg)
+*Golden afternoon light on traditional Madrid apartments ... wrought iron balconies telling stories*
+
+---
+
+### Evening Vibes
+
+![Zara at Night](tres1.jpg)
+*Blue hour shopping ... city lights reflecting on rain-slicked streets*
+
+---
+
+### Centro Histórico
+
+![City Street](tres2.jpg)
+*Plaza Mayor's painted masterpiece glowing in the late afternoon sun*
+
+---
+
+### Architecture & Charm
+
+![Gran Vía Buildings](tres3.jpg)
+*Looking up between ornate Belle Époque buildings ... Madrid's architectural canyon*
+
+![Memorial Monument](tres4.jpg)
+*A quiet corner of the city ... history etched in bronze and stone*
+
+---
+
+## 📍 Locations Featured
+
+- **Iglesia de San Jerónimo el Real** ... Historic church near the Prado
+- **Gran Vía** ... Madrid's main shopping street
+- **Plaza de España** ... Iconic square with Cervantes monument
+- **Museo del Prado** ... World-renowned art museum
+- **Palacio Real de Madrid** ... The Royal Palace
+- **Catedral de la Almudena** ... Madrid's cathedral
+- **Centro Histórico** ... The charming historic center
+- **Plaza Mayor** ... Madrid's grand central square with stunning frescoes
+
+---
+
+*Madrid, you have my heart* 💃🏻
+
+---
+
+> Studying abroad pushes you out of your comfort zone in the best way. You learn so much about yourself when you're figuring things out in a new place. Every Hoosier deserves to experience that.
