@@ -101,4 +101,4 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 
 > Studying abroad pushes you out of your comfort zone in the best way. You learn so much about yourself when you're figuring things out in a new place. Every Hoosier deserves to experience that.
 
-**Jade Zhao (赵)** · IU Madrid English Track · Spring 2026
+**Jade Zhao (玉)** · IU Madrid English Track · Spring 2026
