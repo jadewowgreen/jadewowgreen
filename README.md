@@ -86,10 +86,10 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 ### Campus Life
 
 ![Clock Tower at Dusk](cuatro1.jpg)
-*Blue hour glow over the university building ... streetlights flickering on*
+*A peaceful winding path through pine trees ... nature escapes in the city*
 
 ![Park Path](cuatro2.jpg)
-*A peaceful winding path through pine trees ... nature escapes in the city*
+*Blue hour glow over the university building ... streetlights flickering on*
 
 ![University Library](cuatro3.jpg)
 *Study sessions in the stacks ... where late nights and learning collide*
@@ -109,7 +109,7 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 - **Catedral de la Almudena** ... Madrid's cathedral
 - **Centro Histórico** ... The charming historic center
 - **Plaza Mayor** ... Madrid's grand central square with stunning frescoes
-- **Universidad Autónoma de Madrid** ... Campus life and study spots
+- **Universidad Complutense de Madrid** ... Faculty of Geography and History, campus life
 
 ---
 
