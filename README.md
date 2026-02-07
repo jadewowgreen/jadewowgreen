@@ -1,4 +1,5 @@
 # Moments Abroad in Madrid, Spain 🫶🇪🇸
+
 **Catch flights, not feelings ✈️**
 
 A collection of beautiful moments captured while exploring the vibrant streets and historic corners of Madrid.
@@ -82,19 +83,19 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 
 ---
 
-### Local Life
+### Campus Life
 
 ![Clock Tower at Dusk](cuatro1.jpg)
-*Blue hour in the neighborhood ... street lamps glowing against a twilight sky*
+*Blue hour glow over the university building ... streetlights flickering on*
 
-![Pine Grove Path](cuatro2.jpg)
-*Peaceful park walks through Madrid's pine groves ... nature within the city*
+![Park Path](cuatro2.jpg)
+*A peaceful winding path through pine trees ... nature escapes in the city*
 
-![Library Interior](cuatro3.jpg)
-*Quiet moments in a Madrid library ... where stories live on wooden shelves*
+![University Library](cuatro3.jpg)
+*Study sessions in the stacks ... where late nights and learning collide*
 
-![Park at Twilight](cuatro4.jpg)
-*Dusk settling over a local park ... modern pergolas under moody Spanish skies*
+![Campus Terrace](cuatro4.jpg)
+*Moody skies and pergolas ... the calm before the rain*
 
 ---
 
@@ -108,8 +109,7 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 - **Catedral de la Almudena** ... Madrid's cathedral
 - **Centro Histórico** ... The charming historic center
 - **Plaza Mayor** ... Madrid's grand central square with stunning frescoes
-- **Casa de Campo / Local Parks** ... Green escapes within the city
-- **Neighborhood Streets** ... The everyday beauty of Madrid life
+- **Universidad Autónoma de Madrid** ... Campus life and study spots
 
 ---
 
