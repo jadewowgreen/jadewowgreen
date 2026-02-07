@@ -1,5 +1,4 @@
 # Moments Abroad in Madrid, Spain 🫶🇪🇸
-
 **Catch flights, not feelings ✈️**
 
 A collection of beautiful moments captured while exploring the vibrant streets and historic corners of Madrid.
@@ -83,6 +82,22 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 
 ---
 
+### Local Life
+
+![Clock Tower at Dusk](cuatro1.jpg)
+*Blue hour in the neighborhood ... street lamps glowing against a twilight sky*
+
+![Pine Grove Path](cuatro2.jpg)
+*Peaceful park walks through Madrid's pine groves ... nature within the city*
+
+![Library Interior](cuatro3.jpg)
+*Quiet moments in a Madrid library ... where stories live on wooden shelves*
+
+![Park at Twilight](cuatro4.jpg)
+*Dusk settling over a local park ... modern pergolas under moody Spanish skies*
+
+---
+
 ## 📍 Locations Featured
 
 - **Iglesia de San Jerónimo el Real** ... Historic church near the Prado
@@ -93,6 +108,8 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 - **Catedral de la Almudena** ... Madrid's cathedral
 - **Centro Histórico** ... The charming historic center
 - **Plaza Mayor** ... Madrid's grand central square with stunning frescoes
+- **Casa de Campo / Local Parks** ... Green escapes within the city
+- **Neighborhood Streets** ... The everyday beauty of Madrid life
 
 ---
 
