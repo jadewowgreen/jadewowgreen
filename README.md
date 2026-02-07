@@ -85,17 +85,17 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 
 ### Campus Life
 
-![Park Path](cuatro1.jpg)
-*Winding through pine groves ... finding peace between classes*
-
 ![Clock Tower at Dusk](cuatro2.jpg)
-*The Complutense clock tower glowing at blue hour ... when the city lights up and the sky goes electric*
+*Blue hour in the neighborhood ... streetlights flickering on as the sky goes electric*
+
+![Park Path](cuatro1.jpg)
+*Winding through the pine groves ... peaceful park walks between classes*
 
 ![University Library](cuatro3.jpg)
-*Rows of knowledge stretching into the distance ... late nights and library finds*
+*The library stacks stretching into the distance ... where late nights happen*
 
-![Campus Terrace](cuatro4.jpg)
-*Umbrellas and moody skies ... embracing the rain on the terrace*
+![Park at Dusk](cuatro4.jpg)
+*Pergolas and moody skies ... embracing the rain at twilight*
 
 ---
 
