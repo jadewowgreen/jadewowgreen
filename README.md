@@ -5,7 +5,7 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 
 ---
 
-## Week 1
+## Episode 1: City Skylines & Sacred Spaces
 
 ![Madrid Rooftops](uno1.jpg)
 A glimpse of Madrid's rooftops under billowing clouds ... the Spanish flag flying proud
@@ -21,7 +21,7 @@ Golden afternoon light on traditional Madrid apartments ... wrought iron balconi
 
 ---
 
-## Week 2
+## Episode 2: Gothic Corners & Grand Museums
 
 ![Church Entrance](dos1.jpg)
 Ornate Gothic entrance on a rainy day ... the wet cobblestones reflecting centuries of history
@@ -37,7 +37,7 @@ The Museo del Prado grounds ... where art and nature coexist in perfect harmony
 
 ---
 
-## Week 3
+## Episode 3: Blue Hour & Baroque Beauty
 
 ![Zara at Night](tres1.jpg)
 Blue hour shopping ... city lights reflecting on rain-slicked streets
@@ -53,7 +53,7 @@ A quiet corner of the city ... history etched in bronze and stone
 
 ---
 
-## Week 4
+## Episode 4: Campus Walks & Twilight Moments
 
 ![Park Path](cuatro1.jpg)
 Winding through the pine groves ... peaceful park walks between classes
@@ -69,7 +69,7 @@ Pergolas and moody skies ... embracing the rain at twilight
 
 ---
 
-## Week 5
+## Episode 5: Golden Hours & Medieval Magic
 
 ![Golden Hour Streets](cinco4.jpg)
 Golden hour in Madrid never gets old 🌅
