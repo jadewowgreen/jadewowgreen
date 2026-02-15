@@ -5,21 +5,21 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 
 ---
 
-## Ancient Fortress Gateway
-![Fortress Gateway](cinco4.jpg)
-Ancient fortress gateway 🗝️
+## Historic Military Building
+![Military Building](cinco1.jpg)
+Historic Spanish military building 🏛️
+
+## Medieval Toledo
+![Toledo Hilltop](cinco2.jpg)
+Medieval Toledo on the hilltop 🏰
 
 ## Medieval Toledo
 ![Toledo Hilltop](cinco3.jpg)
 Medieval Toledo on the hilltop 🏰
 
-## Historic Military Building
-![Military Building](cinco2.jpg)
-Historic Spanish military building 🏛️
-
-## Golden Hour Magic
-![Golden Hour Streets](cinco1.jpg)
-Golden hour Madrid with those iconic golden buildings 🌅
+## Ancient Fortress Gateway
+![Fortress Gateway](cinco4.jpg)
+Ancient fortress gateway 🗝️
 
 ---
 
