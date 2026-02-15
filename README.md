@@ -5,84 +5,83 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 
 ---
 
-## Ancient Fortress Gateway
-![Fortress Gateway](cinco1.jpg)
-Ancient fortress gateway 🗝️
+## Week 1
 
-## Medieval Toledo
-![Toledo Hilltop](cinco2.jpg)
-Medieval Toledo on the hilltop 🏰
+![Madrid Rooftops](uno1.jpg)
+A glimpse of Madrid's rooftops under billowing clouds ... the Spanish flag flying proud
 
-## Historic Military Building
-![Military Building](cinco3.jpg)
-Historic Spanish military building 🏛️
-
-## Golden Hour Magic
-![Golden Hour Streets](cinco4.jpg)
-Golden hour Madrid with those iconic golden buildings 🌅
-
----
-
-## Historic Architecture
-![Church Entrance](dos1.jpg)
-Ornate Gothic entrance on a rainy day ... the wet cobblestones reflecting centuries of history
-
-![Gran Vía](dos2.jpg)
-The bustling Gran Vía ... Madrid's iconic boulevard alive with shoppers and dreamers
-
-## Plaza de España
-![Cervantes Monument](dos3.jpg)
-The Cervantes Monument at Plaza de España ... literary giants watching over the city
-
-## Museum District
-![Prado Museum](dos4.jpg)
-The Museo del Prado grounds ... where art and nature coexist in perfect harmony
-
-## Plaza Mayor
-![Casa de la Panadería](tres2.jpg)
-The stunning frescoed facade of Casa de la Panadería in Plaza Mayor ... baroque beauty at golden hour
-
-## Royal Palace
 ![Palacio Real Gates](uno2.jpg)
 The majestic gates of the Palacio Real ... reflections of grandeur in rain puddles
 
 ![Almudena Cathedral](uno3.jpg)
 Catedral de la Almudena standing proud against dramatic Spanish skies
 
-## City Views
-![Madrid Rooftops](uno1.jpg)
-A glimpse of Madrid's rooftops under billowing clouds ... the Spanish flag flying proud
-
 ![Historic Streets](uno4.jpg)
 Golden afternoon light on traditional Madrid apartments ... wrought iron balconies telling stories
 
-## Evening Vibes
+---
+
+## Week 2
+
+![Church Entrance](dos1.jpg)
+Ornate Gothic entrance on a rainy day ... the wet cobblestones reflecting centuries of history
+
+![Gran Vía](dos2.jpg)
+The bustling Gran Vía ... Madrid's iconic boulevard alive with shoppers and dreamers
+
+![Cervantes Monument](dos3.jpg)
+The Cervantes Monument at Plaza de España ... literary giants watching over the city
+
+![Prado Museum](dos4.jpg)
+The Museo del Prado grounds ... where art and nature coexist in perfect harmony
+
+---
+
+## Week 3
+
 ![Zara at Night](tres1.jpg)
 Blue hour shopping ... city lights reflecting on rain-slicked streets
 
-## Centro Histórico
-![City Street](tres2.jpg)
-Plaza Mayor's painted masterpiece glowing in the late afternoon sun
+![Casa de la Panadería](tres2.jpg)
+The stunning frescoed facade of Casa de la Panadería in Plaza Mayor ... baroque beauty at golden hour
 
-## Architecture & Charm
 ![Gran Vía Buildings](tres3.jpg)
 Looking up between ornate Belle Époque buildings ... Madrid's architectural canyon
 
 ![Memorial Monument](tres4.jpg)
 A quiet corner of the city ... history etched in bronze and stone
 
-## Campus Life
-![Clock Tower at Dusk](cuatro2.jpg)
-Blue hour in the neighborhood ... streetlights flickering on as the sky goes electric
+---
+
+## Week 4
 
 ![Park Path](cuatro1.jpg)
 Winding through the pine groves ... peaceful park walks between classes
+
+![Clock Tower at Dusk](cuatro2.jpg)
+Blue hour in the neighborhood ... streetlights flickering on as the sky goes electric
 
 ![University Library](cuatro3.jpg)
 The library stacks stretching into the distance ... where late nights happen
 
 ![Park at Dusk](cuatro4.jpg)
 Pergolas and moody skies ... embracing the rain at twilight
+
+---
+
+## Week 5
+
+![Golden Hour Streets](cinco4.jpg)
+Golden hour in Madrid never gets old 🌅
+
+![Military Building](cinco3.jpg)
+The architecture here tells centuries of stories 🏛️
+
+![Toledo Hilltop](cinco2.jpg)
+Toledo really is something else ... literally took my breath away 🏰
+
+![Fortress Gateway](cinco1.jpg)
+Walking through centuries ... this is what time travel feels like 🗝️
 
 ---
 
