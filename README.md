@@ -7,80 +7,80 @@ A collection of beautiful moments captured while exploring the vibrant streets a
 
 ## Episode 1: City Skylines & Sacred Spaces
 
-![Madrid Rooftops](uno1.jpg)
+![Madrid Rooftops](images/uno1.jpg)
 Madrid's skyline painted in warm light ... a city of endless rooftops and Spanish pride
 
-![Palacio Real Gates](uno2.jpg)
+![Palacio Real Gates](images/uno2.jpg)
 Standing at the gates of royalty ... grand, impossible, timeless architecture
 
-![Almudena Cathedral](uno3.jpg)
+![Almudena Cathedral](images/uno3.jpg)
 Where the city stops to look up ... white stone against Madrid's dramatic skies
 
-![Historic Streets](uno4.jpg)
+![Historic Streets](images/uno4.jpg)
 Old Madrid glowing in the afternoon ... iron balconies holding centuries of stories
 
 ---
 
 ## Episode 2: Gothic Corners & Grand Museums
 
-![Church Entrance](dos1.jpg)
+![Church Entrance](images/dos1.jpg)
 Gothic doorways and rain-soaked streets ... history carved into every stone
 
-![Gran Vía](dos2.jpg)
+![Gran Vía](images/dos2.jpg)
 The heartbeat of Madrid ... where everyone wanders, everyone dreams, everyone lives
 
-![Cervantes Monument](dos3.jpg)
+![Cervantes Monument](images/dos3.jpg)
 Literary giants watching over the plaza ... Spain's soul in bronze and marble
 
-![Prado Museum](dos4.jpg)
+![Prado Museum](images/dos4.jpg)
 Art and nature in perfect balance ... where masterpieces meet the Madrid light
 
 ---
 
 ## Episode 3: Blue Hour & Baroque Beauty
 
-![Zara at Night](tres1.jpg)
+![Zara at Night](images/tres1.jpg)
 City lights bleeding into wet streets ... the magic hour when Madrid comes alive
 
-![Casa de la Panadería](tres2.jpg)
+![Casa de la Panadería](images/tres2.jpg)
 Frescoed facades glowing gold at dusk ... Plaza Mayor's masterpiece
 
-![Gran Vía Buildings](tres3.jpg)
+![Gran Vía Buildings](images/tres3.jpg)
 Looking up through architectural canyons ... Belle Époque beauty towering overhead
 
-![Memorial Monument](tres4.jpg)
+![Memorial Monument](images/tres4.jpg)
 Quiet corners where time stands still ... history in shadow and stone
 
 ---
 
 ## Episode 4: Campus Walks & Twilight Moments
 
-![Park Path](cuatro1.jpg)
+![Park Path](images/cuatro1.jpg)
 Pine groves and peaceful wandering ... the campus between classes and consciousness
 
-![Clock Tower at Dusk](cuatro2.jpg)
+![Clock Tower at Dusk](images/cuatro2.jpg)
 Electric blue hour in the neighborhood ... streetlights flickering on as the sky shifts
 
-![University Library](cuatro3.jpg)
+![University Library](images/cuatro3.jpg)
 Late night stacks and endless knowledge ... where students lose track of time
 
-![Park at Dusk](cuatro4.jpg)
+![Park at Dusk](images/cuatro4.jpg)
 Moody pergolas and rainy twilight ... embracing the melancholy beauty of evening
 
 ---
 
 ## Episode 5: Golden Hours & Medieval Magic
 
-![Golden Hour Streets](cinco4.jpg)
+![Golden Hour Streets](images/cinco4.jpg)
 Golden hour never looked so golden ... Madrid turning into liquid light at dusk
 
-![Military Building](cinco3.jpg)
+![Military Building](images/cinco3.jpg)
 Centuries of stories in Spanish brick ... architecture that commands respect
 
-![Toledo Hilltop](cinco2.jpg)
+![Toledo Hilltop](images/cinco2.jpg)
 Perched on a hilltop like a dream ... Toledo bends the rules of reality
 
-![Fortress Gateway](cinco1.jpg)
+![Fortress Gateway](images/cinco1.jpg)
 Walking through centuries in one step ... time travel carved in stone and light
 
 ---
