@@ -103,16 +103,27 @@ Bronze horses charging into a cloudless sky ... triumph carved in stone at Moncl
 ## Locations Featured
 
 Iglesia de San Jerónimo el Real ... Historic church near the Prado
+
 Gran Vía ... Madrid's main shopping street
+
 Plaza de España ... Iconic square with Cervantes monument
+
 Museo del Prado ... World-renowned art museum
+
 Palacio Real de Madrid ... The Royal Palace
+
 Catedral de la Almudena ... Madrid's cathedral
+
 Centro Histórico ... The charming historic center
+
 Plaza Mayor ... Madrid's grand central square with stunning frescoes
+
 Universidad Complutense de Madrid ... Faculty of Geography and History, campus life
+
 Toledo ... Medieval hilltop city with river views and ancient fortresses
+
 Plaza del Callao ... Rooftop views over central Madrid at sunset
+
 Arco de la Victoria ... Triumphal arch at Moncloa with iconic bronze quadriga
 
 ---
