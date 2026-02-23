@@ -1,6 +1,5 @@
 # Moments Abroad in Madrid, Spain 🫶🇪🇸
 Catch flights, not feelings ✈️
-
 A collection of beautiful moments captured while exploring the vibrant streets and historic corners of Madrid.
 
 ---
@@ -85,26 +84,36 @@ Walking through centuries in one step ... time travel carved in stone and light
 
 ---
 
+## Episode 6: Rooftops, Nights & Ancient Arches
+
+![Madrid Sunset Rooftop](images/seis1.jpg)
+Fiery skies over the city at golden hour ... Madrid burning beautifully from above
+
+![Gran Vía After Dark](images/seis2.jpg)
+Neon signs and grand facades under a midnight sky ... Gran Vía never sleeps
+
+![Madrid Neighborhood Morning](images/seis3.jpg)
+Quiet courtyards and overcast skies ... the Madrid the tourists never find
+
+![Arco de la Victoria](images/seis4.jpg)
+Bronze horses charging into a cloudless sky ... triumph carved in stone at Moncloa
+
+---
+
 ## Locations Featured
+
 Iglesia de San Jerónimo el Real ... Historic church near the Prado
-
 Gran Vía ... Madrid's main shopping street
-
 Plaza de España ... Iconic square with Cervantes monument
-
 Museo del Prado ... World-renowned art museum
-
 Palacio Real de Madrid ... The Royal Palace
-
 Catedral de la Almudena ... Madrid's cathedral
-
 Centro Histórico ... The charming historic center
-
 Plaza Mayor ... Madrid's grand central square with stunning frescoes
-
 Universidad Complutense de Madrid ... Faculty of Geography and History, campus life
-
 Toledo ... Medieval hilltop city with river views and ancient fortresses
+Plaza del Callao ... Rooftop views over central Madrid at sunset
+Arco de la Victoria ... Triumphal arch at Moncloa with iconic bronze quadriga
 
 ---
 
