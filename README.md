@@ -97,7 +97,7 @@ Neon signs and grand facades under a midnight sky ... Gran Vía never sleeps
 Quiet courtyards and overcast skies ... the Madrid the tourists never find
 
 ![Arco de la Victoria](images/seis4.jpg)
-Bronze horses charging into a cloudless sky ... triumph carved in stone at Moncloa
+Stone arch and inscription against a cloudless sky ... Arco de la Victoria at Moncloa
 
 ---
 
