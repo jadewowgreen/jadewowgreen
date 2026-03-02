@@ -101,6 +101,22 @@ Stone arch and inscription against a cloudless sky ... Arco de la Victoria at Mo
 
 ---
 
+## Episode 7: Puerta del Sol & the City That Believes in You
+
+![Madrid Street Canyon](images/siete1.jpg)
+Looking up between the walls that hold your dreams ... you got this, and Madrid's got you
+
+![El Oso y el Madroño](images/siete2.jpg)
+The bear and the strawberry tree ... fifty years in Sol, and still the heart of everything
+
+![Real Casa de Correos](images/siete3.jpg)
+Golden hour on the square where Spain begins ... kings and clocks and the moment you decided to stay
+
+![Modern Madrid Skyline](images/siete4.jpg)
+Old soul, new skyline ... where the city reaches up and says keep going
+
+---
+
 ## Locations Featured
 
 Iglesia de San Jerónimo el Real ... Historic church near the Prado
@@ -126,6 +142,14 @@ Toledo ... Medieval hilltop city with river views and ancient fortresses
 Plaza del Callao ... Rooftop views over central Madrid at sunset
 
 Arco de la Victoria ... Triumphal arch at Moncloa with iconic bronze quadriga
+
+Puerta del Sol ... The heart of Madrid, kilometer zero, where it all begins
+
+El Oso y el Madroño ... The bear and strawberry tree, Madrid's beloved symbol
+
+Real Casa de Correos ... Historic post office and clock tower, golden hour perfection
+
+EY Tower & El Corte Inglés ... Modern skyline where the city reaches for the sky
 
 ---
 
