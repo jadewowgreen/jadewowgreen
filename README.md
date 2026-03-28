@@ -149,6 +149,38 @@ Colorful mochi ice cream display in Madrid featuring strawberry, matcha, chocola
 
 ---
 
+## Episode 10: Segovia — Roman Stone, Stained Glass & Gothic Spires
+
+![Aqueduct of Segovia](images/diez1.jpg)
+The Roman aqueduct of Segovia spanning the plaza, massive unmortared granite arches with townspeople strolling below and a Spanish flag above the central niche, diffused light under a partly cloudy sky, Spain.
+
+![Alcázar Stained Glass](images/diez2.jpg)
+Historic stained-glass window inside the Alcázar of Segovia, royal and heraldic panels including Enrique III of Castile with crown and sword, Castilian lions and castles, set in a deep stone recess, Spain.
+
+![Bell Tower View](images/diez3.jpg)
+View from a cathedral bell tower over Segovia's terracotta roofs, a massive bronze bell and stone wall in the foreground, the fairy-tale Alcázar rising above the old town and green hills on the horizon, Spain.
+
+![Segovia Cathedral](images/diez4.jpg)
+The late Gothic Catedral de Segovia with its ribbed dome, flying buttresses, and forest of pinnacles, seen from the plaza with café umbrellas, visitors, and a local police car at the foot of the façade, Spain.
+
+---
+
+## Episode 11: Matcha, Lattes & Quiet Café Corners
+
+![Bagel & Iced Matcha](images/once1.jpg)
+Toasted bagel halves with cream cheese on a speckled plate, wooden tray, and a tall iced matcha latte in a Starbucks glass on a light wood table, Madrid, Spain.
+
+![Latte & Cinnamon Roll](images/once2.jpg)
+White mug of foamy latte with caramel crosshatch drizzle beside a glazed cinnamon roll on a ceramic plate, silverware on a napkin over a dark wood tray, casual café moment in Madrid, Spain.
+
+![Layered Iced Drink](images/once3.jpg)
+Starbucks layered iced beverage—vibrant matcha, creamy milk, and bright purple syrup marbling in a condensation-beaded glass with the siren logo, bakery case and warm interior light behind, Madrid, Spain.
+
+![Frappe & Toast](images/once4.jpg)
+Blended white frappe topped with whipped cream next to seeded sourdough toast and a small dish of spread with spoon, arranged on a dark wooden tray for a light café breakfast, Madrid, Spain.
+
+---
+
 ## Locations Featured
 
 Iglesia de San Jerónimo el Real · Historic church near the Prado \
@@ -174,6 +206,11 @@ Palacio de Cristal · Glass and iron palace within Retiro Park \
 Jardines de Sabatini · Formal gardens bordering the Royal Palace \
 Templo de Debod · Ancient Egyptian temple gifted to Spain, iconic sunset spot \
 Calle de Fuencarral · Trendy shopping street in Malasaña and Chueca, lined with independent shops, bakeries, and creperies \
+Segovia · Roman aqueduct, Alcázar, and Gothic cathedral on a hill-town day trip from Madrid \
+Acueducto de Segovia · Two-tier Roman granite bridge, emblem of the city \
+Alcázar de Segovia · Fortress-palace with royal stained glass and tower views \
+Catedral de Segovia · Late Gothic “Lady of Cathedrals” with dome and pinnacles \
+Starbucks (Madrid) · Study-session fuel—matcha, layered drinks, and café corners between classes \
 Adolfo Suárez Madrid-Barajas Airport · Gateway in and out of the city
 
 ---
