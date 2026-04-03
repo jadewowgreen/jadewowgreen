@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jade Zhao</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Mono:wght@300;400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <div class="cursor" id="cursor"></div>
+  <div class="cursor-ring" id="cursorRing"></div>
+
+  <!-- Nav -->
+  <nav>
+    <a href="#" class="nav-logo">Jade Zhao 🪴</a>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#work">Work</a></li>
+      <li><a href="#photography">Photography</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-left">
+      <div class="hero-eyebrow">Software Engineer · Informatics @ IU · 第二代</div>
+      <h1 class="hero-name">
+        Jade<br><em>Zhao</em>
+      </h1>
+      <p class="hero-tagline">
+        I build technology that actually works for the people who need it most — accessible, ethical, and grounded in the communities it serves.
+      </p>
+      <div class="hero-chinese">盛放于所在之处</div>
+      <div class="hero-links">
+        <a href="https://linkedin.com/in/jadexzhao" class="hero-link" target="_blank">LinkedIn</a>
+        <a href="https://github.com/matchaxmoxie" class="hero-link" target="_blank">GitHub</a>
+        <a href="../resume.pdf" class="hero-link" target="_blank">Résumé</a>
+      </div>
+    </div>
+    <div class="hero-right">
+      <div class="hero-botanical"></div>
+      <div class="hero-right-content">
+        <div class="hero-number">玉</div>
+      </div>
+    </div>
+    <div class="hero-scroll-hint">
+      <span>Scroll</span>
+      <div class="scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about">
+    <div class="container">
+      <div class="about-grid">
+        <div>
+          <div class="section-label reveal">关于我</div>
+          <h2 class="section-title reveal">About<br><em>the work</em></h2>
+          <div class="about-text reveal">
+            <p>I study Informatics at Indiana University with a focus on building technology that's accessible, ethical, and useful for people who are often left out of the design process — survivors of domestic violence, English language learners, low-income students, and communities navigating complex health systems.</p>
+            <p>Currently on a semester abroad in Madrid on the <strong>Hutton International Experiences Program</strong>. Hudson & Holland Scholar. Dean's List.</p>
+            <p>Grew up between two cultures, which mostly means I overthink in two languages and have strong opinions about both dumplings and sourdough. Future duck farmer. 🦆</p>
+          </div>
+        </div>
+        <div class="about-facts reveal">
+          <div class="fact">
+            <span class="fact-label">Currently</span>
+            <span class="fact-value">Madrid, Spain (Spring 2026)</span>
+          </div>
+          <div class="fact">
+            <span class="fact-label">Education</span>
+            <span class="fact-value">B.S. Informatics, IU Luddy · GPA 3.70 · Class of 2027</span>
+          </div>
+          <div class="fact">
+            <span class="fact-label">Focus</span>
+            <span class="fact-value">Accessibility · Ethical AI · Human-Centered Design</span>
+          </div>
+          <div class="fact">
+            <span class="fact-label">Stack</span>
+            <span class="fact-value">Python · TypeScript · React · Node.js · SQL · D3.js</span>
+          </div>
+          <div class="fact">
+            <span class="fact-label">Languages</span>
+            <span class="fact-value">English · Mandarin (Professional) · Spanish (Elementary)</span>
+          </div>
+          <div class="fact">
+            <span class="fact-label">Off-hours</span>
+            <span class="fact-value">Film photography · jade plants · nightstand stack</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Work -->
+  <section id="work">
+    <div class="container">
+      <div class="section-label reveal">Selected Work</div>
+      <h2 class="section-title reveal">Projects that<br><em>matter</em></h2>
+    </div>
+    <div class="projects-grid">
+
+      <!-- Middle Way House -->
+      <div class="project-card reveal">
+        <div class="project-number">01 — Nonprofit · Accessibility</div>
+        <h3 class="project-title">Middle Way House<br>Website Redesign</h3>
+        <p class="project-desc">Led a full redesign for a nonprofit serving domestic violence survivors. Prioritized trauma-informed UX, plain language, and crisis-path clarity — because when someone needs help, the website cannot be the barrier.</p>
+        <div class="project-tags">
+          <span class="tag">WCAG 2.1 AAA</span>
+          <span class="tag">UX Research</span>
+          <span class="tag">Figma</span>
+          <span class="tag">Axe DevTools</span>
+        </div>
+        <div class="project-outcomes">
+          <div class="outcome">
+            <span class="outcome-stat">65%</span>
+            <span class="outcome-label">Usability ↑</span>
+          </div>
+          <div class="outcome">
+            <span class="outcome-stat">28%</span>
+            <span class="outcome-label">Conversions ↑</span>
+          </div>
+          <div class="outcome">
+            <span class="outcome-stat">200+</span>
+            <span class="outcome-label">Components audited</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ServeAI -->
+      <div class="project-card reveal">
+        <div class="project-number">02 — AI · Education</div>
+        <h3 class="project-title">Luddy ServeAI<br>Adaptive Learning Platform</h3>
+        <p class="project-desc">Led a cross-functional team at IU's ServeAI Clinic to build an AI tutoring system for English language learners and students with learning disabilities. Designed with educator oversight and bias detection at the core — not as an afterthought.</p>
+        <div class="project-tags">
+          <span class="tag">Ethical AI</span>
+          <span class="tag">LLM Orchestration</span>
+          <span class="tag">React</span>
+          <span class="tag">Agile</span>
+        </div>
+        <div class="project-outcomes">
+          <div class="outcome">
+            <span class="outcome-stat">45%</span>
+            <span class="outcome-label">Engagement ↑</span>
+          </div>
+          <div class="outcome">
+            <span class="outcome-stat">5</span>
+            <span class="outcome-label">Team members led</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Women's Reproductive Health -->
+      <div class="project-card reveal">
+        <div class="project-number">03 — Health · Research</div>
+        <h3 class="project-title">Women's Reproductive<br>Health Initiative</h3>
+        <p class="project-desc">Research and design work focused on improving digital access to reproductive health resources. Explored how information architecture, plain language, and privacy-first design can reduce barriers for people navigating complex and often stigmatized health needs.</p>
+        <div class="project-tags">
+          <span class="tag">Health Informatics</span>
+          <span class="tag">Privacy Design</span>
+          <span class="tag">User Research</span>
+          <span class="tag">Content Strategy</span>
+        </div>
+      </div>
+
+      <!-- Bloomington -->
+      <div class="project-card reveal">
+        <div class="project-number">04 — Civic Tech · Accessibility</div>
+        <h3 class="project-title">City of Bloomington<br>Digital Accessibility Audit</h3>
+        <p class="project-desc">Audited 10+ municipal websites serving Bloomington residents. Identified compliance failures, built an actionable remediation roadmap, and moved sites from failing to meeting federal accessibility standards — because public services should be for everyone.</p>
+        <div class="project-tags">
+          <span class="tag">WCAG 2.1 AA</span>
+          <span class="tag">WAVE</span>
+          <span class="tag">Axe DevTools</span>
+          <span class="tag">Civic Tech</span>
+        </div>
+        <div class="project-outcomes">
+          <div class="outcome">
+            <span class="outcome-stat">150+</span>
+            <span class="outcome-label">Issues identified</span>
+          </div>
+          <div class="outcome">
+            <span class="outcome-stat">10+</span>
+            <span class="outcome-label">Sites audited</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Photography -->
+  <section id="photography">
+    <div class="container">
+      <div class="section-label reveal">Creative Work</div>
+      <h2 class="section-title reveal">Film<br><em>photography</em></h2>
+      <p class="reveal" style="color: #8a8a88; font-size: 0.9rem; max-width: 500px; margin-bottom: 0;">
+        Deliberate, slow, no undos. Portraits, lifestyle, and street — shot on film under the handle <a href="https://instagram.com/matchaxmoxie" target="_blank" style="color: var(--jade-light); text-decoration: none;">@matchaxmoxie</a>.
+      </p>
+      <div class="photo-grid">
+        <div class="photo-slot">
+          <div class="photo-slot-inner"></div>
+          <img src="../images/uno1.jpg" alt="Film photography" style="width: 100%; height: 100%; object-fit: cover;" />
+        </div>
+        <div class="photo-slot">
+          <div class="photo-slot-inner"></div>
+          <img src="../images/dos2.jpg" alt="Film photography" style="width: 100%; height: 100%; object-fit: cover;" />
+        </div>
+        <div class="photo-slot">
+          <div class="photo-slot-inner"></div>
+          <img src="../images/tres3.jpg" alt="Film photography" style="width: 100%; height: 100%; object-fit: cover;" />
+        </div>
+        <div class="photo-slot">
+          <div class="photo-slot-inner"></div>
+          <img src="../images/cuatro1.jpg" alt="Film photography" style="width: 100%; height: 100%; object-fit: cover;" />
+        </div>
+        <div class="photo-slot">
+          <div class="photo-slot-inner"></div>
+          <img src="../images/cinco2.jpg" alt="Film photography" style="width: 100%; height: 100%; object-fit: cover;" />
+        </div>
+        <div class="photo-slot">
+          <div class="photo-slot-inner"></div>
+          <img src="../images/seis3.jpg" alt="Film photography" style="width: 100%; height: 100%; object-fit: cover;" />
+        </div>
+      </div>
+      <p class="photo-caption">@matchaxmoxie · portraits, lifestyle, Madrid street</p>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact">
+    <div class="container">
+      <div class="contact-inner">
+        <div class="section-label reveal">Get in touch</div>
+        <h2 class="contact-big reveal">
+          Let's build<br>something<br><em>that matters.</em>
+        </h2>
+        <p class="contact-sub reveal">Open to internships, collaborations, and projects with purpose.</p>
+        <a href="mailto:jlzhao@iu.edu" class="contact-email reveal">jlzhao@iu.edu</a>
+        <div class="contact-links reveal">
+          <a href="https://linkedin.com/in/jadexzhao" class="contact-link" target="_blank">LinkedIn</a>
+          <a href="https://github.com/matchaxmoxie" class="contact-link" target="_blank">GitHub</a>
+          <a href="https://instagram.com/matchaxmoxie" class="contact-link" target="_blank">Instagram</a>
+          <a href="../resume.pdf" class="contact-link" target="_blank">Résumé</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <span class="footer-name">Jade Zhao · 2026</span>
+    <span class="footer-chinese">盛放于所在之处 🌱</span>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
