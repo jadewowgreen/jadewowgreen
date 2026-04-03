@@ -1,11 +1,11 @@
     :root {
-      --cream: #F5F0E8;
-      --paper: #EDE8DC;
-      --ink: #1C1C1A;
-      --jade: #CD853F;
-      --jade-light: #E5A071;
-      --dust: #9B8E7E;
-      --warm-white: #FAF8F3;
+      --cream: #F4E6DA;
+      --paper: #EED7C5;
+      --ink: #2F201A;
+      --jade: #C86E43;
+      --jade-light: #E8A07B;
+      --dust: #8F6A56;
+      --warm-white: #FDF3EA;
     }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -178,7 +178,7 @@
     .hero-link:hover { color: var(--jade); }
 
     .hero-right {
-      background: var(--paper);
+      background: linear-gradient(145deg, var(--paper), #e5c8b2);
       position: relative;
       overflow: hidden;
       display: flex;
@@ -442,7 +442,7 @@
 
     .photo-slot {
       aspect-ratio: 4/5;
-      background: #2a2a28;
+      background: #3b2821;
       position: relative;
       overflow: hidden;
       display: flex;
@@ -474,7 +474,7 @@
     .photo-slot-inner {
       position: absolute;
       inset: 0;
-      border: 1px solid #2a2a28;
+      border: 1px solid #3b2821;
       transition: border-color 0.3s;
     }
     .photo-slot:hover .photo-slot-inner { border-color: var(--jade); }
