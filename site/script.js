@@ -2,11 +2,22 @@
 const cursor = document.getElementById('cursor');
 const ring = document.getElementById('cursorRing');
 let mx = 0, my = 0, rx = 0, ry = 0;
+let rafId = null;
 
-if (cursor && ring) {
+const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+const coarsePointer = window.matchMedia('(pointer: coarse)').matches;
+
+if (cursor && ring && !prefersReducedMotion && !coarsePointer) {
   document.addEventListener('mousemove', e => {
-    mx = e.clientX; my = e.clientY;
-    cursor.style.transform = `translate(${mx - 4}px, ${my - 4}px)`;
+    mx = e.clientX;
+    my = e.clientY;
+
+    if (rafId !== null) return;
+
+    rafId = requestAnimationFrame(() => {
+      cursor.style.transform = `translate(${mx - 4}px, ${my - 4}px)`;
+      rafId = null;
+    });
   });
 
   function animateRing() {
@@ -18,8 +29,10 @@ if (cursor && ring) {
 
   animateRing();
 } else {
-  // Avoid invisible pointer if cursor elements are not present on a page.
+  // Avoid extra animation work when unsupported or unnecessary.
   document.body.style.cursor = 'auto';
+  if (cursor) cursor.style.display = 'none';
+  if (ring) ring.style.display = 'none';
 }
 
 // Scroll reveal
