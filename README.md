@@ -2,21 +2,25 @@
 
 first-gen student. photographer. informatics.
 
-this repo is my profile README and the home of my photo diary from Spain.
+this repo is both my profile README and the home of madrid on film.
+
+erasmus is a specific kind of freedom:
+you are technically a student,
+but for the first time you are living fully on your own terms.
 
 ## About Me
 from the US to Madrid, spring 2026.
 
-building things that feel intentional and human.
+i like warm terracotta palettes, intentional interfaces, and copy that sounds like a person.
 
-terracotta tones, film grain, and stories pulled from real days.
+i build from lived moments, not stock vibes.
 
 ## Featured Project: Madrid on Film
 a photo diary built from my own moments across Madrid, Segovia, and Toledo.
 
 ### Highlights
 - personal photos only (no stock imagery)
-- episode-based storytelling from arrival to goodbye
+- episode-based storytelling from arrival to goodbye, including what nobody posts about
 - warm terracotta visual direction with subtle motion and reveal interactions
 
 ### Live Preview
