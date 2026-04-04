@@ -1,43 +1,39 @@
 # Jade Zhao
 
-first-gen student. photographer. informatics.
+First-generation student in informatics, photographer, and builder.
 
-this is my profile README and my photo diary repo.
+This repository is my GitHub profile README and portfolio project space.
 
-## A Quick Intro
-i spent spring 2026 in Spain on erasmus.
+## About
+I documented Spring 2026 in Spain through original photography and web storytelling.
 
-on paper, i was there to study.
-in real life, it felt like learning how to live on my own terms for the first time.
+The main project, Madrid on Film, captures daily life across Madrid, Segovia, and Toledo.
+
+## Live Site
+- Portfolio: https://jadewowgreen.github.io/jadewowgreen/site/
 
 ## Featured Project: Madrid on Film
-an episode-based photo diary built from my own images across madrid, segovia, and toledo.
+- Episode-based photo narrative from arrival to farewell
+- Personal photos only (no stock images)
+- Warm terracotta art direction with lightweight interactions
 
-### Why This Project Exists
-- to document what people do not usually post
-- to keep the small, ordinary moments that end up mattering most
-- to build a personal web space that feels intentional and human
-
-### Live Preview
-- https://jadewowgreen.github.io/jadewowgreen/site/
-
-### Built With
+## Tech Stack
 - HTML
 - CSS
 - Vanilla JavaScript
 
-## Repo Structure
-- index.html - root redirect for GitHub Pages
-- site/index.html - main site copy and page structure
-- site/styles.css - visual system and responsive styling
-- site/script.js - cursor and reveal interactions
-- images/ - image assets
+## Repository Structure
+- index.html - root entry page for GitHub Pages
+- site/index.html - main portfolio page
+- site/styles.css - design system and layout styles
+- site/script.js - custom cursor and reveal effects
+- images/ - photo assets
 - docs/site/ - GitHub Pages-compatible site copy
 
-## Run Locally
-1. Clone this repository.
+## Local Development
+1. Clone the repository.
 2. Open it in VS Code.
-3. Launch index.html or site/index.html with Live Server.
+3. Run index.html or site/index.html with Live Server.
 
 ## Connect
 - Instagram: @j.adezhao
