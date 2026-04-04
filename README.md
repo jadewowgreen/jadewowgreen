@@ -2,7 +2,9 @@
 
 First-generation informatics student. Photographer. Story-driven web builder.
 
-I create personal digital spaces around memory, place, and visual narrative.
+Studying abroad pushes you out of your comfort zone in the best way.
+You learn so much about yourself when you're figuring things out in a new place.
+Every Hoosier deserves to experience that.
 
 ## Quick Links
 - Portfolio: https://jadewowgreen.github.io/jadewowgreen/site/
@@ -16,9 +18,11 @@ This repository serves two purposes:
 
 Madrid on Film is an episode-based photo diary from Spring 2026 in Spain, built from my original photography across Madrid, Segovia, and Toledo.
 
+The central theme throughout the project is growth through discomfort, independence, and self-discovery abroad.
+
 ## Project Highlights
 - Original photography only (no stock images)
-- Editorial-style episodic storytelling
+- Editorial-style episodic storytelling focused on personal growth abroad
 - Warm terracotta visual language
 - Lightweight, handcrafted interactions in vanilla JavaScript
 
