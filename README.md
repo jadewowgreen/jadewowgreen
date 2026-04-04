@@ -1,42 +1,51 @@
 # Jade Zhao
 
-First-generation student in informatics, photographer, and builder.
+First-generation informatics student. Photographer. Story-driven web builder.
 
-This repository is my GitHub profile README and the source for my portfolio project.
+I create personal digital spaces around memory, place, and visual narrative.
 
-Portfolio: https://jadewowgreen.github.io/jadewowgreen/site/
-
-## About
-I documented Spring 2026 in Spain through original photography and web storytelling.
-
-The main project, Madrid on Film, captures daily life across Madrid, Segovia, and Toledo.
-
-## Live Site
+## Quick Links
 - Portfolio: https://jadewowgreen.github.io/jadewowgreen/site/
+- Instagram: https://instagram.com/j.adezhao
+- GitHub: https://github.com/jadewowgreen
 
-## Featured Project: Madrid on Film
-- Episode-based photo narrative from arrival to farewell
-- Personal photos only (no stock images)
-- Warm terracotta art direction with lightweight interactions
+## About This Repo
+This repository serves two purposes:
+- My GitHub profile README
+- The source code for Madrid on Film
 
-## Tech Stack
+Madrid on Film is an episode-based photo diary from Spring 2026 in Spain, built from my original photography across Madrid, Segovia, and Toledo.
+
+## Project Highlights
+- Original photography only (no stock images)
+- Editorial-style episodic storytelling
+- Warm terracotta visual language
+- Lightweight, handcrafted interactions in vanilla JavaScript
+
+## Accessibility, SEO, and Mobile
+- Descriptive alt text is included for all portfolio photos
+- Semantic HTML and social metadata are configured for better SEO sharing
+- Responsive layout is optimized for desktop and mobile screens
+- Keyboard-friendly navigation includes focus states and a skip-to-content link
+
+## Stack
 - HTML
 - CSS
 - Vanilla JavaScript
 
-## Repository Structure
-- index.html - root entry page for GitHub Pages
-- site/index.html - main portfolio page
-- site/styles.css - design system and layout styles
-- site/script.js - custom cursor and reveal effects
+## Repository Map
+- index.html - root landing and redirect page
+- site/index.html - main portfolio experience
+- site/styles.css - visual system and responsive styling
+- site/script.js - cursor and reveal behaviors
 - images/ - photo assets
-- docs/site/ - GitHub Pages-compatible site copy
+- docs/site/ - deployed Pages-compatible copy
 
-## Local Development
+## Run Locally
 1. Clone the repository.
-2. Open it in VS Code.
-3. Run index.html or site/index.html with Live Server.
+2. Open the project in VS Code.
+3. Start index.html or site/index.html with Live Server.
 
-## Connect
+## Contact
 - Instagram: @j.adezhao
 - GitHub: @jadewowgreen
