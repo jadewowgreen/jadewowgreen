@@ -5,7 +5,7 @@ first-gen student, photographer, and builder of cozy web experiences.
 I use this repo as my profile README + a home for my film-inspired study abroad photo project.
 
 ## About Me
-- studying computer science and design-adjacent storytelling
+- studying informatics and design-adjacent storytelling
 - drawn to warm terracotta palettes, calm layouts, and personal narratives
 - currently documenting spring 2026 in Spain through my own photography
 
