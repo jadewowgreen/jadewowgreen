@@ -1,24 +1,26 @@
 # Hi, I'm Jade Zhao
 
-first-gen student, photographer, and builder of cozy web experiences.
+first-gen student. photographer. informatics.
 
-I use this repo as my profile README + a home for my film-inspired study abroad photo project.
+this repo is my profile README and the home of my photo diary from Spain.
 
 ## About Me
-- studying informatics and design-adjacent storytelling
-- drawn to warm terracotta palettes, calm layouts, and personal narratives
-- currently documenting spring 2026 in Spain through my own photography
+from the US to Madrid, spring 2026.
+
+building things that feel intentional and human.
+
+terracotta tones, film grain, and stories pulled from real days.
 
 ## Featured Project: Madrid on Film
-A cute, calm photo diary built from moments across Madrid, Segovia, and Toledo.
+a photo diary built from my own moments across Madrid, Segovia, and Toledo.
 
 ### Highlights
 - personal photos only (no stock imagery)
 - episode-based storytelling from arrival to goodbye
-- warm terracotta visual direction with soft motion and reveal interactions
+- warm terracotta visual direction with subtle motion and reveal interactions
 
 ### Live Preview
-- Portfolio: ./site/
+- Portfolio: https://jadewowgreen.github.io/jadewowgreen/site/
 
 ### Tech Stack
 - HTML
