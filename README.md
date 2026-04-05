@@ -12,19 +12,19 @@ First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 
 
 | Path | Role |
 |------|------|
-| [`site/index.html`](site/index.html) | Main portfolio page |
-| [`site/styles.css`](site/styles.css) | Layout and design system |
-| [`site/script.js`](site/script.js) | Cursor and reveal effects |
-| [`images/`](images/) | Photo assets (referenced from `site/` as `../images/`) |
+| [`index.html`](index.html) | Main portfolio page |
+| [`styles.css`](styles.css) | Layout and design system |
+| [`script.js`](script.js) | Cursor and reveal effects |
+| [`images/`](images/) | Photo assets |
 
 ### GitHub Pages
 
-This repo now publishes from the repository root. Edit `site/` and `images/` only. The old `docs/` mirror is no longer used.
+This repo publishes from the repository root. Edit the files directly in the root.
 
 ## Local preview
 
-1. Open the repo (or this subtree) in your editor.
-2. Serve from repo root (`index.html` redirects to `site/`) or open `site/index.html` (e.g. Live Server, or `python3 -m http.server` from `site/`).
+1. Open the repo in your editor.
+2. Serve from repo root (`index.html`) or open `index.html` (e.g. Live Server, or `python3 -m http.server`).
 
 ## Connect
 
