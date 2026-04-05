@@ -2,7 +2,7 @@
 
 **SP26 subtree:** this folder lives inside the **[SP26 repo](../README.md)** at `jadewowgreen/`. **Edit and commit here**; the **jadewowgreen** GitHub repo and Pages deploy from that mirror, not from the SP26 root alone.
 
-**Live site:** [jadewowgreen.github.io/jadewowgreen/site/](https://jadewowgreen.github.io/jadewowgreen/site/)
+**Live site:** [jadewowgreen.github.io/jadewowgreen/](https://jadewowgreen.github.io/jadewowgreen/)
 
 ## What this is
 
