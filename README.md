@@ -16,23 +16,10 @@ First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 
 | [`site/styles.css`](site/styles.css) | Layout and design system |
 | [`site/script.js`](site/script.js) | Cursor and reveal effects |
 | [`images/`](images/) | Photo assets (referenced from `site/` as `../images/`) |
-| [`docs/`](docs/) | Copy of `site/`, `images/`, and root `index.html` for Pages **only if** the GitHub repo publishes from the **`/docs`** folder |
 
-### GitHub Pages: root vs docs
+### GitHub Pages
 
-If **Settings → Pages → Build and deployment** uses **Folder: `/docs`**, GitHub serves **`docs/site/index.html`** at `…/jadewowgreen/site/`, **not** the root `site/` folder. That is why new episodes can disappear: `docs/` must stay in sync or the page copy will not match your edits.
-
-**Canonical source of truth:** edit `site/` and `images/` only. `docs/` is a deploy mirror for Pages when the source is `/docs`.
-
-**Option A (recommended):** Publish Pages from the repo root (`/`). Then `site/` and `images/` are the only site files needed.
-
-**Option B:** Keep publishing from `/docs`. After every change to `site/` or `images/`, run:
-
-```bash
-./sync-docs-for-pages.sh
-```
-
-Then commit the updated `docs/` and push.
+This repo now publishes from the repository root. Edit `site/` and `images/` only. The old `docs/` mirror is no longer used.
 
 ## Local preview
 
