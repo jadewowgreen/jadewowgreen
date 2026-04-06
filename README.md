@@ -32,4 +32,4 @@ After episode 12, episodes 13 through 20 are listed at the bottom as **coming so
 
 - WeChat: `jadewowgreen`
 - Goodreads: `jadewowgreen`
-- GitHub: [@jadewowgreen](https://github.com/jadewowgreen)
+- GitHub: `jadewowgreen` ([profile](https://github.com/jadewowgreen))
