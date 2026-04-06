@@ -3,6 +3,7 @@ const cursor = document.getElementById('cursor');
 const ring = document.getElementById('cursorRing');
 let mx = 0, my = 0, rx = 0, ry = 0;
 let rafId = null;
+let activeEpisodeId = '';
 
 const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 const coarsePointer = window.matchMedia('(pointer: coarse)').matches;
@@ -16,18 +17,13 @@ if (cursor && ring && !prefersReducedMotion && !coarsePointer) {
 
     rafId = requestAnimationFrame(() => {
       cursor.style.transform = `translate(${mx - 4}px, ${my - 4}px)`;
+      // Move ring in the same frame to avoid a continuous RAF loop.
+      rx += (mx - rx) * 0.14;
+      ry += (my - ry) * 0.14;
+      ring.style.transform = `translate(${rx - 16}px, ${ry - 16}px)`;
       rafId = null;
     });
-  });
-
-  function animateRing() {
-    rx += (mx - rx) * 0.12;
-    ry += (my - ry) * 0.12;
-    ring.style.transform = `translate(${rx - 16}px, ${ry - 16}px)`;
-    requestAnimationFrame(animateRing);
-  }
-
-  animateRing();
+  }, { passive: true });
 } else {
   // Avoid extra animation work when unsupported or unnecessary.
   document.body.style.cursor = 'auto';
@@ -41,9 +37,9 @@ if (prefersReducedMotion) {
   reveals.forEach(el => el.classList.add('visible'));
 } else if ('IntersectionObserver' in window) {
   const observer = new IntersectionObserver(entries => {
-    entries.forEach((entry, i) => {
+    entries.forEach(entry => {
       if (entry.isIntersecting) {
-        setTimeout(() => entry.target.classList.add('visible'), i * 60);
+        entry.target.classList.add('visible');
         observer.unobserve(entry.target);
       }
     });
@@ -128,6 +124,8 @@ function setActiveNav(episodeId) {
 }
 
 function activateEpisode(episodeId) {
+  if (episodeId === activeEpisodeId) return;
+  activeEpisodeId = episodeId;
   const episodeNumber = episodeId.replace('episode', '');
   applyTheme(episodeNumber);
   setActiveNav(episodeId);
@@ -142,15 +140,19 @@ navLinks.forEach(link => {
 
 if ('IntersectionObserver' in window && sections.length > 0) {
   const activeObserver = new IntersectionObserver(entries => {
-    const visible = entries
-      .filter(entry => entry.isIntersecting)
-      .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
+    let topEntry = null;
+    entries.forEach(entry => {
+      if (!entry.isIntersecting) return;
+      if (!topEntry || entry.intersectionRatio > topEntry.intersectionRatio) {
+        topEntry = entry;
+      }
+    });
 
-    if (visible.length > 0) {
-      activateEpisode(visible[0].target.id);
+    if (topEntry) {
+      activateEpisode(topEntry.target.id);
     }
   }, {
-    threshold: [0.4, 0.6],
+    threshold: 0.55,
     rootMargin: '-20% 0px -35% 0px'
   });
 
