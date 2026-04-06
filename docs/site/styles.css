@@ -1,6 +1,7 @@
 :root {
   --bg: #e0f7fa;
   --bg-soft: #b2ebf2;
+  --bg-mid: #a7ffeb;
   --surface: #ffffff;
   --ink: #0d47a1;
   --muted: #546e7a;
@@ -24,9 +25,9 @@
 
 body {
   background:
-    radial-gradient(circle at 8% 10%, rgba(0, 188, 212, 0.16), transparent 40%),
-    radial-gradient(circle at 90% 0%, rgba(0, 151, 167, 0.12), transparent 34%),
-    linear-gradient(160deg, var(--bg) 0%, #a7ffeb 45%, var(--bg-soft) 100%);
+    radial-gradient(circle at 8% 10%, color-mix(in srgb, var(--accent) 16%, transparent), transparent 40%),
+    radial-gradient(circle at 90% 0%, color-mix(in srgb, var(--accent-dark) 12%, transparent), transparent 34%),
+    linear-gradient(160deg, var(--bg) 0%, var(--bg-mid) 45%, var(--bg-soft) 100%);
   color: var(--ink);
   font-family: 'DM Sans', sans-serif;
   line-height: 1.7;
@@ -40,7 +41,7 @@ body::before {
   inset: 0;
   pointer-events: none;
   background-image:
-    radial-gradient(rgba(0, 188, 212, 0.06) 0.7px, transparent 0.7px);
+    radial-gradient(color-mix(in srgb, var(--accent) 10%, transparent) 0.7px, transparent 0.7px);
   background-size: 3px 3px;
   opacity: 0.3;
   z-index: -1;
@@ -81,7 +82,7 @@ nav {
   gap: 1rem;
   padding: 1rem 2rem;
   border-bottom: 1px solid var(--line);
-  background: rgba(224, 247, 250, 0.96);
+  background: color-mix(in srgb, var(--bg) 92%, white 8%);
 }
 
 .nav-logo {
@@ -151,7 +152,7 @@ nav {
   flex-direction: column;
   justify-content: flex-end;
   gap: 1.2rem;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.3), transparent 35%);
+  background: linear-gradient(180deg, color-mix(in srgb, var(--surface) 30%, transparent), transparent 35%);
 }
 
 .hero-eyebrow {
@@ -178,6 +179,31 @@ nav {
 .hero-tagline {
   font-size: 1.05rem;
   color: var(--muted);
+}
+
+.hero-player-wrap {
+  margin-top: 0.25rem;
+  max-width: 560px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 0.45rem;
+  background: color-mix(in srgb, var(--surface) 84%, #000 16%);
+  box-shadow: 0 14px 24px color-mix(in srgb, var(--accent) 16%, transparent);
+}
+
+.hero-player {
+  display: block;
+  width: 100%;
+  border: 0;
+  border-radius: 10px;
+}
+
+.hero-player-note {
+  font-family: 'DM Mono', monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+  color: var(--text-soft);
 }
 
 .hero-chinese {
@@ -211,7 +237,7 @@ nav {
   display: grid;
   place-items: center;
   background:
-    linear-gradient(160deg, rgba(0, 188, 212, 0.2), rgba(255, 255, 255, 0.35)),
+    linear-gradient(160deg, color-mix(in srgb, var(--accent) 20%, transparent), color-mix(in srgb, var(--surface) 35%, transparent)),
     var(--surface);
 }
 
@@ -219,9 +245,9 @@ nav {
   position: absolute;
   inset: 0;
   background-image:
-    radial-gradient(circle at 20% 25%, rgba(0, 188, 212, 0.4) 1px, transparent 1px),
-    radial-gradient(circle at 60% 55%, rgba(0, 151, 167, 0.28) 1px, transparent 1px),
-    radial-gradient(circle at 80% 20%, rgba(0, 188, 212, 0.28) 1px, transparent 1px);
+    radial-gradient(circle at 20% 25%, color-mix(in srgb, var(--accent) 40%, transparent) 1px, transparent 1px),
+    radial-gradient(circle at 60% 55%, color-mix(in srgb, var(--accent-dark) 28%, transparent) 1px, transparent 1px),
+    radial-gradient(circle at 80% 20%, color-mix(in srgb, var(--accent) 28%, transparent) 1px, transparent 1px);
   background-size: 66px 66px, 44px 44px, 88px 88px;
   opacity: 0.35;
 }
@@ -396,9 +422,9 @@ section {
   position: relative;
   overflow: hidden;
   border-radius: 14px;
-  background: #f4e4bc;
+  background: color-mix(in srgb, var(--surface) 72%, var(--accent) 28%);
   aspect-ratio: 4 / 5;
-  box-shadow: 0 10px 14px rgba(0, 188, 212, 0.1);
+  box-shadow: 0 10px 14px color-mix(in srgb, var(--accent) 16%, transparent);
 }
 
 .photo-slot img {
@@ -429,7 +455,7 @@ section {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.8);
+  background: color-mix(in srgb, var(--ink) 65%, black 35%);
   color: white;
   padding: 0.5rem;
   opacity: 0;
@@ -454,32 +480,6 @@ section {
   text-transform: lowercase;
 }
 
-.playlist-section {
-  padding-top: 3.5rem;
-}
-
-.playlist-note {
-  color: var(--text-soft);
-  font-size: 0.9rem;
-  max-width: 560px;
-  margin-bottom: 1.2rem;
-}
-
-.spotify-frame-wrap {
-  border: 1px solid var(--line);
-  background: color-mix(in srgb, var(--surface) 92%, white 8%);
-  border-radius: 16px;
-  padding: 0.75rem;
-  box-shadow: 0 16px 30px color-mix(in srgb, var(--accent) 14%, transparent);
-}
-
-.spotify-frame {
-  display: block;
-  border: 0;
-  border-radius: 12px;
-  width: 100%;
-}
-
 footer {
   border-top: 1px solid var(--line);
   margin-top: 4rem;
@@ -487,7 +487,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: rgba(255, 255, 255, 0.4);
+  background: color-mix(in srgb, var(--surface) 62%, transparent);
 }
 
 .footer-name {
