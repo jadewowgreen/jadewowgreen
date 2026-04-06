@@ -15,9 +15,15 @@ First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 
 | [`index.html`](index.html) | Root entry for GitHub Pages |
 | [`site/index.html`](site/index.html) | Main portfolio page (edit here) |
 | [`site/styles.css`](site/styles.css) | Layout and design system |
-| [`site/script.js`](site/script.js) | Cursor and reveal effects |
+| [`site/script.js`](site/script.js) | Lightweight navigation + hover caption behavior |
 | [`images/`](images/) | Photo assets (referenced from `site/` as `../images/`) |
 | [`docs/`](docs/) | Copy of `site/`, `images/`, and root `index.html` for Pages **only if** the GitHub repo publishes from the **`/docs`** folder |
+
+## Universal Style + Skeleton Quote
+
+> "universal stylesheet + universal skeleton layout, remixed with jade zhao episode energy."
+
+This project now uses a reusable portfolio skeleton (`home`, `about`, `work`, `journey`, `contact`) with a consistent stylesheet system so future projects can drop in without reworking the structure.
 
 ### GitHub Pages: root vs docs
 
