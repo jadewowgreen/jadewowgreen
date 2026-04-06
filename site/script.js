@@ -38,43 +38,7 @@ function ensureHoverCaptions() {
   });
 }
 
-function renderComingSoonPlaceholders() {
-  const grid = document.getElementById('coming-grid');
-  const summary = document.getElementById('coming-summary');
-  if (!grid || !summary) return;
-
-  const currentWeek = 12;
-  const totalWeeks = 20;
-  const weeksLeft = Math.max(0, totalWeeks - currentWeek);
-
-  if (weeksLeft <= 0) {
-    summary.textContent = `this is week ${currentWeek}/${totalWeeks}. complete.`;
-    grid.innerHTML = `
-      <article class="work-card coming-card">
-        <h3>out now</h3>
-        <p>new work can go live any time.</p>
-      </article>
-    `;
-    return;
-  }
-
-  summary.textContent = `this is week ${currentWeek}/${totalWeeks}.`;
-
-  const cards = Array.from({ length: weeksLeft }, (_, i) => {
-    const weekNumber = currentWeek + i + 1;
-    return `
-      <article class="work-card coming-card">
-        <h3>week ${weekNumber}</h3>
-        <p>coming soon</p>
-      </article>
-    `;
-  });
-
-  grid.innerHTML = cards.join('');
-}
-
 ensureHoverCaptions();
-renderComingSoonPlaceholders();
 
 const initial = window.location.hash.replace('#', '');
 setActiveNav(initial && navLinks.some(link => link.getAttribute('href') === `#${initial}`) ? initial : 'home');

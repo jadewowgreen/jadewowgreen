@@ -6,11 +6,11 @@
 
 ## What this is
 
-First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 in Spain (Madrid, Segovia, Toledo, Tenerife). Episode-based narrative with a 20-episode arc (currently 12 published, placeholders through week 20), personal photos only, a **sounds like** line per episode (links open Spotify search for that track), tropical island art direction inspired by Weezer's "Island in the Sun", light vanilla JS.
+First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 in Spain (Madrid, Segovia, Toledo, Tenerife). Episode-based narrative with a 20-episode arc (episodes 13-20 currently marked as coming soon after episode 12), personal photos only, a **sounds like** line per episode (links open Spotify search for that track), tropical island art direction inspired by Weezer's "Island in the Sun", light vanilla JS.
 
 The episode captions are intentionally short and single-line so the text stays calm beside the photo grid.
 
-There is also a dynamic **Coming Soon** section that uses a fixed 20-week timeline and currently displays **week 12/20**, with placeholders for weeks 13 through 20.
+After episode 12, episodes 13 through 20 are listed at the bottom as **coming soon** placeholders.
 
 ## Repository layout
 
@@ -19,7 +19,7 @@ There is also a dynamic **Coming Soon** section that uses a fixed 20-week timeli
 | [`index.html`](index.html) | Root entry for GitHub Pages |
 | [`site/index.html`](site/index.html) | Main portfolio page |
 | [`site/styles.css`](site/styles.css) | Layout and design system |
-| [`site/script.js`](site/script.js) | Lightweight navigation, hover caption behavior, and coming-soon placeholder generation |
+| [`site/script.js`](site/script.js) | Lightweight navigation + hover caption behavior |
 | [`images/`](images/) | Photo assets (referenced from `site/` as `../images/`) |
 
 ## Local preview
