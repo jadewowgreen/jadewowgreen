@@ -293,7 +293,7 @@ section {
 
 section[id^="episode"] > .container {
   display: block;
-  width: min(1180px, 100% - 2.4rem);
+  width: min(1040px, 100% - 2.4rem);
 }
 
 .container {
@@ -317,6 +317,7 @@ section[id^="episode"] > .container {
   font-weight: 500;
   color: var(--ink);
   margin-bottom: 0.9rem;
+  text-wrap: balance;
 }
 
 .section-title em {
@@ -330,6 +331,7 @@ section[id^="episode"] > .container {
   max-width: 60ch;
   margin-bottom: 0.95rem;
   line-height: 1.65;
+  text-wrap: pretty;
 }
 
 .episode-soundtrack {
@@ -384,7 +386,7 @@ section[id^="episode"] > .container {
 }
 
 .photo-grid {
-  margin-top: 0.25rem;
+  margin: 0.25rem auto 0;
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 0.85rem;
@@ -453,7 +455,7 @@ section[id^="episode"] > .container {
 }
 
 .photo-caption {
-  margin-top: 0.95rem;
+  margin: 0.9rem auto 0;
   color: var(--muted);
   font-family: 'DM Mono', monospace;
   font-size: 0.72rem;
