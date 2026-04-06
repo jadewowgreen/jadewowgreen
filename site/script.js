@@ -61,11 +61,12 @@ function renderComingSoonPlaceholders() {
   }
 
   const weeksLeft = Math.max(1, Math.ceil(diff / msPerWeek));
-  const endingWeek = currentWeek + weeksLeft - 1;
-  summary.textContent = `${weeksLeft} week${weeksLeft === 1 ? '' : 's'} until may 29 (week ${currentWeek} to week ${endingWeek}).`;
+  const startWeek = currentWeek + 1;
+  const endingWeek = currentWeek + weeksLeft;
+  summary.textContent = `${weeksLeft} week${weeksLeft === 1 ? '' : 's'} until may 29 (week ${startWeek} to week ${endingWeek}).`;
 
   const cards = Array.from({ length: weeksLeft }, (_, i) => {
-    const weekNumber = currentWeek + i;
+    const weekNumber = startWeek + i;
     return `
       <article class="work-card coming-card">
         <h3>week ${weekNumber}</h3>
