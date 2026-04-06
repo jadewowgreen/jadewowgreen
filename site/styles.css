@@ -130,7 +130,7 @@ nav {
 .nav-links a:hover {
   color: var(--accent-dark);
   border-color: var(--accent);
-  background: rgba(0, 188, 212, 0.12);
+  background: color-mix(in srgb, var(--accent) 18%, transparent);
 }
 
 .nav-links a.active {
@@ -447,7 +447,7 @@ section {
 }
 
 .photo-slot:hover .photo-slot-inner {
-  border-color: rgba(0, 188, 212, 0.8);
+  border-color: color-mix(in srgb, var(--accent) 80%, white 20%);
 }
 
 .photo-hover-caption {
@@ -457,18 +457,39 @@ section {
   right: 0;
   background: color-mix(in srgb, var(--ink) 65%, black 35%);
   color: white;
-  padding: 0.5rem;
+  padding: 0.6rem 0.68rem 0.64rem;
   opacity: 0;
-  transition: opacity 0.3s ease;
+  transform: translateY(12px);
+  transition: opacity 0.28s ease, transform 0.28s ease;
   font-size: 0.75rem;
-  text-align: center;
-  font-style: italic;
+  text-align: left;
   font-family: 'DM Sans', sans-serif;
   line-height: 1.4;
+  pointer-events: none;
 }
 
 .photo-slot:hover .photo-hover-caption {
   opacity: 1;
+  transform: translateY(0);
+}
+
+.photo-slot:focus-within .photo-hover-caption {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.photo-hover-line-main {
+  margin: 0;
+  font-style: italic;
+  letter-spacing: 0.01em;
+}
+
+.photo-hover-line-meta {
+  margin: 0.25rem 0 0;
+  font-family: 'DM Mono', monospace;
+  font-size: 0.64rem;
+  letter-spacing: 0.07em;
+  color: color-mix(in srgb, white 82%, var(--accent) 18%);
 }
 
 .photo-caption {
@@ -556,5 +577,13 @@ footer {
     gap: 0.6rem;
     text-align: center;
     padding: 1rem;
+  }
+}
+
+@media (hover: none) {
+  .photo-hover-caption {
+    opacity: 1;
+    transform: none;
+    background: color-mix(in srgb, var(--ink) 58%, transparent);
   }
 }
