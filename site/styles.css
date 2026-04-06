@@ -479,7 +479,18 @@ section[id^="episode"] > .container {
   line-height: 1.6;
   letter-spacing: 0.08em;
   text-transform: lowercase;
-  max-width: var(--copy-width);
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 820px) {
+  .photo-caption {
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+  }
 }
 
 footer {
