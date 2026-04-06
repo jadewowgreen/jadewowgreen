@@ -31,26 +31,10 @@
 }
 
 body {
-  background:
-    radial-gradient(circle at 8% 10%, color-mix(in srgb, var(--accent) 16%, transparent), transparent 40%),
-    radial-gradient(circle at 90% 0%, color-mix(in srgb, var(--accent-dark) 12%, transparent), transparent 34%),
-    linear-gradient(160deg, var(--bg) 0%, var(--bg-mid) 45%, var(--bg-soft) 100%);
+  background: var(--bg);
   color: var(--ink);
   font-family: 'DM Sans', sans-serif;
   line-height: 1.7;
-  transition: color 0.22s ease;
-}
-
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  background-image:
-    radial-gradient(color-mix(in srgb, var(--accent) 10%, transparent) 0.7px, transparent 0.7px);
-  background-size: 3px 3px;
-  opacity: 0.22;
-  z-index: -1;
 }
 
 nav {
@@ -63,7 +47,7 @@ nav {
   gap: 1rem;
   padding: 1rem 2rem;
   border-bottom: 1px solid var(--line);
-  background: color-mix(in srgb, var(--bg) 92%, white 8%);
+  background: var(--surface);
 }
 
 .nav-logo {
@@ -133,7 +117,7 @@ nav {
   flex-direction: column;
   justify-content: flex-end;
   gap: 1.2rem;
-  background: linear-gradient(180deg, color-mix(in srgb, var(--surface) 30%, transparent), transparent 35%);
+  background: var(--surface);
 }
 
 .hero-eyebrow {
@@ -217,20 +201,11 @@ nav {
   position: relative;
   display: grid;
   place-items: center;
-  background:
-    linear-gradient(160deg, color-mix(in srgb, var(--accent) 20%, transparent), color-mix(in srgb, var(--surface) 35%, transparent)),
-    var(--surface);
+  background: color-mix(in srgb, var(--surface) 92%, var(--bg) 8%);
 }
 
 .hero-botanical {
-  position: absolute;
-  inset: 0;
-  background-image:
-    radial-gradient(circle at 20% 25%, color-mix(in srgb, var(--accent) 40%, transparent) 1px, transparent 1px),
-    radial-gradient(circle at 60% 55%, color-mix(in srgb, var(--accent-dark) 28%, transparent) 1px, transparent 1px),
-    radial-gradient(circle at 80% 20%, color-mix(in srgb, var(--accent) 28%, transparent) 1px, transparent 1px);
-  background-size: 66px 66px, 44px 44px, 88px 88px;
-  opacity: 0.35;
+  display: none;
 }
 
 .hero-right-content {
