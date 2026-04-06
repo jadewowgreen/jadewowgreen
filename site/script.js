@@ -43,6 +43,7 @@ function renderComingSoonPlaceholders() {
   const summary = document.getElementById('coming-summary');
   if (!grid || !summary) return;
 
+  const currentWeek = 12;
   const now = new Date();
   const target = new Date('2026-05-29T23:59:59');
   const msPerWeek = 7 * 24 * 60 * 60 * 1000;
@@ -60,10 +61,11 @@ function renderComingSoonPlaceholders() {
   }
 
   const weeksLeft = Math.max(1, Math.ceil(diff / msPerWeek));
-  summary.textContent = `${weeksLeft} week${weeksLeft === 1 ? '' : 's'} until may 29.`;
+  const endingWeek = currentWeek + weeksLeft - 1;
+  summary.textContent = `${weeksLeft} week${weeksLeft === 1 ? '' : 's'} until may 29 (week ${currentWeek} to week ${endingWeek}).`;
 
   const cards = Array.from({ length: weeksLeft }, (_, i) => {
-    const weekNumber = i + 1;
+    const weekNumber = currentWeek + i;
     return `
       <article class="work-card coming-card">
         <h3>week ${weekNumber}</h3>

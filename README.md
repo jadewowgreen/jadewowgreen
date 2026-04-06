@@ -10,7 +10,7 @@ First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 
 
 The episode captions are intentionally short and single-line so the text stays calm beside the photo grid.
 
-There is also a dynamic **Coming Soon** section that auto-generates one placeholder card per week remaining until **May 29, 2026**.
+There is also a dynamic **Coming Soon** section that auto-generates one placeholder card per week remaining until **May 29, 2026**, continuing from the current week number (currently week 12).
 
 ## Repository layout
 
