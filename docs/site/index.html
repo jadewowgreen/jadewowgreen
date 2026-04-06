@@ -27,27 +27,20 @@
 </head>
 <body>
 
-  <nav aria-label="Episode navigation">
+  <nav aria-label="Site navigation">
     <a href="#" class="nav-logo">jade zhao · madrid</a>
     <ul class="nav-links">
-      <li><a href="#episode1">episode 1</a></li>
-      <li><a href="#episode2">episode 2</a></li>
-      <li><a href="#episode3">episode 3</a></li>
-      <li><a href="#episode4">episode 4</a></li>
-      <li><a href="#episode5">episode 5</a></li>
-      <li><a href="#episode6">episode 6</a></li>
-      <li><a href="#episode7">episode 7</a></li>
-      <li><a href="#episode8">episode 8</a></li>
-      <li><a href="#episode9">episode 9</a></li>
-      <li><a href="#episode10">episode 10</a></li>
-      <li><a href="#episode11">episode 11</a></li>
-      <li><a href="#episode12">episode 12</a></li>
+      <li><a href="#home">home</a></li>
+      <li><a href="#about">about</a></li>
+      <li><a href="#work">work</a></li>
+      <li><a href="#journey">journey</a></li>
+      <li><a href="#contact">contact</a></li>
     </ul>
   </nav>
 
   <main id="main-content">
   <!-- Hero -->
-  <section class="hero">
+  <section class="hero" id="home">
     <div class="hero-left">
       <div class="hero-eyebrow">studying abroad pushes you out of your comfort zone.</div>
       <h1 class="hero-name">
@@ -90,30 +83,68 @@
     </div>
   </section>
 
+  <section id="about" class="portfolio-section">
+    <div class="container about-grid">
+      <div>
+        <p class="section-label">about</p>
+        <h2 class="section-title">jade zhao,<br><em>creative storyteller</em></h2>
+      </div>
+      <div>
+        <p class="section-lead">i build calm, photo-first digital stories around identity, place, and memory. madrid on film is my anchor project: a 12-episode visual diary built from studying abroad.</p>
+        <p class="section-lead">this site keeps my personal vibe, but now uses a universal portfolio structure that can grow with new projects, writing, and experiments.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="work" class="portfolio-section portfolio-section-soft">
+    <div class="container">
+      <p class="section-label">featured work</p>
+      <h2 class="section-title">portfolio<br><em>highlights</em></h2>
+      <div class="work-grid">
+        <article class="work-card">
+          <h3>Madrid On Film</h3>
+          <p>12-episode photo diary with soundtrack pairings, custom hover captions, and editorial storytelling.</p>
+        </article>
+        <article class="work-card">
+          <h3>Visual Storytelling</h3>
+          <p>photo sequencing, caption writing, and mood-based layouts focused on calm, emotionally clear narratives.</p>
+        </article>
+        <article class="work-card">
+          <h3>Creative Toolkit</h3>
+          <p>html, css, vanilla js, github pages, light performance optimization, and content-first interface design.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="journey" class="portfolio-section journey-intro">
+    <div class="container">
+      <p class="section-label">journey</p>
+      <h2 class="section-title">episode archive<br><em>spring 2026</em></h2>
+      <p class="section-lead">the full madrid on film sequence stays intact below: 12 episodes, 48 photos, and the personal captions that shaped the semester.</p>
+    </div>
+  </section>
+
   <!-- Episode 1 -->
   <section id="episode1">
     <div class="container">
-      <div class="section-label reveal">episode 1</div>
-      <h2 class="section-title reveal">the part before<br><em>the good part</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 1</div>
+      <h2 class="section-title">the part before<br><em>the good part</em></h2>
+      <p class="section-lead">
         first week: jet-lagged, underdressed, and pretending i wasn't overwhelmed.
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> holocene · bon iver</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> holocene · bon iver</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/uno1.jpg" alt="Looking up at ornate cream-coloured apartment buildings with iron balconies on a sunny Madrid street." title="i didn't know what kind of city this was yet. i just kept looking up.&#10;gran vía · enero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/uno2.jpg" alt="Rooftop view of a Madrid residential neighbourhood with a Spanish flag, apartment blocks, and large white clouds against a blue sky." title="first week. kept stopping for puddles.&#10;palacio real · enero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/uno3.jpg" alt="Ornate black iron gates of the Palacio Real reflected in a rain puddle on the plaza, visitors walking nearby, Madrid." title="bigger than expected. most things here were.&#10;catedral de la almudena · enero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/uno4.jpg" alt="The neoclassical facade of Almudena Cathedral with twin dark spires against a dramatic cloudy sky, Madrid." title="the view from somewhere i hadn't made home yet.&#10;barrio de salamanca · enero 2026" />
         </div>
       </div>
@@ -124,27 +155,23 @@
   <!-- Episode 2 -->
   <section id="episode2">
     <div class="container">
-      <div class="section-label reveal">episode 2</div>
-      <h2 class="section-title reveal">your sign<br><em>to go</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 2</div>
+      <h2 class="section-title">your sign<br><em>to go</em></h2>
+      <p class="section-lead">
         one yes. no plan. complete leap of faith.
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> run away with me · carly rae jepsen</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> run away with me · carly rae jepsen</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/dos1.jpg" alt="Gothic brick church entrance with ornate stone archway, rain-wet stone steps and plaza in the foreground, Madrid." title="everything is wet. i don't care.&#10;iglesia de los jerónimos · enero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/dos2.jpg" alt="Street-level view of Gran Vía crowded with pedestrians, historic early 20th-century buildings and a winged bronze statue on a rooftop, Madrid." title="louder than i expected. i liked it immediately.&#10;gran vía · enero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/dos3.jpg" alt="Stone statue on a plinth at Plaza de España with the Torre de España skyscraper rising behind it against a grey sky, Madrid." title="this city keeps doing that thing where old and new just exist next to each other.&#10;plaza de españa · enero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/dos4.jpg" alt="Red-brick facade of the Museo del Prado with a no-dogs sign in the foreground and a lone figure walking past, Madrid." title="no dogs. (noted.)&#10;museo del prado · enero 2026" />
         </div>
       </div>
@@ -155,27 +182,23 @@
   <!-- Episode 3 -->
   <section id="episode3">
     <div class="container">
-      <div class="section-label reveal">episode 3</div>
-      <h2 class="section-title reveal">what nobody<br><em>posts about</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 3</div>
+      <h2 class="section-title">what nobody<br><em>posts about</em></h2>
+      <p class="section-lead">
         homesick days. lonely days. the week you almost went home.
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> homesick · noah kahan</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> homesick · noah kahan</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/tres1.jpg" alt="Multi-storey Zara storefront glowing at blue hour, wet street reflecting traffic lights, Madrid." title="walking in the rain again. still fine.&#10;calle de goya · febrero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/tres2.jpg" alt="The painted frescoed facade of Casa de la Panadería at Plaza Mayor bathed in golden afternoon light, Madrid and Community flags below, Spain." title="stood here longer than a tourist would.&#10;plaza mayor · febrero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/tres3.jpg" alt="Upward view between ornate Belle Époque buildings with curved facades and iron balconies on a central Madrid street." title="found this walking nowhere in particular.&#10;gran vía · febrero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/tres4.jpg" alt="The facade of the Royal Palace of Madrid with ornate stone carvings and a large clock tower against a clear blue sky." title="the city has whole histories i'll never fully know.&#10;centro histórico · febrero 2026" />
         </div>
       </div>
@@ -186,27 +209,23 @@
   <!-- Episode 4 -->
   <section id="episode4">
     <div class="container">
-      <div class="section-label reveal">episode 4</div>
-      <h2 class="section-title reveal">not<br><em>barcelona</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 4</div>
+      <h2 class="section-title">not<br><em>barcelona</em></h2>
+      <p class="section-lead">
         everyone asked why madrid. nobody accepted "it felt right."
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> this must be the place · talking heads</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> this must be the place · talking heads</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/cuatro1.jpg" alt="Morning light filtering through trees in Retiro Park, Madrid." title="went for a walk. didn't know where.&#10;parque del retiro · febrero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/cuatro2.jpg" alt="Urban textures of weathered stone walls and iron railings in central Madrid." title="stayed too long. that's fine.&#10;río manzanares · febrero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/cuatro3.jpg" alt="Sunrise over the Manzanares River with modern bridges in the background." title="technically studying. mostly just existing.&#10;biblioteca de la uam · febrero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/cuatro4.jpg" alt="Empty plaza at dawn with historic buildings casting long shadows." title="the walk home i did a hundred times.&#10;moncloa · febrero 2026" />
         </div>
       </div>
@@ -217,27 +236,23 @@
   <!-- Episode 5 -->
   <section id="episode5">
     <div class="container">
-      <div class="section-label reveal">episode 5</div>
-      <h2 class="section-title reveal">third choice,<br><em>first love</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 5</div>
+      <h2 class="section-title">third choice,<br><em>first love</em></h2>
+      <p class="section-lead">
         third choice. backup plan. total accident.
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> home · edward sharpe and the magnetic zeros</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> home · edward sharpe and the magnetic zeros</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/cinco1.jpg" alt="Narrow alleyway with colorful graffiti and hanging laundry in Malasaña district." title="stood here for ten minutes. couldn't stop looking through it.&#10;puerta de bisagra · toledo · febrero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/cinco2.jpg" alt="Evening light on a quiet residential street with parked bicycles." title="didn't expect it to look like a painting. it did.&#10;toledo · desde el otro lado del tajo · febrero 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/cinco3.jpg" alt="Historic doorways and wrought iron gates in an old Madrid neighborhood." title="madrid from the window. still counts.&#10;ejército del aire · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/cinco4.jpg" alt="Sunset over the rooftops with television antennas silhouetted against orange sky." title="didn't plan it. just looked up.&#10;calle de bravo murillo · marzo 2026" />
         </div>
       </div>
@@ -248,27 +263,23 @@
   <!-- Episode 6 -->
   <section id="episode6">
     <div class="container">
-      <div class="section-label reveal">episode 6</div>
-      <h2 class="section-title reveal">calmer<br><em>here</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 6</div>
+      <h2 class="section-title">calmer<br><em>here</em></h2>
+      <p class="section-lead">
         slower mornings. longer coffees. no rushing.
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> put your records on · corinne bailey rae</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> put your records on · corinne bailey rae</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/seis1.jpg" alt="Colorful fruit and vegetable stalls at Mercado de San Miguel." title="didn't plan to be up here. stayed until it was dark.&#10;azotea del círculo de bellas artes · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/seis2.jpg" alt="Fresh seafood display with ice and shellfish at a local market." title="looked up again. always looking up.&#10;gran vía · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/seis3.jpg" alt="Artisanal cheeses and cured meats hanging in a traditional deli." title="the view from somewhere i slept a lot.&#10;moncloa · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/seis4.jpg" alt="Outdoor café tables with people enjoying tapas and conversation." title="it's just there. in the middle of the road. very madrid.&#10;arco de la victoria · marzo 2026" />
         </div>
       </div>
@@ -279,27 +290,23 @@
   <!-- Episode 7 -->
   <section id="episode7">
     <div class="container">
-      <div class="section-label reveal">episode 7</div>
-      <h2 class="section-title reveal">what a<br><em>privilege</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 7</div>
+      <h2 class="section-title">what a<br><em>privilege</em></h2>
+      <p class="section-lead">
         first-gen kid. far from home. standing in the rain in madrid.
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> ribs · lorde</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> ribs · lorde</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/siete1.jpg" alt="Rain-slicked streets reflecting neon signs and traffic lights." title="kept finding things by looking up.&#10;calle del arenal · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/siete2.jpg" alt="Wet cobblestones in Plaza Mayor with umbrella-carrying pedestrians." title="every erasmus student takes this photo. i took this photo.&#10;puerta del sol · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/siete3.jpg" alt="Reflections of historic architecture in rain puddles." title="this is where the semester lives in my memory.&#10;puerta del sol · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/siete4.jpg" alt="Overcast sky over the Royal Palace with rain clouds." title="madrid is also this. not just the old stuff.&#10;paseo de la castellana · marzo 2026" />
         </div>
       </div>
@@ -310,27 +317,23 @@
   <!-- Episode 8 -->
   <section id="episode8">
     <div class="container">
-      <div class="section-label reveal">episode 8</div>
-      <h2 class="section-title reveal">we met on<br><em>erasmus (it counts)</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 8</div>
+      <h2 class="section-title">we met on<br><em>erasmus (it counts)</em></h2>
+      <p class="section-lead">
         met in a kitchen. bonded in three days. friends forever probably.
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> we are young · fun.</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> we are young · fun.</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/ocho1.jpg" alt="Illuminated fountains at night in a central plaza." title="found this by accident. almost walked past it.&#10;museo de historia de madrid · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/ocho2.jpg" alt="Crowded bars and restaurants along a lit-up street." title="went somewhere official. felt very not-student for an hour.&#10;rtve · ciudad de la imagen · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/ocho3.jpg" alt="Theatre marquees and billboards glowing in the evening." title="didn't go in. stood outside for a while though.&#10;gran vía · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/ocho4.jpg" alt="Night view of the Puerta del Sol with digital screens." title="i don't stay here. i just like looking in.&#10;gran vía 84 · marzo 2026" />
         </div>
       </div>
@@ -341,27 +344,23 @@
   <!-- Episode 9 -->
   <section id="episode9">
     <div class="container">
-      <div class="section-label reveal">episode 9</div>
-      <h2 class="section-title reveal">no more<br><em>madrid</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 9</div>
+      <h2 class="section-title">no more<br><em>madrid</em></h2>
+      <p class="section-lead">
         last coffee. last walk. last time pretending it wasn't the last.
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> the night we met · lord huron</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> the night we met · lord huron</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/nueve1.jpg" alt="Lush greenery and walking paths in Retiro Park." title="found this. didn't need to. went back twice.&#10;mercado de san miguel · abril 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/nueve2.jpg" alt="Crystal Palace structure surrounded by trees." title="erasmus meal. €3 each. no notes.&#10;100 montaditos · abril 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/nueve3.jpg" alt="Boats on the lake with people rowing in the background." title="a slow tuesday. the best kind.&#10;malasaña · abril 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/nueve4.jpg" alt="Statues and monuments dotted throughout the park." title="the city said good morning. i believed it.&#10;panadería · abril 2026" />
         </div>
       </div>
@@ -372,27 +371,23 @@
   <!-- Episode 10 -->
   <section id="episode10">
     <div class="container">
-      <div class="section-label reveal">episode 10</div>
-      <h2 class="section-title reveal">still here,<br><em>already grieving</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 10</div>
+      <h2 class="section-title">still here,<br><em>already grieving</em></h2>
+      <p class="section-lead">
         still living it. already missing it. both things true.
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> august · taylor swift</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> august · taylor swift</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/diez1.jpg" alt="Intricate stone carvings on a historic building facade." title="built in 50 AD. i've been here four months. both feel significant somehow.&#10;acueducto de segovia · abril 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/diez2.jpg" alt="Ornate ironwork on balconies and windows." title="spent a long time looking at this one.&#10;alcázar de segovia · abril 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/diez3.jpg" alt="Modern glass buildings contrasting with old stone structures." title="everyone up here is quiet.&#10;torre de la catedral · segovia · abril 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/diez4.jpg" alt="Detailed view of a cathedral's stained glass windows." title="bigger than i expected. most things here are.&#10;catedral de segovia · abril 2026" />
         </div>
       </div>
@@ -403,27 +398,23 @@
   <!-- Episode 11 -->
   <section id="episode11">
     <div class="container">
-      <div class="section-label reveal">episode 11</div>
-      <h2 class="section-title reveal">bloom where<br><em>you are</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 11</div>
+      <h2 class="section-title">bloom where<br><em>you are</em></h2>
+      <p class="section-lead">
         arrived unsure. left softer. left louder. left more myself.
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> bloom · troye sivan</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> bloom · troye sivan</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/once1.jpg" alt="Sunset over the city skyline from a high vantage point." title="ordered the same thing every time. comforting.&#10;starbucks moncloa · abril 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/once2.jpg" alt="Empty streets at dawn, capturing the quiet before the day begins." title="the last one of these. didn't know it yet.&#10;starbucks moncloa · abril 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/once3.jpg" alt="Final walk through familiar neighborhoods." title="spain starbucks hits different. this is a fact.&#10;starbucks · abril 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/once4.jpg" alt="Madrid's flag waving against a clear blue sky." title="i was very into cafes by this point. obviously.&#10;starbucks moncloa · abril 2026" />
         </div>
       </div>
@@ -434,27 +425,23 @@
   <!-- Episode 12 -->
   <section id="episode12">
     <div class="container">
-      <div class="section-label reveal">episode 12</div>
-      <h2 class="section-title reveal">tenerife,<br><em>no notes</em></h2>
-      <p class="section-lead reveal">
+      <div class="section-label">episode 12</div>
+      <h2 class="section-title">tenerife,<br><em>no notes</em></h2>
+      <p class="section-lead">
         one week. no wifi. completely unserious.
       </p>
-      <p class="episode-soundtrack reveal"><span class="episode-soundtrack-kicker">sounds like</span> island in the sun · weezer</p>
+      <p class="episode-soundtrack"><span class="episode-soundtrack-kicker">sounds like</span> island in the sun · weezer</p>
       <div class="photo-grid">
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/doce1.jpg" alt="Street view in Tenerife with white buildings and palm trees under bright skies." title="same country. completely different planet.&#10;plaza de la iglesia · tenerife · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/doce2.jpg" alt="Historic architecture in La Orotava, Tenerife with cinematic mountain light." title="stumbled into what felt like a film set.&#10;ayuntamiento de la orotava · tenerife · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/doce3.jpg" alt="Coastal scene in Puerto de la Cruz, Tenerife with waves and volcanic textures." title="she's been here longer than any of us.&#10;puerto de la cruz · tenerife · marzo 2026" />
         </div>
         <div class="photo-slot">
-          <div class="photo-slot-inner"></div>
           <img loading="lazy" decoding="async" src="../images/doce4.jpg" alt="Atlantic cliffs in Tenerife at golden hour with ocean horizon beyond." title="first time seeing the atlantic. didn't tell anyone it was my first time.&#10;acantilados · tenerife · marzo 2026" />
         </div>
       </div>
@@ -463,6 +450,18 @@
   </section>
 
   </main>
+
+  <section id="contact" class="portfolio-section portfolio-section-soft">
+    <div class="container contact-block">
+      <p class="section-label">contact</p>
+      <h2 class="section-title">let's make<br><em>something meaningful</em></h2>
+      <p class="section-lead">open to creative collaborations, storytelling projects, and internships.</p>
+      <div class="hero-links">
+        <a href="https://instagram.com/j.adezhao" class="hero-link" target="_blank" rel="noopener noreferrer">instagram</a>
+        <a href="https://github.com/jadewowgreen" class="hero-link" target="_blank" rel="noopener noreferrer">github</a>
+      </div>
+    </div>
+  </section>
 
   <footer>
     <span class="footer-name">@j.adezhao · madrid on film · 2026</span>
