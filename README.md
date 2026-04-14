@@ -6,11 +6,11 @@
 
 ## What this is
 
-First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 in Spain (Madrid, Segovia, Toledo, Tenerife). Episode-based narrative with a 20-episode arc (episodes 1-12 live, episodes 13-20 marked as coming soon), personal photos only, a **sounds like** line per episode (links open Spotify search for that track), tropical island art direction inspired by Weezer's "Island in the Sun", light vanilla JS.
+First-generation informatics student portfolio: **Madrid on Film**, Spring 2026 in Spain (Madrid, Segovia, Toledo, Tenerife). Episode-based narrative with a 20-episode arc (episodes 1-14 live, episodes 15-20 marked as coming soon), personal photos only, a **sounds like** line per episode, tropical island art direction inspired by Weezer's "Island in the Sun", light vanilla JS.
 
 The episode captions are intentionally short and single-line so the text stays calm beside the photo grid.
 
-After episode 12, episodes 13 through 20 are listed at the bottom as **coming soon** placeholders.
+After episode 14, episodes 15 through 20 are listed at the bottom as **coming soon** placeholders.
 
 ## Repository layout
 
