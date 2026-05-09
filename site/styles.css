@@ -1,14 +1,16 @@
 :root {
-  --bg: #f8ede3;
-  --bg-soft: #f2dfce;
-  --bg-mid: #f4dcbf;
-  --surface: #fff7f1;
-  --ink: #2f1f18;
-  --muted: #7a5a48;
-  --accent: #c96f47;
-  --accent-dark: #9f4d2f;
-  --line: rgba(95, 56, 37, 0.16);
-  --text-soft: #8a8a88;
+  --bg: #f5fafc;
+  --bg-soft: #eef6f9;
+  --bg-mid: #e8f2f6;
+  --surface: #fcfefe;
+  --ink: #1a2332;
+  --muted: #556b7f;
+  --accent: #5ba3f5;
+  --accent-dark: #3d7fd4;
+  --accent-light: #a8d5ba;
+  --accent-warm: #d4a574;
+  --line: rgba(59, 127, 212, 0.12);
+  --text-soft: #7a8fa3;
   --page-gutter: 2.4rem;
   --page-gutter-mobile: 1.2rem;
   --content-width: 1180px;
@@ -21,8 +23,8 @@
   --hero-copy-width: 56ch;
   --radius-panel: 14px;
   --radius-card: 12px;
-  --shadow-soft: 0 8px 11px color-mix(in srgb, var(--accent) 13%, transparent);
-  --shadow-embed: 0 6px 12px color-mix(in srgb, var(--accent) 8%, transparent);
+  --shadow-soft: 0 8px 11px color-mix(in srgb, var(--accent) 10%, transparent);
+  --shadow-embed: 0 6px 12px color-mix(in srgb, var(--accent) 6%, transparent);
   --focus-ring: 2px solid var(--accent);
   --transition-fast: 0.2s ease;
 }
