@@ -299,8 +299,8 @@ section {
   object-fit: cover;
   object-position: center top;
   border: 0;
-  box-shadow: none;
-  border-radius: 0;
+  box-shadow: var(--shadow-soft);
+  border-radius: var(--radius-panel);
   background: var(--bg-mid);
 }
 
