@@ -286,6 +286,23 @@ section {
   align-items: start;
 }
 
+.about-portrait {
+  width: min(100%, 340px);
+  margin: 1.5rem 0 0;
+}
+
+.about-portrait img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center top;
+  border: 0;
+  box-shadow: none;
+  border-radius: 0;
+  background: var(--bg-mid);
+}
+
 .work-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
