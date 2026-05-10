@@ -1,16 +1,16 @@
 :root {
-  --bg: #f5fafc;
-  --bg-soft: #eef6f9;
-  --bg-mid: #e8f2f6;
-  --surface: #fcfefe;
-  --ink: #1a2332;
-  --muted: #556b7f;
-  --accent: #5ba3f5;
-  --accent-dark: #3d7fd4;
-  --accent-light: #a8d5ba;
-  --accent-warm: #d4a574;
-  --line: rgba(59, 127, 212, 0.12);
-  --text-soft: #7a8fa3;
+  --bg: #f5f0e8;
+  --bg-soft: #efe7dc;
+  --bg-mid: #e5d9cb;
+  --surface: #fbf7f1;
+  --ink: #2e2924;
+  --muted: #6c6258;
+  --accent: #6f8392;
+  --accent-dark: #465565;
+  --accent-light: #a5b19a;
+  --accent-warm: #d6c0a5;
+  --line: rgba(70, 85, 101, 0.14);
+  --text-soft: #7c746b;
   --page-gutter: 2.4rem;
   --page-gutter-mobile: 1.2rem;
   --content-width: 1180px;
@@ -51,7 +51,8 @@
 body {
   background: var(--bg);
   color: var(--ink);
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
   line-height: 1.65;
 }
 
@@ -71,7 +72,7 @@ nav {
 .nav-logo {
   text-decoration: none;
   color: var(--ink);
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.35rem;
   font-weight: 600;
   letter-spacing: 0.04em;
@@ -149,7 +150,7 @@ nav {
 }
 
 .hero-name {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: clamp(3rem, 9vw, 6.5rem);
   line-height: 0.98;
   font-weight: 500;
@@ -196,7 +197,7 @@ nav {
 }
 
 .hero-chinese {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   letter-spacing: 0.18em;
   color: var(--accent-dark);
   margin-top: 0.1rem;
@@ -318,7 +319,7 @@ section {
 
 .work-card h3 {
   margin: 0 0 0.45rem;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.35rem;
 }
 
@@ -357,7 +358,7 @@ section[id^="episode"] > .container {
 }
 
 .section-title {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: clamp(2.1rem, 5vw, 4rem);
   line-height: 1.04;
   font-weight: 500;
@@ -422,7 +423,7 @@ section[id^="episode"] > .container {
 
 .episode-pullquote p {
   margin: 0;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: clamp(1.05rem, 2.2vw, 1.35rem);
   font-style: italic;
   font-weight: 500;
@@ -470,7 +471,7 @@ section[id^="episode"] > .container {
   transition: opacity var(--transition-fast), transform var(--transition-fast);
   font-size: 0.75rem;
   text-align: left;
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1.4;
   pointer-events: none;
 }
@@ -502,7 +503,8 @@ section[id^="episode"] > .container {
 .photo-caption {
   margin: 0.8rem auto 0;
   color: var(--muted);
-  font-family: 'DM Mono', monospace;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
   font-size: 0.72rem;
   line-height: 1.6;
   letter-spacing: 0.08em;
@@ -532,7 +534,8 @@ footer {
 }
 
 .footer-name {
-  font-family: 'DM Mono', monospace;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
   font-size: 0.68rem;
   color: var(--muted);
   letter-spacing: 0.08em;
